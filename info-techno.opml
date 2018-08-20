@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 19 Aug 2018 22:23:10 +0200</dateCreated>
+    <dateCreated>Mon, 20 Aug 2018 19:42:46 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -175,6 +175,7 @@
         <outline text="Tiny Tiny RSS: Community - Latest posts" type="rss" xmlUrl="https://discourse.tt-rss.org/posts.rss"/>
         <outline text="WordPress News" type="rss" xmlUrl="https://wordpress.org/news/feed/"/>
         <outline text="Blogs on Grafana Labs Blog" type="rss" xmlUrl="https://grafana.com/blog/blog/index.xml"/>
+        <outline text="Wekan Blog" type="rss" xmlUrl="https://blog.wekan.team/feed/index.html"/>
       </outline>
     </outline>
     <outline text="Data">
@@ -205,6 +206,18 @@
       <outline text="nixCraft" type="rss" xmlUrl="https://www.cyberciti.biz/feed/"/>
       <outline text="How-To Geek" type="rss" xmlUrl="https://feeds.howtogeek.com/HowToGeek"/>
       <outline text="Howtoforge Linux Howtos und Tutorials" type="rss" xmlUrl="https://www.howtoforge.com/feed.rss"/>
+      <outline text="HowTo Wared" type="rss" xmlUrl="https://howto.wared.fr/feed/"/>
+      <outline text="Blog - Hackaday" type="rss" xmlUrl="https://hackaday.com/blog/feed/"/>
+      <outline text="Xonay Labs | Michael Teeuw" type="rss" xmlUrl="http://michaelteeuw.nl/rss"/>
+      <outline text="Dangerous Prototypes" type="rss" xmlUrl="http://dangerousprototypes.com/blog/feed/"/>
+      <outline text="Open Electronics" type="rss" xmlUrl="https://www.open-electronics.org/feed/"/>
+      <outline text="Les cours du BTSSIO" type="rss" xmlUrl="http://cours.btssio.ac-limoges.fr/cours/feed.php"/>
+      <outline text="Wikifab Blog" type="rss" xmlUrl="http://blog.wikifab.org/feed/"/>
+      <outline text="SEMAGEEK : Actualités High Tech, Robot, Électronique, DIY et Arduino" type="rss" xmlUrl="http://www.semageek.com/feed/"/>
+      <outline text="Hackster Blog - Medium" type="rss" xmlUrl="https://blog.hackster.io/feed"/>
+      <outline text="Howtoforge Linux Howtos und Tutorials" type="rss" xmlUrl="https://www.howtoforge.com/feed.rss"/>
+      <outline text="Wiki ubuntu-fr" type="rss" xmlUrl="https://doc.ubuntu-fr.org/feed.php"/>
+      <outline text="ArchWiki  - Recent changes [en]" type="atom" xmlUrl="https://wiki.archlinux.org/index.php?title=Special:RecentChanges&amp;feed=atom"/>
     </outline>
     <outline text="FabLab">
       <outline text="Ordinateurs mono-carte">
@@ -229,22 +242,15 @@
         <outline text="Les évènements du Fab Lab - La Fabrique ENSAM" type="rss" xmlUrl="https://lafabrique.montpellier.archi.fr/rss/events.xml"/>
       </outline>
       <outline text="Capteurs et composants"/>
-      <outline text="Code &amp; tutos">
-        <outline text="Xonay Labs | Michael Teeuw" type="rss" xmlUrl="http://michaelteeuw.nl/rss"/>
-        <outline text="Blog - Hackaday" type="rss" xmlUrl="https://hackaday.com/blog/feed/"/>
-        <outline text="Dangerous Prototypes" type="rss" xmlUrl="http://dangerousprototypes.com/blog/feed/"/>
-        <outline text="Open Electronics" type="rss" xmlUrl="https://www.open-electronics.org/feed/"/>
-        <outline text="Les cours du BTSSIO" type="rss" xmlUrl="http://cours.btssio.ac-limoges.fr/cours/feed.php"/>
-        <outline text="Wikifab Blog" type="rss" xmlUrl="http://blog.wikifab.org/feed/"/>
-        <outline text="SEMAGEEK : Actualités High Tech, Robot, Électronique, DIY et Arduino" type="rss" xmlUrl="http://www.semageek.com/feed/"/>
-        <outline text="Hackster Blog - Medium" type="rss" xmlUrl="https://blog.hackster.io/feed"/>
-      </outline>
       <outline text="Labs">
         <outline text="Recent research notes on PublicLab.org" type="rss" xmlUrl="https://publiclab.org/feed.rss"/>
         <outline text="Makery" type="rss" xmlUrl="http://www.makery.info/feed/"/>
         <outline text="LABSud" type="rss" xmlUrl="https://www.labsud.org/feed/"/>
         <outline text="Le BIB : hackerspace à Montpellier" type="rss" xmlUrl="https://lebib.org/rss.xml"/>
         <outline text="RFFLabs" type="rss" xmlUrl="http://www.fablab.fr/feed/"/>
+      </outline>
+      <outline text="Electronique">
+        <outline text="Réseau des Electroniciens du CNRS" type="rss" xmlUrl="https://www.electroniciens.cnrs.fr/feed/"/>
       </outline>
     </outline>
     <outline text="Agrotic">
@@ -395,6 +401,8 @@
           <outline text="EDUSCOL Innover et expérimenter" type="rss" xmlUrl="http://eduscol.education.fr/rid471/innover-et-experimenter.rss?xtdate=20160926"/>
           <outline text="EDUCSOL Actualités du numérique" type="rss" xmlUrl="http://eduscol.education.fr/rid1121/actualites-du-numerique.rss?xtdate=20160926"/>
           <outline text="EDUCSOL Agenda" type="rss" xmlUrl="http://eduscol.education.fr/rid321/l-agenda-du-site.rss?xtdate=20160926"/>
+          <outline text="Les dernières actualités" type="rss" xmlUrl="http://www.educagri.fr/rss_actu.xml"/>
+          <outline text="L'agenda" type="rss" xmlUrl="http://www.educagri.fr/rss_agenda.xml"/>
         </outline>
         <outline text="Mooc">
           <outline text="Derniers cours publiés sur FUN" type="rss" xmlUrl="https://www.fun-mooc.fr/cours/feed/"/>
