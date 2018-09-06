@@ -1,2 +1,2 @@
 # opml
-Fichiers à importer dans un lecteur RSS
+Fichiers .opml à importer dans un lecteur RSS
