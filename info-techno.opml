@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Thu, 06 Sep 2018 21:30:01 +0200</dateCreated>
+    <dateCreated>Sun, 23 Sep 2018 16:10:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -33,7 +33,7 @@
     </outline>
     <outline text="Sécurité informatique">
       <outline text="News">
-        <outline text="Data Security Breach" type="rss" xmlUrl="http://www.datasecuritybreach.fr/feed/"/>
+        <outline text="Data Security Breach" type="rss" xmlUrl="https://www.datasecuritybreach.fr/feed/"/>
         <outline text="ZATAZ" type="rss" xmlUrl="https://www.zataz.com/feed/"/>
         <outline text="DZone Security Zone" type="rss" xmlUrl="http://feeds.dzone.com/security"/>
         <outline text="InfoRiskToday.com  RSS Syndication" type="rss" xmlUrl="http://feeds.feedburner.com/inforisktoday/com"/>
@@ -75,6 +75,7 @@
         <outline text="Kali Linux" type="rss" xmlUrl="https://www.kali.org/feed/"/>
         <outline text="Let's Encrypt - Free SSL/TLS Certificates" type="rss" xmlUrl="https://letsencrypt.org/feed.xml"/>
         <outline text="Namecoin" type="rss" xmlUrl="https://www.namecoin.org/feed.rss"/>
+        <outline text="Enigmail - News" type="rss" xmlUrl="https://www.enigmail.net/index.php/en/home/news?format=feed&amp;type=rss"/>
       </outline>
       <outline text="Alertes">
         <outline text="Les derniers documents du CERT-FR." type="rss" xmlUrl="https://www.cert.ssi.gouv.fr/feed/"/>
@@ -87,7 +88,6 @@
         <outline text="SecurityFocus Vulnerabilities" type="rss" xmlUrl="http://www.securityfocus.com/rss/vulnerabilities.xml"/>
         <outline text="National Vulnerability Database" type="rss" xmlUrl="https://nvd.nist.gov/download/nvd-rss.xml"/>
         <outline text="SecuriTeam" type="rss" xmlUrl="http://www.securiteam.com/securiteam.rss"/>
-        <outline text="Check Point Update Services Advisories" type="rss" xmlUrl="https://www.checkpoint.com/defense/advisories/public/smartdefense_atomz.xml/"/>
         <outline text="Exploit-DB Updates" type="rss" xmlUrl="https://www.exploit-db.com/rss.xml"/>
         <outline text="Latest Security Advisories" type="rss" xmlUrl="https://technet.microsoft.com/en-us/security/rss/advisory"/>
       </outline>
@@ -109,6 +109,8 @@
       </outline>
       <outline text="Guides">
         <outline text="Recent Commits to itpol:master" type="atom" xmlUrl="https://github.com/lfit/itpol/commits/master.atom"/>
+        <outline text="Agence nationale de la sécurité des systèmes d'information" type="rss" xmlUrl="https://www.ssi.gouv.fr/feed/guide/"/>
+        <outline text="Nouvel abonnement" type="rss" xmlUrl="https://guide.boum.org/recentchanges/index.rss"/>
       </outline>
     </outline>
     <outline text="Internet"/>
@@ -145,6 +147,7 @@
       <outline text="Opensource.com" type="rss" xmlUrl="https://opensource.com/feed"/>
       <outline text="Open Source - Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/open-source"/>
       <outline text="NoobsLab | Ubuntu/Linux News, Reviews, Tutorials, Apps" type="rss" xmlUrl="https://feeds.feedburner.com/noobslab"/>
+      <outline text="ASWF" type="rss" xmlUrl="https://www.aswf.io/feed/"/>
       <outline text="Desktop">
         <outline text="The Firefox Frontier" type="rss" xmlUrl="https://blog.mozilla.org/firefox/feed/"/>
         <outline text="Chromium Blog" type="atom" xmlUrl="https://blog.chromium.org/atom.xml"/>
@@ -277,6 +280,9 @@
       <outline text="Forum SIG - Systèmes d'Information Géographique et Géomatique" type="rss" xmlUrl="http://www.forumsig.org/external.php?type=RSS2"/>
       <outline text="Actualites" type="rss" xmlUrl="https://www.theia-land.fr/fr/rss.xml"/>
     </outline>
+    <outline text="Imagerie">
+      <outline text="PyImageSearch" type="rss" xmlUrl="http://feeds.feedburner.com/Pyimagesearch"/>
+    </outline>
     <outline text="Ebooks">
       <outline text="Recent Commits to free-programming-books:master" type="atom" xmlUrl="https://github.com/EbookFoundation/free-programming-books/commits/master.atom"/>
       <outline text="DevFreeBooks" type="rss" xmlUrl="http://feeds.feedburner.com/DevFreeBooks"/>
@@ -332,7 +338,7 @@
         <outline text="CNES" type="rss" xmlUrl="https://cnes.fr/fr/feed"/>
         <outline text="CIRAD Actualités" type="rss" xmlUrl="https://www.cirad.fr/rss/cirad-actualites-news"/>
         <outline text="CIRAD Agenda" type="rss" xmlUrl="https://www.cirad.fr/rss/cirad-agenda-events"/>
-        <outline text="CIRAD Emplois" type="rss" xmlUrl="https://www.cirad.fr/rss/cirad-emplois-jobs"/>
+        <outline text="CIRAD - Actualités / News" type="rss" xmlUrl="https://www.cirad.fr/rss/cirad-actualites-news"/>
         <outline text="CIRAD - Actualités / News" type="rss" xmlUrl="https://www.cirad.fr/rss/cirad-actualites-news"/>
         <outline text="IFREMER Actualités" type="rss" xmlUrl="https://wwz.ifremer.fr/feed/institut_actualites"/>
         <outline text="IFREMER Postes" type="rss" xmlUrl="https://wwz.ifremer.fr/feed/institut_postes"/>
@@ -419,11 +425,16 @@
           <outline text="Nouvel abonnement" type="rss" xmlUrl="http://resinfo.org/spip.php?page=backend"/>
           <outline text="RENATER" type="rss" xmlUrl="https://www.renater.fr/backend.php?id_rubrique="/>
           <outline text="Actualités" type="rss" xmlUrl="https://www.cvt-allenvi.fr/actualites?format=feed&amp;type=rss"/>
+          <outline text="Labex Cemeb" type="rss" xmlUrl="http://www.labex-cemeb.org/fr/rss.xml"/>
         </outline>
       </outline>
       <outline text="Innovation">
         <outline text="rss" type="rss" xmlUrl="http://www.transferts-lr.org/rss.xml"/>
       </outline>
     </outline>
+    <outline text="FABLAB" type="newsbin" cacheLimit="unlimited"/>
+    <outline text="SECURITE" type="newsbin" cacheLimit="unlimited"/>
+    <outline text="TUTOS" type="newsbin"/>
+    <outline text="OPEN SOURCE" type="newsbin"/>
   </body>
 </opml>
