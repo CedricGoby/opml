@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 24 Sep 2018 21:36:01 +0200</dateCreated>
+    <dateCreated>Tue, 25 Sep 2018 21:36:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -189,11 +189,14 @@
         <outline text="South Green" type="rss" xmlUrl="http://www.southgreen.fr/rss.xml"/>
         <outline text="genotoul-bioinfo" type="rss" xmlUrl="http://bioinfo.genotoul.fr/index.php/feed/"/>
       </outline>
-      <outline text="Archivage"/>
+      <outline text="Archivage">
+        <outline text="HAL Documentation" type="rss" xmlUrl="https://doc.archives-ouvertes.fr/feed/"/>
+      </outline>
       <outline text="OpenData">
         <outline text="Dernières réutilisations" type="atom" xmlUrl="https://www.data.gouv.fr/fr/reuses/recent.atom"/>
         <outline text="Derniers jeux de données" type="atom" xmlUrl="https://www.data.gouv.fr/fr/datasets/recent.atom"/>
         <outline text="Open Data - Montpellier Méditerranée Métropole - La démarche &#xAB; Open Data &#xBB; mutualisée de Montpellier Méditerranée Métropole" type="rss" xmlUrl="https://data.montpellier3m.fr/rss.xml"/>
+        <outline text="RDA RSS" type="rss" xmlUrl="https://rd-alliance.org/rss.xml"/>
       </outline>
       <outline text="Data - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/topics/data/feed.atom"/>
       <outline text="News" type="rss" xmlUrl="https://www.elixir-europe.org/feeds/news.xml"/>
@@ -426,6 +429,8 @@
           <outline text="RENATER" type="rss" xmlUrl="https://www.renater.fr/backend.php?id_rubrique="/>
           <outline text="Actualités" type="rss" xmlUrl="https://www.cvt-allenvi.fr/actualites?format=feed&amp;type=rss"/>
           <outline text="Labex Cemeb" type="rss" xmlUrl="http://www.labex-cemeb.org/fr/rss.xml"/>
+          <outline text="CCSD" type="rss" xmlUrl="https://www.ccsd.cnrs.fr/feed/"/>
+          <outline text="CCSD" type="rss" xmlUrl="https://www.ccsd.cnrs.fr/feed/"/>
         </outline>
       </outline>
       <outline text="Innovation">
