@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Tue, 25 Sep 2018 21:36:01 +0200</dateCreated>
+    <dateCreated>Wed, 26 Sep 2018 21:36:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -30,6 +30,8 @@
       <outline text="Computerworld" type="rss" xmlUrl="https://www.computerworld.com/index.rss"/>
       <outline text="Make Tech Easier" type="rss" xmlUrl="http://feeds.maketecheasier.com/MakeTechEasier"/>
       <outline text="Motherboard" type="rss" xmlUrl="https://motherboard.vice.com/en_us/rss"/>
+      <outline text="Réseau"/>
+      <outline text="Environnement"/>
     </outline>
     <outline text="Sécurité informatique">
       <outline text="News">
@@ -197,6 +199,7 @@
         <outline text="Derniers jeux de données" type="atom" xmlUrl="https://www.data.gouv.fr/fr/datasets/recent.atom"/>
         <outline text="Open Data - Montpellier Méditerranée Métropole - La démarche &#xAB; Open Data &#xBB; mutualisée de Montpellier Méditerranée Métropole" type="rss" xmlUrl="https://data.montpellier3m.fr/rss.xml"/>
         <outline text="RDA RSS" type="rss" xmlUrl="https://rd-alliance.org/rss.xml"/>
+        <outline text="OpenAIRE - News" type="rss" xmlUrl="https://www.openaire.eu/news-events/feed/rss/"/>
       </outline>
       <outline text="Data - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/topics/data/feed.atom"/>
       <outline text="News" type="rss" xmlUrl="https://www.elixir-europe.org/feeds/news.xml"/>
