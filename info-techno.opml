@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 03 Oct 2018 13:24:01 +0200</dateCreated>
+    <dateCreated>Thu, 04 Oct 2018 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -267,6 +267,7 @@
         <outline text="Le BIB : hackerspace à Montpellier" type="rss" xmlUrl="https://lebib.org/rss.xml"/>
         <outline text="RFFLabs" type="rss" xmlUrl="http://www.fablab.fr/feed/"/>
         <outline text="My Human Kit" type="rss" xmlUrl="https://myhumankit.org/feed/"/>
+        <outline text="Learning Lab Network" type="rss" xmlUrl="https://www.learninglab-network.com/feed/"/>
       </outline>
       <outline text="Electronique">
         <outline text="Réseau des Electroniciens du CNRS" type="rss" xmlUrl="https://www.electroniciens.cnrs.fr/feed/"/>
@@ -435,6 +436,7 @@
           <outline text="Labex Cemeb" type="rss" xmlUrl="http://www.labex-cemeb.org/fr/rss.xml"/>
           <outline text="CCSD" type="rss" xmlUrl="https://www.ccsd.cnrs.fr/feed/"/>
           <outline text="CCSD" type="rss" xmlUrl="https://www.ccsd.cnrs.fr/feed/"/>
+          <outline text="Montpellier Université d&#x2019;Excellence" type="rss" xmlUrl="http://muse.edu.umontpellier.fr/feed/"/>
         </outline>
       </outline>
       <outline text="Innovation">
