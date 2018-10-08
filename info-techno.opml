@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sat, 06 Oct 2018 13:24:01 +0200</dateCreated>
+    <dateCreated>Mon, 08 Oct 2018 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -108,11 +108,12 @@
         <outline text="CYBERCRiME-TRACKER.NET" type="rss" xmlUrl="http://cybercrime-tracker.net/rss.xml"/>
         <outline text="DNS-BH - Malware Domain Blocklist by RiskAnalytics" type="rss" xmlUrl="http://www.malwaredomains.com/?feed=rss2"/>
         <outline text="Yes We Hack : Vulnerability Disclosure through Coordination" type="rss" xmlUrl="https://blog.yeswehack.com/feed/"/>
+        <outline text="Nouvel abonnement" xmlUrl="https://www.open-scap.org/home/feed/"/>
       </outline>
       <outline text="Guides">
         <outline text="Recent Commits to itpol:master" type="atom" xmlUrl="https://github.com/lfit/itpol/commits/master.atom"/>
         <outline text="Agence nationale de la sécurité des systèmes d'information" type="rss" xmlUrl="https://www.ssi.gouv.fr/feed/guide/"/>
-        <outline text="Nouvel abonnement" type="rss" xmlUrl="https://guide.boum.org/recentchanges/index.rss"/>
+        <outline text="Boum" type="rss" xmlUrl="https://guide.boum.org/recentchanges/index.rss"/>
       </outline>
     </outline>
     <outline text="Internet"/>
