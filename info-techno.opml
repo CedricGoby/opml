@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 08 Oct 2018 13:24:01 +0200</dateCreated>
+    <dateCreated>Tue, 09 Oct 2018 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -338,7 +338,7 @@
         <outline text="IRD - Toute l'actualité" type="rss" xmlUrl="https://www.ird.fr/toute-l-actualite/(view_mode)/rss"/>
         <outline text="IRSTEA" type="rss" xmlUrl="http://www.irstea.fr/actualites-rss"/>
         <outline text="INED A la Une" type="rss" xmlUrl="http://www.ined.fr/fr/actualites/une-tout-public/flux-1/format-RRS2.0"/>
-        <outline text="Nouvel abonnement" type="rss" xmlUrl="https://www.inserm.fr/rss/informative-documents"/>
+        <outline text="Salle de presse | Inserm" type="atom" xmlUrl="https://presse.inserm.fr/feed/atom/"/>
       </outline>
       <outline text="EPIC">
         <outline text="CINES - Evénements" type="rss" xmlUrl="https://www.cines.fr/category/evenements/feed/"/>
@@ -435,7 +435,6 @@
           <outline text="RENATER" type="rss" xmlUrl="https://www.renater.fr/backend.php?id_rubrique="/>
           <outline text="Actualités" type="rss" xmlUrl="https://www.cvt-allenvi.fr/actualites?format=feed&amp;type=rss"/>
           <outline text="Labex Cemeb" type="rss" xmlUrl="http://www.labex-cemeb.org/fr/rss.xml"/>
-          <outline text="CCSD" type="rss" xmlUrl="https://www.ccsd.cnrs.fr/feed/"/>
           <outline text="CCSD" type="rss" xmlUrl="https://www.ccsd.cnrs.fr/feed/"/>
           <outline text="Montpellier Université d&#x2019;Excellence" type="rss" xmlUrl="http://muse.edu.umontpellier.fr/feed/"/>
         </outline>
