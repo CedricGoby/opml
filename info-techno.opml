@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Tue, 09 Oct 2018 13:24:01 +0200</dateCreated>
+    <dateCreated>Wed, 10 Oct 2018 13:24:02 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -245,9 +245,11 @@
           <outline text="Raspbian-France" type="rss" xmlUrl="https://raspbian-france.fr/feed/"/>
           <outline text="The MagPi Magazine" type="rss" xmlUrl="https://www.raspberrypi.org/magpi/feed/"/>
         </outline>
+        <outline text="MCHobby - Le Blog" type="atom" xmlUrl="https://arduino103.blogspot.com/feeds/posts/default"/>
       </outline>
       <outline text="IoT">
         <outline text="DZone IoT Zone" type="rss" xmlUrl="http://feeds.dzone.com/iot"/>
+        <outline text="Smart Cities : Toute l'actualité sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/smart-cities/rss_full.xml"/>
         <outline text="Software">
           <outline text="node-red.github.io" type="atom" xmlUrl="https://nodered.org/feed.xml"/>
         </outline>
@@ -443,7 +445,7 @@
         <outline text="rss" type="rss" xmlUrl="http://www.transferts-lr.org/rss.xml"/>
       </outline>
     </outline>
-    <outline text="FABLAB" type="newsbin" cacheLimit="unlimited"/>
+    <outline text="FABLAB" type="newsbin" sortReversed="false" cacheLimit="unlimited"/>
     <outline text="SECURITE" type="newsbin" cacheLimit="unlimited"/>
     <outline text="TUTOS" type="newsbin" cacheLimit="unlimited"/>
     <outline text="OPEN SOURCE" type="newsbin" cacheLimit="unlimited"/>
