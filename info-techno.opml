@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Thu, 11 Oct 2018 13:24:01 +0200</dateCreated>
+    <dateCreated>Fri, 12 Oct 2018 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -232,6 +232,7 @@
       <outline text="Howtoforge Linux Howtos und Tutorials" type="rss" xmlUrl="https://www.howtoforge.com/feed.rss"/>
       <outline text="Wiki ubuntu-fr" type="rss" xmlUrl="https://doc.ubuntu-fr.org/feed.php"/>
       <outline text="ArchWiki  - Recent changes [en]" type="atom" xmlUrl="https://wiki.archlinux.org/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+      <outline text="SmartHomeBeginner" type="rss" xmlUrl="https://www.smarthomebeginner.com/feed/"/>
     </outline>
     <outline text="FabLab">
       <outline text="Ordinateurs mono-carte">
