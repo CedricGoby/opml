@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 15 Oct 2018 13:24:01 +0200</dateCreated>
+    <dateCreated>Tue, 16 Oct 2018 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -20,16 +20,8 @@
       <outline text="Silicon" type="rss" xmlUrl="https://www.silicon.fr/feed"/>
       <outline text="Flux général Developpez" type="rss" xmlUrl="https://www.developpez.com/index/rss"/>
       <outline text="Korben" type="rss" xmlUrl="https://korben.info/feed"/>
-      <outline text="malekal's site" type="rss" xmlUrl="https://www.malekal.com/feed/"/>
       <outline text="Fing.org" type="rss" xmlUrl="http://feeds2.feedburner.com/fing/actu"/>
       <outline text="The Register" type="atom" xmlUrl="http://www.theregister.co.uk/headlines.atom"/>
-      <outline text="Motherboard RSS Feed" type="rss" xmlUrl="https://motherboard.vice.com/rss?trk_source=motherboard"/>
-      <outline text="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index?format=xml"/>
-      <outline text="TechCrunch" type="rss" xmlUrl="https://feeds.feedburner.com/TechCrunch/"/>
-      <outline text="New Atlas" type="rss" xmlUrl="https://feeds.feedblitz.com/newatlas"/>
-      <outline text="Computerworld" type="rss" xmlUrl="https://www.computerworld.com/index.rss"/>
-      <outline text="Make Tech Easier" type="rss" xmlUrl="http://feeds.maketecheasier.com/MakeTechEasier"/>
-      <outline text="Motherboard" type="rss" xmlUrl="https://motherboard.vice.com/en_us/rss"/>
       <outline text="Réseau"/>
       <outline text="Environnement"/>
     </outline>
@@ -48,6 +40,7 @@
       </outline>
       <outline text="Blogs">
         <outline text="cyberland.centerblog.net - Les derniers articles publiés" type="rss" xmlUrl="http://cyberland.centerblog.net/rss.rss"/>
+        <outline text="ITrust.fr" type="rss" xmlUrl="https://www.itrust.fr/feed/"/>
         <outline text="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"/>
         <outline text="Securelist - Information about Viruses, Hackers and Spam" type="rss" xmlUrl="https://securelist.com/feed/"/>
         <outline text="HACKMAGEDDON" type="rss" xmlUrl="https://www.hackmageddon.com/feed/"/>
@@ -55,43 +48,27 @@
         <outline text="Shodan Blog" type="rss" xmlUrl="https://blog.shodan.io/rss/"/>
         <outline text="Security - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/topics/security/feed.atom"/>
         <outline text="Sucuri Blog" type="rss" xmlUrl="https://blog.sucuri.net/feed"/>
-        <outline text="Microsoft Secure Blog" type="rss" xmlUrl="https://blogs.microsoft.com/microsoftsecure/feed/"/>
         <outline text="TaoSecurity" type="rss" xmlUrl="https://taosecurity.blogspot.com/feeds/posts/default?alt=rss"/>
         <outline text="Trend Micro Simply Security" type="rss" xmlUrl="https://feeds.feedburner.com/TrendMicroSimplySecurity"/>
         <outline text="McAfee Labs - McAfee Blogs" type="rss" xmlUrl="https://securingtomorrow.mcafee.com/category/mcafee-labs/feed/"/>
         <outline text="Mozilla Security Blog" type="rss" xmlUrl="https://blog.mozilla.org/security/feed/"/>
         <outline text="Talos Blog" type="rss" xmlUrl="https://feeds.feedburner.com/feedburner/Talos"/>
-        <outline text="Snort Blog" type="rss" xmlUrl="http://feeds.feedburner.com/Snort"/>
         <outline text="Threat Research - Cisco Blog" type="rss" xmlUrl="http://feeds.feedburner.com/CiscoBlogThreatResearch"/>
         <outline text="SANS Digital Forensics and Incident Response Blog" type="rss" xmlUrl="https://digital-forensics.sans.org/blog/feed/"/>
         <outline text="SANS Penetration Testing" type="rss" xmlUrl="https://pen-testing.sans.org/blog/feed/"/>
         <outline text="AppSec Street Fighter - SANS Institute" type="rss" xmlUrl="https://software-security.sans.org/blog/feed/"/>
         <outline text="SANS Industrial Control Systems Security Blog" type="rss" xmlUrl="https://ics.sans.org/blog/feed/"/>
         <outline text="Cyber Defense" type="rss" xmlUrl="https://cyber-defense.sans.org/blog/feed/"/>
-        <outline text="ITrust.fr" type="rss" xmlUrl="https://www.itrust.fr/feed/"/>
         <outline text="BleepingComputer" type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/"/>
       </outline>
       <outline text="Logiciels">
+        <outline text="Snort Blog" type="rss" xmlUrl="http://feeds.feedburner.com/Snort"/>
         <outline text="Tails - News" type="rss" xmlUrl="https://tails.boum.org/news/index.en.rss"/>
         <outline text="KeePassX" type="rss" xmlUrl="https://www.keepassx.org/feed"/>
         <outline text="Kali Linux" type="rss" xmlUrl="https://www.kali.org/feed/"/>
         <outline text="Let's Encrypt - Free SSL/TLS Certificates" type="rss" xmlUrl="https://letsencrypt.org/feed.xml"/>
         <outline text="Namecoin" type="rss" xmlUrl="https://www.namecoin.org/feed.rss"/>
         <outline text="Enigmail - News" type="rss" xmlUrl="https://www.enigmail.net/index.php/en/home/news?format=feed&amp;type=rss"/>
-      </outline>
-      <outline text="Alertes">
-        <outline text="Les derniers documents du CERT-FR." type="rss" xmlUrl="https://www.cert.ssi.gouv.fr/feed/"/>
-        <outline text="Portail Sécurité des Systèmes d'Information" type="rss" xmlUrl="https://services.renater.fr/ssi/feed.php"/>
-        <outline text="US-CERT Alerts" type="rss" xmlUrl="https://www.us-cert.gov/ncas/alerts.xml"/>
-        <outline text="LinuxSecurity.com - Security Advisories" type="rss" xmlUrl="http://www.linuxsecurity.com/static-content/linuxsecurity_advisories.rss"/>
-        <outline text="Threatpost | Web security" type="rss" xmlUrl="https://threatpost.com/category/web-security/feed/"/>
-        <outline text="Threatpost | Vulnerabilities" type="rss" xmlUrl="https://threatpost.com/category/vulnerabilities/feed/"/>
-        <outline text="Full Disclosure" type="rss" xmlUrl="https://seclists.org/rss/fulldisclosure.rss"/>
-        <outline text="SecurityFocus Vulnerabilities" type="rss" xmlUrl="http://www.securityfocus.com/rss/vulnerabilities.xml"/>
-        <outline text="National Vulnerability Database" type="rss" xmlUrl="https://nvd.nist.gov/download/nvd-rss.xml"/>
-        <outline text="SecuriTeam" type="rss" xmlUrl="http://www.securiteam.com/securiteam.rss"/>
-        <outline text="Exploit-DB Updates" type="rss" xmlUrl="https://www.exploit-db.com/rss.xml"/>
-        <outline text="Latest Security Advisories" type="rss" xmlUrl="https://technet.microsoft.com/en-us/security/rss/advisory"/>
       </outline>
       <outline text="Sites officiels">
         <outline text="Agence nationale de la sécurité des systèmes d'information" type="rss" xmlUrl="http://www.ssi.gouv.fr/feed/actualite/"/>
@@ -105,7 +82,6 @@
         <outline text="SANS Internet Storm Center, InfoCON: green" type="rss" xmlUrl="https://isc.sans.edu/rssfeed.xml"/>
         <outline text="VirusTotal Blog" type="atom" xmlUrl="https://blog.virustotal.com/feeds/posts/default"/>
         <outline text="abuse.ch | IT-Security Blog" type="rss" xmlUrl="https://abuse.ch/rss/"/>
-        <outline text="CYBERCRiME-TRACKER.NET" type="rss" xmlUrl="http://cybercrime-tracker.net/rss.xml"/>
         <outline text="DNS-BH - Malware Domain Blocklist by RiskAnalytics" type="rss" xmlUrl="http://www.malwaredomains.com/?feed=rss2"/>
         <outline text="Yes We Hack : Vulnerability Disclosure through Coordination" type="rss" xmlUrl="https://blog.yeswehack.com/feed/"/>
         <outline text="Nouvel abonnement" xmlUrl="https://www.open-scap.org/home/feed/"/>
@@ -135,8 +111,8 @@
         <outline text="Planète des utilisateurs Debian" type="rss" xmlUrl="http://planet-fr.debian.net/users/rss20.xml"/>
       </outline>
     </outline>
-    <outline text="Logiciel libre">
-      <outline text="Framasoft - Toute l'actualité" type="rss" xmlUrl="https://rss.framasoft.org/"/>
+    <outline text="Open source">
+      <outline text="Framablog" type="rss" xmlUrl="https://framablog.org/feed/"/>
       <outline text="Actualités - adullact.org" type="rss" xmlUrl="https://adullact.org/breves?format=feed&amp;type=rss"/>
       <outline text="AFUL - Communiqués et nouvelles" type="rss" xmlUrl="https://aful.org/rss"/>
       <outline text="April" type="rss" xmlUrl="https://www.april.org/fr/rss.xml"/>
@@ -146,11 +122,21 @@
       <outline text="Smile, le Blog des Experts" type="rss" xmlUrl="http://blog.smile.fr/rss/feed/blog"/>
       <outline text="FSF News" type="rss" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml"/>
       <outline text="Free Software Directory - New" type="rss" xmlUrl="https://directory.fsf.org/wiki/Special%3AAsk/-5B-5BSubmitted-20date%3A%3A+-5D-5D/mainlabel=/limit=50/order=descending/sort=Submitted-20date/offset=0/format=rss/searchlabel=New-20packages-20RSS-20feed/title=Free-20Software-20Directory/description=Recent-20updates-20to-20Free-20Software-20Directory-20(directory.fsf.org)"/>
-      <outline text="Free Software Directory - Updates" type="rss" xmlUrl="https://directory.fsf.org/wiki/Special%3AAsk/-5B-5BLast-20review-20date%3A%3A+-5D-5D/mainlabel=/limit=50/order=descending/sort=Last-20review-20date/offset=0/format=rss/searchlabel=Recent-20updates-20RSS-20feed/title=Free-20Software-20Directory/description=Recent-20updates-20to-20Free-20Software-20Directory-20(directory.fsf.org)"/>
       <outline text="Opensource.com" type="rss" xmlUrl="https://opensource.com/feed"/>
       <outline text="Open Source - Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/open-source"/>
       <outline text="NoobsLab | Ubuntu/Linux News, Reviews, Tutorials, Apps" type="rss" xmlUrl="https://feeds.feedburner.com/noobslab"/>
-      <outline text="ASWF" type="rss" xmlUrl="https://www.aswf.io/feed/"/>
+      <outline text="Territoire Numérique Libre" type="rss" xmlUrl="https://territoire-numerique-libre.org/feed/"/>
+    </outline>
+    <outline text="Logiciels">
+      <outline text="Free Software Directory - Updates" type="rss" xmlUrl="https://directory.fsf.org/wiki/Special%3AAsk/-5B-5BLast-20review-20date%3A%3A+-5D-5D/mainlabel=/limit=50/order=descending/sort=Last-20review-20date/offset=0/format=rss/searchlabel=Recent-20updates-20RSS-20feed/title=Free-20Software-20Directory/description=Recent-20updates-20to-20Free-20Software-20Directory-20(directory.fsf.org)"/>
+      <outline text="Serveur">
+        <outline text="Fab Manager" type="rss" xmlUrl="https://www.fab-manager.com/feed/"/>
+        <outline text="Mahara Community - News - All posts" type="atom" xmlUrl="https://mahara.org/interaction/forum/atom.php?type=f&amp;id=1"/>
+        <outline text="Tiny Tiny RSS: Community - Latest posts" type="rss" xmlUrl="https://discourse.tt-rss.org/posts.rss"/>
+        <outline text="WordPress News" type="rss" xmlUrl="https://wordpress.org/news/feed/"/>
+        <outline text="Blogs on Grafana Labs Blog" type="rss" xmlUrl="https://grafana.com/blog/blog/index.xml"/>
+        <outline text="Wekan Blog" type="rss" xmlUrl="https://blog.wekan.team/feed/index.html"/>
+      </outline>
       <outline text="Desktop">
         <outline text="The Firefox Frontier" type="rss" xmlUrl="https://blog.mozilla.org/firefox/feed/"/>
         <outline text="Chromium Blog" type="atom" xmlUrl="https://blog.chromium.org/atom.xml"/>
@@ -175,15 +161,6 @@
         <outline text="Recent Commits to terminator:master" type="atom" xmlUrl="https://github.com/software-jessies-org/jessies/commits/master.atom"/>
         <outline text="Alliance for Open Media" type="rss" xmlUrl="http://aomedia.org/feed/"/>
       </outline>
-      <outline text="Serveur">
-        <outline text="Fab Manager" type="rss" xmlUrl="https://www.fab-manager.com/feed/"/>
-        <outline text="Mahara Community - News - All posts" type="atom" xmlUrl="https://mahara.org/interaction/forum/atom.php?type=f&amp;id=1"/>
-        <outline text="Tiny Tiny RSS: Community - Latest posts" type="rss" xmlUrl="https://discourse.tt-rss.org/posts.rss"/>
-        <outline text="WordPress News" type="rss" xmlUrl="https://wordpress.org/news/feed/"/>
-        <outline text="Blogs on Grafana Labs Blog" type="rss" xmlUrl="https://grafana.com/blog/blog/index.xml"/>
-        <outline text="Wekan Blog" type="rss" xmlUrl="https://blog.wekan.team/feed/index.html"/>
-      </outline>
-      <outline text="Territoire Numérique Libre" type="rss" xmlUrl="https://territoire-numerique-libre.org/feed/"/>
     </outline>
     <outline text="Data">
       <outline text="Calcul scientifique">
@@ -192,6 +169,7 @@
         <outline text="HPC@LR" type="rss" xmlUrl="https://hpc-lr.umontpellier.fr/feed/"/>
         <outline text="South Green" type="rss" xmlUrl="http://www.southgreen.fr/rss.xml"/>
         <outline text="genotoul-bioinfo" type="rss" xmlUrl="http://bioinfo.genotoul.fr/index.php/feed/"/>
+        <outline text="RAPIDS AI - Medium" type="rss" xmlUrl="https://medium.com/feed/rapids-ai"/>
       </outline>
       <outline text="Archivage">
         <outline text="HAL Documentation" type="rss" xmlUrl="https://doc.archives-ouvertes.fr/feed/"/>
@@ -219,7 +197,6 @@
     <outline text="Tutos">
       <outline text="nixcraftcom" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrinGwmzp-LNcfvDeoBLAYQ"/>
       <outline text="nixCraft" type="rss" xmlUrl="https://www.cyberciti.biz/feed/"/>
-      <outline text="How-To Geek" type="rss" xmlUrl="https://feeds.howtogeek.com/HowToGeek"/>
       <outline text="Howtoforge Linux Howtos und Tutorials" type="rss" xmlUrl="https://www.howtoforge.com/feed.rss"/>
       <outline text="HowTo Wared" type="rss" xmlUrl="https://howto.wared.fr/feed/"/>
       <outline text="Blog - Hackaday" type="rss" xmlUrl="https://hackaday.com/blog/feed/"/>
@@ -445,6 +422,23 @@
       </outline>
       <outline text="Innovation">
         <outline text="rss" type="rss" xmlUrl="http://www.transferts-lr.org/rss.xml"/>
+      </outline>
+    </outline>
+    <outline text="Alertes">
+      <outline text="Sécurité informatique">
+        <outline text="CYBERCRiME-TRACKER.NET" type="rss" xmlUrl="http://cybercrime-tracker.net/rss.xml"/>
+        <outline text="Les derniers documents du CERT-FR." type="rss" xmlUrl="https://www.cert.ssi.gouv.fr/feed/"/>
+        <outline text="Latest Security Advisories" type="rss" xmlUrl="https://technet.microsoft.com/en-us/security/rss/advisory"/>
+        <outline text="Exploit-DB Updates" type="rss" xmlUrl="https://www.exploit-db.com/rss.xml"/>
+        <outline text="SecuriTeam" type="rss" xmlUrl="http://www.securiteam.com/securiteam.rss"/>
+        <outline text="National Vulnerability Database" type="rss" xmlUrl="https://nvd.nist.gov/download/nvd-rss.xml"/>
+        <outline text="SecurityFocus Vulnerabilities" type="rss" xmlUrl="http://www.securityfocus.com/rss/vulnerabilities.xml"/>
+        <outline text="Full Disclosure" type="rss" xmlUrl="https://seclists.org/rss/fulldisclosure.rss"/>
+        <outline text="Threatpost | Vulnerabilities" type="rss" xmlUrl="https://threatpost.com/category/vulnerabilities/feed/"/>
+        <outline text="Threatpost | Web security" type="rss" xmlUrl="https://threatpost.com/category/web-security/feed/"/>
+        <outline text="LinuxSecurity.com - Security Advisories" type="rss" xmlUrl="http://www.linuxsecurity.com/static-content/linuxsecurity_advisories.rss"/>
+        <outline text="US-CERT Alerts" type="rss" xmlUrl="https://www.us-cert.gov/ncas/alerts.xml"/>
+        <outline text="Portail Sécurité des Systèmes d'Information" type="rss" xmlUrl="https://services.renater.fr/ssi/feed.php"/>
       </outline>
     </outline>
     <outline text="FABLAB" type="newsbin" sortReversed="false" cacheLimit="unlimited"/>
