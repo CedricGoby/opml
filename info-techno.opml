@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Tue, 06 Nov 2018 13:24:01 +0100</dateCreated>
+    <dateCreated>Wed, 07 Nov 2018 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -219,7 +219,7 @@
         </outline>
         <outline text="Raspberry">
           <outline text="Raspberry Pi" type="rss" xmlUrl="https://www.raspberrypi.org/feed/"/>
-          <outline text="Raspberry Pi France" type="rss" xmlUrl="http://www.raspberrypi-france.fr/feed/"/>
+          <outline text="Raspberry Pi France" type="rss" xmlUrl="https://www.raspberrypi-france.fr/feed/"/>
           <outline text="Framboise 314, le Raspberry Pi à la sauce française&#x2026;." type="rss" xmlUrl="https://feeds.feedburner.com/framboise314?format=xml"/>
           <outline text="Raspbian-France" type="rss" xmlUrl="https://raspbian-france.fr/feed/"/>
           <outline text="The MagPi Magazine" type="rss" xmlUrl="https://www.raspberrypi.org/magpi/feed/"/>
@@ -236,7 +236,7 @@
       <outline text="Impression 3D">
         <outline text="Nouvel abonnement" type="rss" xmlUrl="http://www.primante3d.com/feed/"/>
         <outline text="Les Imprimantes 3D .fr" type="rss" xmlUrl="https://www.lesimprimantes3d.fr/feed/"/>
-        <outline text="Centre Pro3D" type="rss" xmlUrl="http://centre-pro3d.fr/feed/"/>
+        <outline text="Centre Pro3D" type="rss" xmlUrl="https://centre-pro3d.fr/feed/"/>
         <outline text="3Dnatives" type="rss" xmlUrl="https://www.3dnatives.com/feed/"/>
         <outline text="Les projets du FabLab - La Fabrique ENSAM" type="rss" xmlUrl="https://lafabrique.montpellier.archi.fr/rss/projects.xml"/>
         <outline text="Les évènements du Fab Lab - La Fabrique ENSAM" type="rss" xmlUrl="https://lafabrique.montpellier.archi.fr/rss/events.xml"/>
@@ -261,7 +261,7 @@
       <outline text="RéSEM - Réseau des Serres Expérimentales de Montpellier - RéSEM - RéSEM" type="rss" xmlUrl="https://resem.agropolis.fr/actualites/feed/rss/news.feed"/>
       <outline text="AFIA - Informatique Agricole" type="rss" xmlUrl="http://www.informatique-agricole.org/feed/"/>
       <outline text="Open Source Seed Initiative" type="rss" xmlUrl="https://osseeds.org/feed/"/>
-      <outline text="Agri Sud-Ouest Innovation - Les idées se cultivent mieux à plusieurs !" type="rss" xmlUrl="http://www.agrisoi.fr/feed/"/>
+      <outline text="Agri Sud-Ouest Innovation - Les idées se cultivent mieux à plusieurs !" type="rss" xmlUrl="https://www.agrisoi.fr/feed/"/>
       <outline text="Institut Convergences #DigitAg" type="rss" xmlUrl="http://www.hdigitag.fr/fr/feed/"/>
       <outline text="Secteur privé"/>
     </outline>
@@ -398,8 +398,8 @@
       <outline text="Enseignement Supérieur et Recherche">
         <outline text="Administrations">
           <outline text="MESR" type="rss" xmlUrl="http://www.enseignementsup-recherche.gouv.fr/rid1271/rss-toute-l-actualite-m.e.s.r.-en-un-flux.rss"/>
-          <outline text="Les dernières actualités" type="rss" xmlUrl="http://www.educagri.fr/rss_actu.xml"/>
-          <outline text="L'agenda" type="rss" xmlUrl="http://www.educagri.fr/rss_agenda.xml"/>
+          <outline text="Les dernières actualités" type="rss" xmlUrl="https://www.educagri.fr/rss_actu.xml"/>
+          <outline text="L'agenda" type="rss" xmlUrl="https://www.educagri.fr/rss_agenda.xml"/>
           <outline text="Éduscol : Les ressources du site" type="rss" xmlUrl="http://eduscol.education.fr/rid272/les-ressources-du-site.rss"/>
           <outline text="Éduscol : Toute l'actualité du site" type="rss" xmlUrl="http://eduscol.education.fr/rid271/toute-l-actualite-du-site.rss"/>
           <outline text="Éduscol : Actualités du numérique" type="rss" xmlUrl="http://eduscol.education.fr/rid1121/actualites-du-numerique.rss"/>
