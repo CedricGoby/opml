@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 07 Nov 2018 13:24:01 +0100</dateCreated>
+    <dateCreated>Sat, 10 Nov 2018 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -15,7 +15,6 @@
       <outline text="ZDNet - Business et Solutions IT" type="rss" xmlUrl="https://www.zdnet.fr/feeds/rss/"/>
       <outline text="Silicon 2.0" type="rss" xmlUrl="http://siliconvalley.blog.lemonde.fr/feed/"/>
       <outline text="Pixels : Toute l'actualité sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/pixels/rss_full.xml"/>
-      <outline text="Next INpact - Actualités" type="rss" xmlUrl="https://www.nextinpact.com/rss/news.xml"/>
       <outline text="GNT - actualités" type="rss" xmlUrl="http://www.generation-nt.com/export/rss.xml"/>
       <outline text="Silicon" type="rss" xmlUrl="https://www.silicon.fr/feed"/>
       <outline text="Flux général Developpez" type="rss" xmlUrl="https://www.developpez.com/index/rss"/>
@@ -92,10 +91,13 @@
         <outline text="Boum" type="rss" xmlUrl="https://guide.boum.org/recentchanges/index.rss"/>
       </outline>
     </outline>
-    <outline text="Internet"/>
+    <outline text="Internet">
+      <outline text="Internet Society France" type="rss" xmlUrl="https://www.isoc.fr/feed/"/>
+    </outline>
     <outline text="Vie privée">
       <outline text="La Quadrature du Net" type="rss" xmlUrl="https://www.laquadrature.net/en/rss.xml"/>
       <outline text="RSS - Actualité CNIL.fr" type="rss" xmlUrl="https://www.cnil.fr/fr/rss.xml"/>
+      <outline text="Nouvel abonnement" type="rss" xmlUrl="https://exodus-privacy.eu.org/post/index.xml"/>
       <outline text="EFF Action Center" type="atom" xmlUrl="https://act.eff.org/action.atom"/>
       <outline text="Deeplinks" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml"/>
     </outline>
@@ -150,7 +152,7 @@
         <outline text="Nabble - OpenSCAD" type="atom" xmlUrl="http://forum.openscad.org/OpenSCAD-ft1.xml"/>
         <outline text="GIMP" type="atom" xmlUrl="https://www.gimp.org/feeds/atom.xml"/>
         <outline text="FileZilla News" type="atom" xmlUrl="https://filezilla-project.org/newsfeed.php"/>
-        <outline text="Remmina" type="rss" xmlUrl="https://remmina.org/jekyll/feed/"/>
+        <outline text="Remmina" type="atom" xmlUrl="https://remmina.org/feed.xml"/>
         <outline text="VideoLAN project - News feed" type="rss" xmlUrl="https://images.videolan.org/videolan-news.rss"/>
         <outline text="puddletag news feed" type="rss" xmlUrl="http://docs.puddletag.net/rss.xml"/>
         <outline text="RStudio Blog" type="rss" xmlUrl="https://blog.rstudio.com/index.xml"/>
@@ -203,11 +205,8 @@
       <outline text="Xonay Labs | Michael Teeuw" type="rss" xmlUrl="http://michaelteeuw.nl/rss"/>
       <outline text="Dangerous Prototypes" type="rss" xmlUrl="http://dangerousprototypes.com/blog/feed/"/>
       <outline text="Open Electronics" type="rss" xmlUrl="https://www.open-electronics.org/feed/"/>
-      <outline text="Les cours du BTSSIO" type="rss" xmlUrl="http://cours.btssio.ac-limoges.fr/cours/feed.php"/>
       <outline text="Wikifab Blog" type="rss" xmlUrl="http://blog.wikifab.org/feed/"/>
-      <outline text="SEMAGEEK : Actualités High Tech, Robot, Électronique, DIY et Arduino" type="rss" xmlUrl="http://www.semageek.com/feed/"/>
       <outline text="Hackster Blog - Medium" type="rss" xmlUrl="https://blog.hackster.io/feed"/>
-      <outline text="Howtoforge Linux Howtos und Tutorials" type="rss" xmlUrl="https://www.howtoforge.com/feed.rss"/>
       <outline text="Wiki ubuntu-fr" type="rss" xmlUrl="https://doc.ubuntu-fr.org/feed.php"/>
       <outline text="ArchWiki  - Recent changes [en]" type="atom" xmlUrl="https://wiki.archlinux.org/index.php?title=Special:RecentChanges&amp;feed=atom"/>
       <outline text="SmartHomeBeginner" type="rss" xmlUrl="https://www.smarthomebeginner.com/feed/"/>
