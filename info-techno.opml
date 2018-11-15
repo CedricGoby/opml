@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 12 Nov 2018 13:24:01 +0100</dateCreated>
+    <dateCreated>Thu, 15 Nov 2018 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -112,6 +112,7 @@
         <outline text="Debian News" type="rss" xmlUrl="https://www.debian.org/News/news"/>
         <outline text="Planète des utilisateurs Debian" type="rss" xmlUrl="http://planet-fr.debian.net/users/rss20.xml"/>
       </outline>
+      <outline text="FOSSMint: Everything About Linux and FOSS" type="rss" xmlUrl="https://www.fossmint.com/feed/"/>
     </outline>
     <outline text="Open source">
       <outline text="Framablog" type="rss" xmlUrl="https://framablog.org/feed/"/>
@@ -164,6 +165,9 @@
         <outline text="Alliance for Open Media" type="rss" xmlUrl="http://aomedia.org/feed/"/>
       </outline>
     </outline>
+    <outline text="Développement">
+      <outline text="CoderDojo Montpellier" type="rss" xmlUrl="https://coderdojomontpellier.wordpress.com/feed/"/>
+    </outline>
     <outline text="Data">
       <outline text="Calcul scientifique">
         <outline text="France Grilles" type="rss" xmlUrl="http://www.france-grilles.fr/fr/feed/"/>
@@ -207,8 +211,6 @@
       <outline text="Open Electronics" type="rss" xmlUrl="https://www.open-electronics.org/feed/"/>
       <outline text="Wikifab Blog" type="rss" xmlUrl="http://blog.wikifab.org/feed/"/>
       <outline text="Hackster Blog - Medium" type="rss" xmlUrl="https://blog.hackster.io/feed"/>
-      <outline text="Wiki ubuntu-fr" type="rss" xmlUrl="https://doc.ubuntu-fr.org/feed.php"/>
-      <outline text="ArchWiki  - Recent changes [en]" type="atom" xmlUrl="https://wiki.archlinux.org/index.php?title=Special:RecentChanges&amp;feed=atom"/>
       <outline text="SmartHomeBeginner" type="rss" xmlUrl="https://www.smarthomebeginner.com/feed/"/>
     </outline>
     <outline text="FabLab">
@@ -231,6 +233,7 @@
         <outline text="Software">
           <outline text="node-red.github.io" type="atom" xmlUrl="https://nodered.org/feed.xml"/>
         </outline>
+        <outline text="IoT For All" type="rss" xmlUrl="https://www.iotforall.com/feed/"/>
       </outline>
       <outline text="Impression 3D">
         <outline text="Nouvel abonnement" type="rss" xmlUrl="http://www.primante3d.com/feed/"/>
@@ -441,8 +444,9 @@
       </outline>
     </outline>
     <outline text="FABLAB" type="newsbin" sortReversed="false" cacheLimit="unlimited"/>
-    <outline text="SECURITE" type="newsbin" sortReversed="false" cacheLimit="unlimited"/>
+    <outline text="SECURITE" type="newsbin" cacheLimit="unlimited"/>
     <outline text="TUTOS" type="newsbin" cacheLimit="unlimited"/>
     <outline text="OPEN SOURCE" type="newsbin" cacheLimit="unlimited"/>
+    <outline text="DIVERS" type="newsbin" cacheLimit="unlimited"/>
   </body>
 </opml>
