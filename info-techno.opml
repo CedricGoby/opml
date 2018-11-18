@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Fri, 16 Nov 2018 13:24:01 +0100</dateCreated>
+    <dateCreated>Sun, 18 Nov 2018 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -95,7 +95,7 @@
       <outline text="Internet Society France" type="rss" xmlUrl="https://www.isoc.fr/feed/"/>
     </outline>
     <outline text="Vie privée">
-      <outline text="La Quadrature du Net" type="rss" xmlUrl="https://www.laquadrature.net/en/rss.xml"/>
+      <outline text="La Quadrature du Net" type="rss" xmlUrl="https://www.laquadrature.net/en/feed/"/>
       <outline text="RSS - Actualité CNIL.fr" type="rss" xmlUrl="https://www.cnil.fr/fr/rss.xml"/>
       <outline text="Nouvel abonnement" type="rss" xmlUrl="https://exodus-privacy.eu.org/post/index.xml"/>
       <outline text="EFF Action Center" type="atom" xmlUrl="https://act.eff.org/action.atom"/>
@@ -376,6 +376,7 @@
         <outline text="L'Esprit Sorcier" type="rss" xmlUrl="https://www.lespritsorcier.org/feed/"/>
         <outline text="Le blog de Florence Porcel" type="rss" xmlUrl="http://www.florenceporcel.com/feed/"/>
         <outline text="Interstices" type="rss" xmlUrl="https://interstices.info/feed/"/>
+        <outline text="SciTechDaily" type="rss" xmlUrl="https://feeds.feedburner.com/scitechdaily"/>
       </outline>
       <outline text="Podcasts">
         <outline text="La méthode scientifique" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_14312.xml"/>
