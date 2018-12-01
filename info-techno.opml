@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Fri, 30 Nov 2018 13:24:01 +0100</dateCreated>
+    <dateCreated>Sat, 01 Dec 2018 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -288,7 +288,7 @@
       <outline text="Flux RSS du Portail de la DGE - Economie numérique" type="rss" xmlUrl="https://www.entreprises.gouv.fr/rss/numerique"/>
     </outline>
     <outline text="Sciences">
-      <outline text="CERN: Updates for the general public" type="rss" xmlUrl="https://home.cern/about/updates/feed"/>
+      <outline text="CERN: Updates for the general public" type="rss" xmlUrl="https://home.cern/all-news/rss"/>
       <outline text="EPST">
         <outline text="Les actualités d'Inria" type="rss" xmlUrl="https://www.inria.fr/actualite/actualites-inria/%28view_mode%29/rss"/>
         <outline text="Les événements d'Inria" type="rss" xmlUrl="https://www.inria.fr/actualite/agenda/(view_mode)/rss"/>
