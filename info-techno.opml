@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 23 Dec 2018 13:24:01 +0100</dateCreated>
+    <dateCreated>Tue, 25 Dec 2018 13:24:02 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -83,7 +83,6 @@
         <outline text="abuse.ch | IT-Security Blog" type="rss" xmlUrl="https://abuse.ch/rss/"/>
         <outline text="DNS-BH - Malware Domain Blocklist by RiskAnalytics" type="rss" xmlUrl="http://www.malwaredomains.com/?feed=rss2"/>
         <outline text="Yes We Hack : Vulnerability Disclosure through Coordination" type="rss" xmlUrl="https://blog.yeswehack.com/feed/"/>
-        <outline text="Nouvel abonnement" xmlUrl="https://www.open-scap.org/home/feed/"/>
       </outline>
       <outline text="Guides">
         <outline text="Recent Commits to itpol:master" type="atom" xmlUrl="https://github.com/lfit/itpol/commits/master.atom"/>
