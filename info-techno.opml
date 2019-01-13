@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sat, 12 Jan 2019 13:24:01 +0100</dateCreated>
+    <dateCreated>Sun, 13 Jan 2019 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -19,6 +19,8 @@
       <outline text="Silicon" type="rss" xmlUrl="https://www.silicon.fr/feed"/>
       <outline text="Flux général Developpez" type="rss" xmlUrl="https://www.developpez.com/index/rss"/>
       <outline text="Korben" type="rss" xmlUrl="https://korben.info/feed"/>
+      <outline text="Numerama" type="rss" xmlUrl="https://www.numerama.com/feed/"/>
+      <outline text="IT for Business" type="rss" xmlUrl="http://www.itforbusiness.fr/thematiques?format=feed"/>
       <outline text="Fing.org" type="rss" xmlUrl="http://feeds2.feedburner.com/fing/actu"/>
       <outline text="The Register" type="atom" xmlUrl="http://www.theregister.co.uk/headlines.atom"/>
       <outline text="Réseau"/>
