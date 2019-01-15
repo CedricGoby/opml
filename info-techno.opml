@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 14 Jan 2019 13:24:01 +0100</dateCreated>
+    <dateCreated>Tue, 15 Jan 2019 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -46,7 +46,6 @@
         <outline text="Global Security Mag Online" type="rss" xmlUrl="http://www.globalsecuritymag.fr/spip.php?page=backend"/>
         <outline text="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"/>
         <outline text="Securelist - Information about Viruses, Hackers and Spam" type="rss" xmlUrl="https://securelist.com/feed/"/>
-        <outline text="HACKMAGEDDON" type="rss" xmlUrl="https://www.hackmageddon.com/feed/"/>
         <outline text="The Citizen Lab" type="rss" xmlUrl="https://citizenlab.ca/feed/"/>
         <outline text="Shodan Blog" type="rss" xmlUrl="https://blog.shodan.io/rss/"/>
         <outline text="Security - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/topics/security/feed.atom"/>
@@ -65,7 +64,6 @@
         <outline text="BleepingComputer" type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/"/>
       </outline>
       <outline text="Logiciels">
-        <outline text="Snort Blog" type="rss" xmlUrl="http://feeds.feedburner.com/Snort"/>
         <outline text="Tails - News" type="rss" xmlUrl="https://tails.boum.org/news/index.en.rss"/>
         <outline text="KeePassX" type="rss" xmlUrl="https://www.keepassx.org/feed"/>
         <outline text="Kali Linux" type="rss" xmlUrl="https://www.kali.org/feed/"/>
@@ -110,30 +108,30 @@
       <outline text="Linuxtoday.com" type="rss" xmlUrl="https://feeds.feedburner.com/linuxtoday/linux"/>
       <outline text="LinuxFr.org : les dépêches" type="atom" xmlUrl="https://linuxfr.org/news.atom"/>
       <outline text="It's FOSS" type="rss" xmlUrl="http://feeds.feedburner.com/ItsFoss"/>
+      <outline text="FOSSMint: Everything About Linux and FOSS" type="rss" xmlUrl="https://www.fossmint.com/feed/"/>
       <outline text="Distributions">
         <outline text="DistroWatch.com: News" type="rss" xmlUrl="https://distrowatch.com/news/dw.xml"/>
         <outline text="Archlinux.fr" type="rss" xmlUrl="https://archlinux.fr/feed"/>
         <outline text="Debian News" type="rss" xmlUrl="https://www.debian.org/News/news"/>
         <outline text="Planète des utilisateurs Debian" type="rss" xmlUrl="http://planet-fr.debian.net/users/rss20.xml"/>
       </outline>
-      <outline text="FOSSMint: Everything About Linux and FOSS" type="rss" xmlUrl="https://www.fossmint.com/feed/"/>
     </outline>
     <outline text="Open source">
+      <outline text="TOOLinux" type="rss" xmlUrl="https://www.toolinux.com/spip.php?page=backend"/>
       <outline text="Framablog" type="rss" xmlUrl="https://framablog.org/feed/"/>
       <outline text="Actualités - adullact.org" type="rss" xmlUrl="https://adullact.org/breves?format=feed&amp;type=rss"/>
       <outline text="AFUL - Communiqués et nouvelles" type="rss" xmlUrl="https://aful.org/rss"/>
       <outline text="April" type="rss" xmlUrl="https://www.april.org/fr/rss.xml"/>
       <outline text="Montpel'libre" type="rss" xmlUrl="http://montpel-libre.fr/spip.php?page=backend"/>
       <outline text="L'Agenda du Libre" type="rss" sortReversed="false" xmlUrl="http://www.agendadulibre.org/events.rss"/>
-      <outline text="SoLibre" type="rss" xmlUrl="http://www.solibre.fr/_plugins/web/solibre/fr/filter/events/rss.xml"/>
+      <outline text="Territoire Numérique Libre" type="rss" xmlUrl="https://territoire-numerique-libre.org/feed/"/>
+      <outline text="SoLibre" type="rss" xmlUrl="https://www.solibre.fr/_plugins/web/solibre/fr/filter/events/rss.xml"/>
       <outline text="Smile, le Blog des Experts" type="rss" xmlUrl="http://blog.smile.fr/rss/feed/blog"/>
       <outline text="FSF News" type="rss" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml"/>
       <outline text="Free Software Directory - New" type="rss" xmlUrl="https://directory.fsf.org/wiki/Special%3AAsk/-5B-5BSubmitted-20date%3A%3A+-5D-5D/mainlabel=/limit=50/order=descending/sort=Submitted-20date/offset=0/format=rss/searchlabel=New-20packages-20RSS-20feed/title=Free-20Software-20Directory/description=Recent-20updates-20to-20Free-20Software-20Directory-20(directory.fsf.org)"/>
       <outline text="Opensource.com" type="rss" xmlUrl="https://opensource.com/feed"/>
       <outline text="Open Source - Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/open-source"/>
       <outline text="NoobsLab | Ubuntu/Linux News, Reviews, Tutorials, Apps" type="rss" xmlUrl="https://feeds.feedburner.com/noobslab"/>
-      <outline text="Territoire Numérique Libre" type="rss" xmlUrl="https://territoire-numerique-libre.org/feed/"/>
-      <outline text="TOOLinux" type="rss" xmlUrl="https://www.toolinux.com/spip.php?page=backend"/>
     </outline>
     <outline text="Logiciels">
       <outline text="Free Software Directory - Updates" type="rss" xmlUrl="https://directory.fsf.org/wiki/Special%3AAsk/-5B-5BLast-20review-20date%3A%3A+-5D-5D/mainlabel=/limit=50/order=descending/sort=Last-20review-20date/offset=0/format=rss/searchlabel=Recent-20updates-20RSS-20feed/title=Free-20Software-20Directory/description=Recent-20updates-20to-20Free-20Software-20Directory-20(directory.fsf.org)"/>
@@ -446,6 +444,8 @@
     </outline>
     <outline text="Alertes">
       <outline text="Sécurité informatique">
+        <outline text="Snort Blog" type="rss" xmlUrl="http://feeds.feedburner.com/Snort"/>
+        <outline text="HACKMAGEDDON" type="rss" xmlUrl="https://www.hackmageddon.com/feed/"/>
         <outline text="CYBERCRiME-TRACKER.NET" type="rss" xmlUrl="http://cybercrime-tracker.net/rss.xml"/>
         <outline text="Les derniers documents du CERT-FR." type="rss" xmlUrl="https://www.cert.ssi.gouv.fr/feed/"/>
         <outline text="Latest Security Advisories" type="rss" xmlUrl="https://technet.microsoft.com/en-us/security/rss/advisory"/>
