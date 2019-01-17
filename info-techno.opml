@@ -2,14 +2,14 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 16 Jan 2019 13:24:01 +0100</dateCreated>
+    <dateCreated>Thu, 17 Jan 2019 13:24:02 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
     <docs>http://dev.opml.org/spec2.html</docs>
   </head>
   <body>
-    <outline text="Informatique et technologie">
+    <outline text="Informatique et technologie" sortReversed="false">
       <outline text="Toutes les actualités :" type="rss" xmlUrl="https://www.lemondeinformatique.fr/flux-rss/thematique/toutes-les-actualites/rss.xml"/>
       <outline text="JDN : Derniers contenus" type="rss" xmlUrl="https://www.journaldunet.com/rss/"/>
       <outline text="ZDNet - Business et Solutions IT" type="rss" xmlUrl="https://www.zdnet.fr/feeds/rss/"/>
@@ -242,7 +242,7 @@
         <outline text="Objetconnecte.com" type="rss" xmlUrl="https://www.objetconnecte.com/feed/"/>
       </outline>
       <outline text="Impression 3D">
-        <outline text="Nouvel abonnement" type="rss" xmlUrl="http://www.primante3d.com/feed/"/>
+        <outline text="Primante 3D" type="rss" xmlUrl="http://www.primante3d.com/feed/"/>
         <outline text="Les Imprimantes 3D .fr" type="rss" xmlUrl="https://www.lesimprimantes3d.fr/feed/"/>
         <outline text="Centre Pro3D" type="rss" xmlUrl="https://centre-pro3d.fr/feed/"/>
         <outline text="3Dnatives" type="rss" xmlUrl="https://www.3dnatives.com/feed/"/>
@@ -261,6 +261,7 @@
       </outline>
       <outline text="Electronique">
         <outline text="Réseau des Electroniciens du CNRS" type="rss" xmlUrl="https://www.electroniciens.cnrs.fr/feed/"/>
+        <outline text="VIPress.net" type="rss" xmlUrl="https://www.vipress.net/feed/"/>
       </outline>
       <outline text="Drones">
         <outline text="La foire du drone : Toute l'actualité sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/la-foire-du-drone/rss_full.xml"/>
@@ -386,6 +387,7 @@
         <outline text="Agenda" type="rss" xmlUrl="https://www.onera.fr/agenda/feed.rss"/>
       </outline>
       <outline text="Vulgarisation">
+        <outline text="Sciences et Avenir en temps réel : accueil" type="rss" xmlUrl="https://www.sciencesetavenir.fr/rss.xml"/>
         <outline text="Science Etonnante" type="rss" xmlUrl="https://sciencetonnante.wordpress.com/feed/"/>
         <outline text="Videosciences" type="rss" xmlUrl="http://www.cafe-sciences.org/videosciences/feed/"/>
         <outline text="L'Esprit Sorcier" type="rss" xmlUrl="https://www.lespritsorcier.org/feed/"/>
