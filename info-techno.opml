@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 20 Jan 2019 13:24:01 +0100</dateCreated>
+    <dateCreated>Wed, 23 Jan 2019 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -103,6 +103,7 @@
       <outline text="Nouvel abonnement" type="rss" xmlUrl="https://exodus-privacy.eu.org/post/index.xml"/>
       <outline text="EFF Action Center" type="atom" xmlUrl="https://act.eff.org/action.atom"/>
       <outline text="Deeplinks" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml"/>
+      <outline text="noyb.eu" type="rss" xmlUrl="https://noyb.eu/feed/?lang=fr"/>
     </outline>
     <outline text="Linux">
       <outline text="Linux.com - All Content" type="rss" xmlUrl="https://www.linux.com/feeds/rss"/>
@@ -133,6 +134,7 @@
       <outline text="Opensource.com" type="rss" xmlUrl="https://opensource.com/feed"/>
       <outline text="Open Source - Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/open-source"/>
       <outline text="NoobsLab | Ubuntu/Linux News, Reviews, Tutorials, Apps" type="rss" xmlUrl="https://feeds.feedburner.com/noobslab"/>
+      <outline text="OW2 Press Releases" type="rss" xmlUrl="https://www.ow2.org/view/Events/Press_Releases_Rss?xpage=plain"/>
     </outline>
     <outline text="Logiciels">
       <outline text="Free Software Directory - Updates" type="rss" xmlUrl="https://directory.fsf.org/wiki/Special%3AAsk/-5B-5BLast-20review-20date%3A%3A+-5D-5D/mainlabel=/limit=50/order=descending/sort=Last-20review-20date/offset=0/format=rss/searchlabel=Recent-20updates-20RSS-20feed/title=Free-20Software-20Directory/description=Recent-20updates-20to-20Free-20Software-20Directory-20(directory.fsf.org)"/>
@@ -301,6 +303,7 @@
       <outline text="Flux RSS du Portail de la DGE - Economie numérique" type="rss" xmlUrl="https://www.entreprises.gouv.fr/rss/numerique"/>
       <outline text="https://www.capital.fr : flux d'articles" type="rss" xmlUrl="https://feed.prismamediadigital.com/v1/cap/rss?sources=capital,polemik,xerfi,management,capital-avec-agence-france-presse,capital-avec-aof,capital-avec-reuters,capital-avec-optimaretraite,aeronewstv"/>
       <outline text="Cigref" type="rss" xmlUrl="https://www.cigref.fr/feed"/>
+      <outline text="Usine Digitale L'Usine Digitale - Actualités à la une" type="rss" xmlUrl="https://www.usine-digitale.fr/rss"/>
     </outline>
     <outline text="Sciences">
       <outline text="Actualités">
