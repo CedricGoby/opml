@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 06 Feb 2019 13:24:01 +0100</dateCreated>
+    <dateCreated>Thu, 07 Feb 2019 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -298,7 +298,7 @@
       <outline text="Artificial Intelligence - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/topics/ai/feed.atom"/>
     </outline>
     <outline text="Economie Numérique">
-      <outline text="La French Tech" type="rss" xmlUrl="http://www.lafrenchtech.com/en/feed/"/>
+      <outline text="La French Tech" type="rss" xmlUrl="https://www.lafrenchtech.com/en/feed/"/>
       <outline text="Toutes les actualités" type="rss" xmlUrl="https://www.entreprises.gouv.fr/rss/touteslesactualites"/>
       <outline text="Flux RSS du Portail de la DGE - Economie numérique" type="rss" xmlUrl="https://www.entreprises.gouv.fr/rss/numerique"/>
       <outline text="https://www.capital.fr : flux d'articles" type="rss" xmlUrl="https://feed.prismamediadigital.com/v1/cap/rss?sources=capital,polemik,xerfi,management,capital-avec-agence-france-presse,capital-avec-aof,capital-avec-reuters,capital-avec-optimaretraite,aeronewstv"/>
@@ -388,8 +388,8 @@
         <outline text="CEA - Actualités Grenoble" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=148&amp;wid=g_bcaf896d_a6d3_4038_929b_4c453372700e"/>
         <outline text="CEA - Actualités Marcoule" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=148&amp;wid=g_e7ee9f14_0337_496d_b450_5d73b3d432c2"/>
         <outline text="CEA - Actualités des centres de la direction des applications militaires" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=148&amp;wid=g_7dbca0d4_36f2_47b0_89d5_aba98e6a8944"/>
-        <outline text="Actualités" type="rss" xmlUrl="https://www.onera.fr/actualites/feed.rss"/>
-        <outline text="Agenda" type="rss" xmlUrl="https://www.onera.fr/agenda/feed.rss"/>
+        <outline text="Actualités" type="rss" xmlUrl="https://www.onera.fr/fr/actualites/feed.rss"/>
+        <outline text="Agenda" type="rss" xmlUrl="https://www.onera.fr/fr/agenda/feed.rss"/>
       </outline>
       <outline text="Vulgarisation">
         <outline text="Sciences et Avenir en temps réel : accueil" type="rss" xmlUrl="https://www.sciencesetavenir.fr/rss.xml"/>
