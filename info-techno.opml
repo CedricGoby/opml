@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Thu, 07 Feb 2019 13:24:01 +0100</dateCreated>
+    <dateCreated>Fri, 08 Feb 2019 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -43,8 +43,8 @@
       </outline>
       <outline text="Blogs">
         <outline text="cyberland.centerblog.net - Les derniers articles publiés" type="rss" xmlUrl="http://cyberland.centerblog.net/rss.rss"/>
-        <outline text="ITrust.fr" type="rss" xmlUrl="https://www.itrust.fr/feed/"/>
         <outline text="Global Security Mag Online" type="rss" xmlUrl="http://www.globalsecuritymag.fr/spip.php?page=backend"/>
+        <outline text="ITrust.fr" type="rss" xmlUrl="https://www.itrust.fr/feed/"/>
         <outline text="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"/>
         <outline text="Securelist - Information about Viruses, Hackers and Spam" type="rss" xmlUrl="https://securelist.com/feed/"/>
         <outline text="The Citizen Lab" type="rss" xmlUrl="https://citizenlab.ca/feed/"/>
@@ -98,8 +98,8 @@
       <outline text="Internet Society France" type="rss" xmlUrl="https://www.isoc.fr/feed/"/>
     </outline>
     <outline text="Vie privée">
-      <outline text="La Quadrature du Net" type="rss" xmlUrl="https://www.laquadrature.net/en/feed/"/>
       <outline text="RSS - Actualité CNIL.fr" type="rss" xmlUrl="https://www.cnil.fr/fr/rss.xml"/>
+      <outline text="La Quadrature du Net" type="rss" xmlUrl="https://www.laquadrature.net/en/feed/"/>
       <outline text="Nouvel abonnement" type="rss" xmlUrl="https://exodus-privacy.eu.org/post/index.xml"/>
       <outline text="EFF Action Center" type="atom" xmlUrl="https://act.eff.org/action.atom"/>
       <outline text="Deeplinks" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml"/>
