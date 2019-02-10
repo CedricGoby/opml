@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Fri, 08 Feb 2019 13:24:01 +0100</dateCreated>
+    <dateCreated>Sun, 10 Feb 2019 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -34,7 +34,7 @@
         <outline text="ZATAZ" type="rss" xmlUrl="https://www.zataz.com/feed/"/>
         <outline text="DZone Security Zone" type="rss" xmlUrl="http://feeds.dzone.com/security"/>
         <outline text="InfoRiskToday.com  RSS Syndication" type="rss" xmlUrl="http://feeds.feedburner.com/inforisktoday/com"/>
-        <outline text="LinuxSecurity.com - Latest News" type="rss" xmlUrl="http://www.linuxsecurity.com/static-content/linuxsecurity_articles.rss"/>
+        <outline text="LinuxSecurity.com - Latest News" type="rss" xmlUrl="https://linuxsecurity.com/news/latest?format=feed&amp;type=rss"/>
         <outline text="The Hacker News" type="rss" xmlUrl="http://feeds.feedburner.com/TheHackersNews"/>
         <outline text="SecurityWeek RSS Feed" type="rss" xmlUrl="http://feeds.feedburner.com/securityweek"/>
         <outline text="Naked Security" type="rss" xmlUrl="https://nakedsecurity.sophos.com/feed/"/>
@@ -463,7 +463,7 @@
         <outline text="Full Disclosure" type="rss" xmlUrl="https://seclists.org/rss/fulldisclosure.rss"/>
         <outline text="Threatpost | Vulnerabilities" type="rss" xmlUrl="https://threatpost.com/category/vulnerabilities/feed/"/>
         <outline text="Threatpost | Web security" type="rss" xmlUrl="https://threatpost.com/category/web-security/feed/"/>
-        <outline text="LinuxSecurity.com - Security Advisories" type="rss" xmlUrl="http://www.linuxsecurity.com/static-content/linuxsecurity_advisories.rss"/>
+        <outline text="LinuxSecurity.com - Security Advisories" type="rss" xmlUrl="https://linuxsecurity.com/advisories/archlinux?format=feed&amp;type=rss"/>
         <outline text="US-CERT Alerts" type="rss" xmlUrl="https://www.us-cert.gov/ncas/alerts.xml"/>
         <outline text="Portail Sécurité des Systèmes d'Information" type="rss" xmlUrl="https://services.renater.fr/ssi/feed.php"/>
       </outline>
