@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Tue, 26 Feb 2019 13:24:01 +0100</dateCreated>
+    <dateCreated>Thu, 28 Feb 2019 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -106,9 +106,9 @@
       <outline text="noyb.eu" type="rss" xmlUrl="https://noyb.eu/feed/?lang=fr"/>
     </outline>
     <outline text="Linux">
+      <outline text="LinuxFr.org : les dépêches" type="atom" xmlUrl="https://linuxfr.org/news.atom"/>
       <outline text="Linux.com - All Content" type="rss" xmlUrl="https://www.linux.com/feeds/rss"/>
       <outline text="Linuxtoday.com" type="rss" xmlUrl="https://feeds.feedburner.com/linuxtoday/linux"/>
-      <outline text="LinuxFr.org : les dépêches" type="atom" xmlUrl="https://linuxfr.org/news.atom"/>
       <outline text="It's FOSS" type="rss" xmlUrl="http://feeds.feedburner.com/ItsFoss"/>
       <outline text="FOSSMint: Everything About Linux and FOSS" type="rss" xmlUrl="https://www.fossmint.com/feed/"/>
       <outline text="Distributions">
@@ -171,9 +171,7 @@
         <outline text="Alliance for Open Media" type="rss" xmlUrl="http://aomedia.org/feed/"/>
       </outline>
     </outline>
-    <outline text="Développement">
-      <outline text="CoderDojo Montpellier" type="rss" xmlUrl="https://coderdojomontpellier.wordpress.com/feed/"/>
-    </outline>
+    <outline text="Développement"/>
     <outline text="Data">
       <outline text="Calcul scientifique">
         <outline text="France Grilles" type="rss" xmlUrl="http://www.france-grilles.fr/fr/feed/"/>
@@ -236,8 +234,8 @@
         <outline text="MCHobby - Le Blog" type="atom" xmlUrl="https://arduino103.blogspot.com/feeds/posts/default"/>
       </outline>
       <outline text="IoT">
-        <outline text="DZone IoT Zone" type="rss" xmlUrl="http://feeds.dzone.com/iot"/>
         <outline text="Smart Cities : Toute l'actualité sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/smart-cities/rss_full.xml"/>
+        <outline text="DZone IoT Zone" type="rss" xmlUrl="http://feeds.dzone.com/iot"/>
         <outline text="Software">
           <outline text="node-red.github.io" type="atom" xmlUrl="https://nodered.org/feed.xml"/>
         </outline>
@@ -457,7 +455,7 @@
         <outline text="Les derniers documents du CERT-FR." type="rss" xmlUrl="https://www.cert.ssi.gouv.fr/feed/"/>
         <outline text="Latest Security Advisories" type="rss" xmlUrl="https://technet.microsoft.com/en-us/security/rss/advisory"/>
         <outline text="Exploit-DB Updates" type="rss" xmlUrl="https://www.exploit-db.com/rss.xml"/>
-        <outline text="SecuriTeam" type="rss" xmlUrl="http://www.securiteam.com/securiteam.rss"/>
+        <outline text="SecuriTeam" type="rss" xmlUrl="https://securiteam.com/feed/"/>
         <outline text="National Vulnerability Database" type="rss" xmlUrl="https://nvd.nist.gov/download/nvd-rss.xml"/>
         <outline text="SecurityFocus Vulnerabilities" type="rss" xmlUrl="http://www.securityfocus.com/rss/vulnerabilities.xml"/>
         <outline text="Full Disclosure" type="rss" xmlUrl="https://seclists.org/rss/fulldisclosure.rss"/>
