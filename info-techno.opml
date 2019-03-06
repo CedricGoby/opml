@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 03 Mar 2019 13:24:02 +0100</dateCreated>
+    <dateCreated>Wed, 06 Mar 2019 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -407,6 +407,7 @@
         <outline text="Les Savanturiers" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_12097.xml"/>
         <outline text="Podcast Science" type="rss" xmlUrl="http://feeds.feedburner.com/PodcastScience"/>
         <outline text="Les années lumière" type="rss" xmlUrl="http://feeds.feedburner.com/lesanneeslumiere"/>
+        <outline text="Espace des sciences" type="rss" xmlUrl="https://www.espace-sciences.org/rss/eds"/>
       </outline>
       <outline text="Podcasts vidéo">
         <outline text="ScienceEtonnante" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaNlbnghtwlsGF-KzAFThqA"/>
