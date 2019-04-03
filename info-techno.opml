@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Tue, 02 Apr 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Wed, 03 Apr 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -189,7 +189,7 @@
       </outline>
       <outline text="OpenChain" type="rss" xmlUrl="https://www.openchainproject.org/feed"/>
       <outline text="Data - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/topics/data/feed.atom"/>
-      <outline text="News" type="rss" xmlUrl="https://www.elixir-europe.org/feeds/news.xml"/>
+      <outline text="News" type="rss" xmlUrl="https://elixir-europe.org/feeds/news.xml"/>
       <outline text="DataCite Blog" type="atom" xmlUrl="https://blog.datacite.org/feed.xml"/>
       <outline text="The OME Blog" type="atom" xmlUrl="http://blog.openmicroscopy.org/atom.xml"/>
       <outline text="DMPTool Blog" type="rss" xmlUrl="https://blog.dmptool.org/feed/"/>
