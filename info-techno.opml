@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 10 Apr 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Fri, 12 Apr 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -280,7 +280,7 @@
     <outline text="SIG">
       <outline text="OSGeo-fr" type="rss" xmlUrl="https://www.osgeo.asso.fr/rss.xml"/>
       <outline text="Forum SIG - Systèmes d'Information Géographique et Géomatique" type="rss" xmlUrl="http://www.forumsig.org/external.php?type=RSS2"/>
-      <outline text="Actualites" type="rss" xmlUrl="https://www.theia-land.fr/fr/rss.xml"/>
+      <outline text="theia-land" type="rss" xmlUrl="https://www.theia-land.fr/feed/"/>
     </outline>
     <outline text="Imagerie">
       <outline text="PyImageSearch" type="rss" xmlUrl="http://feeds.feedburner.com/Pyimagesearch"/>
