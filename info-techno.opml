@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 24 Apr 2019 13:24:02 +0200</dateCreated>
+    <dateCreated>Fri, 26 Apr 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -19,6 +19,7 @@
       <outline text="Silicon" type="rss" xmlUrl="https://www.silicon.fr/feed"/>
       <outline text="Flux général Developpez" type="rss" xmlUrl="https://www.developpez.com/index/rss"/>
       <outline text="Korben" type="rss" xmlUrl="https://korben.info/feed"/>
+      <outline text="Zebulon" type="rss" xmlUrl="https://www.zebulon.fr/feed/"/>
       <outline text="Numerama" type="rss" xmlUrl="https://www.numerama.com/feed/"/>
       <outline text="IT for Business" type="rss" xmlUrl="http://www.itforbusiness.fr/thematiques?format=feed"/>
       <outline text="Siècle Digital" type="rss" xmlUrl="https://siecledigital.fr/feed/"/>
@@ -27,6 +28,7 @@
       <outline text="Réseau">
         <outline text="InfraNum" type="rss" xmlUrl="http://infranum.fr/feed"/>
         <outline text="NetBlocks" type="rss" xmlUrl="https://netblocks.org/feed"/>
+        <outline text="Avicca" type="rss" xmlUrl="http://www.avicca.org/rss.xml"/>
       </outline>
     </outline>
     <outline text="Sécurité informatique">
@@ -90,9 +92,7 @@
         <outline text="Yes We Hack : Vulnerability Disclosure through Coordination" type="rss" xmlUrl="https://blog.yeswehack.com/feed/"/>
       </outline>
       <outline text="Guides">
-        <outline text="Recent Commits to itpol:master" type="atom" xmlUrl="https://github.com/lfit/itpol/commits/master.atom"/>
         <outline text="Agence nationale de la sécurité des systèmes d'information" type="rss" xmlUrl="https://www.ssi.gouv.fr/feed/guide/"/>
-        <outline text="Boum" type="rss" xmlUrl="https://guide.boum.org/recentchanges/index.rss"/>
         <outline text="Chiffrer.info" type="rss" xmlUrl="https://chiffrer.info/?feed=rss2"/>
       </outline>
     </outline>
@@ -126,7 +126,6 @@
       <outline text="Actualités - adullact.org" type="rss" xmlUrl="https://adullact.org/breves?format=feed&amp;type=rss"/>
       <outline text="AFUL - Communiqués et nouvelles" type="rss" xmlUrl="https://aful.org/rss"/>
       <outline text="April" type="rss" xmlUrl="https://www.april.org/fr/rss.xml"/>
-      <outline text="Montpel'libre" type="rss" xmlUrl="https://montpellibre.fr/spip.php?page=backend"/>
       <outline text="L'Agenda du Libre" type="rss" xmlUrl="http://www.agendadulibre.org/events.rss"/>
       <outline text="Territoire Numérique Libre" type="rss" xmlUrl="https://territoire-numerique-libre.org/feed/"/>
       <outline text="SoLibre" type="rss" xmlUrl="https://www.solibre.fr/_plugins/web/solibre/fr/filter/events/rss.xml"/>
@@ -152,7 +151,6 @@
         <outline text="The Firefox Frontier" type="rss" xmlUrl="https://blog.mozilla.org/firefox/feed/"/>
         <outline text="Chromium Blog" type="atom" xmlUrl="https://blog.chromium.org/atom.xml"/>
         <outline text="Geany News" type="rss" xmlUrl="https://www.geany.org/Main/HomePage?action=blogrss"/>
-        <outline text="gpodder" type="rss" xmlUrl="https://www.freelists.org/feed/gpodder"/>
         <outline text="LZone Blog" type="rss" xmlUrl="http://feeds.feedburner.com/LifereaBlog"/>
         <outline text="Planet Pidgin" type="rss" xmlUrl="http://planet.pidgin.im/rss20.xml"/>
         <outline text="The Document Foundation Blog" type="rss" xmlUrl="https://blog.documentfoundation.org/feed/"/>
@@ -186,7 +184,9 @@
         <outline text="Open Data - Montpellier Méditerranée Métropole - La démarche &#xAB; Open Data &#xBB; mutualisée de Montpellier Méditerranée Métropole" type="rss" xmlUrl="https://data.montpellier3m.fr/rss.xml"/>
         <outline text="RDA RSS" type="rss" xmlUrl="https://rd-alliance.org/rss.xml"/>
         <outline text="OpenAIRE - News" type="rss" xmlUrl="https://www.openaire.eu/news-events/feed/rss/"/>
+        <outline text="Blog - Ouvrir la Science" type="rss" xmlUrl="https://www.ouvrirlascience.fr/category/blog/feed/"/>
       </outline>
+      <outline text="LeBigData.fr" type="rss" xmlUrl="https://www.lebigdata.fr/feed"/>
       <outline text="OpenChain" type="rss" xmlUrl="https://www.openchainproject.org/feed"/>
       <outline text="Data - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/topics/data/feed.atom"/>
       <outline text="News" type="rss" xmlUrl="https://elixir-europe.org/feeds/news.xml"/>
@@ -275,18 +275,17 @@
       <outline text="Open Source Seed Initiative" type="rss" xmlUrl="https://osseeds.org/feed/"/>
       <outline text="Agri Sud-Ouest Innovation - Les idées se cultivent mieux à plusieurs !" type="rss" xmlUrl="https://www.agrisoi.fr/feed/"/>
       <outline text="Institut Convergences #DigitAg" type="rss" xmlUrl="http://www.hdigitag.fr/fr/feed/"/>
-      <outline text="Secteur privé"/>
     </outline>
     <outline text="SIG">
       <outline text="OSGeo-fr" type="rss" xmlUrl="https://www.osgeo.asso.fr/rss.xml"/>
       <outline text="Forum SIG - Systèmes d'Information Géographique et Géomatique" type="rss" xmlUrl="http://www.forumsig.org/external.php?type=RSS2"/>
       <outline text="theia-land" type="rss" xmlUrl="https://www.theia-land.fr/feed/"/>
+      <outline text="Nouvel abonnement" xmlUrl="https://georezo.net/extern.php"/>
     </outline>
     <outline text="Imagerie">
       <outline text="PyImageSearch" type="rss" xmlUrl="http://feeds.feedburner.com/Pyimagesearch"/>
     </outline>
     <outline text="Ebooks">
-      <outline text="Recent Commits to free-programming-books:master" type="atom" xmlUrl="https://github.com/EbookFoundation/free-programming-books/commits/master.atom"/>
       <outline text="DevFreeBooks" type="rss" xmlUrl="http://feeds.feedburner.com/DevFreeBooks"/>
     </outline>
     <outline text="AI">
@@ -389,7 +388,7 @@
       <outline text="Vulgarisation">
         <outline text="Sciences et Avenir en temps réel : accueil" type="rss" xmlUrl="https://www.sciencesetavenir.fr/rss.xml"/>
         <outline text="Science Etonnante" type="rss" xmlUrl="https://sciencetonnante.wordpress.com/feed/"/>
-        <outline text="Videosciences" type="rss" xmlUrl="http://www.cafe-sciences.org/videosciences/feed/"/>
+        <outline text="Videosciences" type="rss" xmlUrl="https://www.cafe-sciences.org/videosciences/feed/"/>
         <outline text="L'Esprit Sorcier" type="rss" xmlUrl="https://www.lespritsorcier.org/feed/"/>
         <outline text="Le blog de Florence Porcel" type="rss" xmlUrl="http://www.florenceporcel.com/feed/"/>
         <outline text="Interstices" type="rss" xmlUrl="https://interstices.info/feed/"/>
