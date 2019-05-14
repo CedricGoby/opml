@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 13 May 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Tue, 14 May 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -261,6 +261,7 @@
       <outline text="Electronique">
         <outline text="Réseau des Electroniciens du CNRS" type="rss" xmlUrl="https://www.electroniciens.cnrs.fr/feed/"/>
         <outline text="VIPress.net" type="rss" xmlUrl="https://www.vipress.net/feed/"/>
+        <outline text="Mesures - Optimisation des process industriels - Automatismes - Instrumentation - Informatique industrielle - Vision industrielle - Efficacité énergétique" type="rss" xmlUrl="http://www.mesures.com/?format=feed&amp;type=rss"/>
       </outline>
       <outline text="Drones">
         <outline text="La foire du drone : Toute l'actualité sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/la-foire-du-drone/rss_full.xml"/>
