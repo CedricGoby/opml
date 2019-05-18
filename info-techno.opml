@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Thu, 16 May 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Sat, 18 May 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -21,12 +21,13 @@
       <outline text="Korben" type="rss" xmlUrl="https://korben.info/feed"/>
       <outline text="Zebulon" type="rss" xmlUrl="https://www.zebulon.fr/feed/"/>
       <outline text="Numerama" type="rss" xmlUrl="https://www.numerama.com/feed/"/>
+      <outline text="Geekzone" type="rss" xmlUrl="https://www.geekzone.fr/feed/"/>
       <outline text="IT for Business" type="rss" xmlUrl="https://www.itforbusiness.fr/feed"/>
       <outline text="Siècle Digital" type="rss" xmlUrl="https://siecledigital.fr/feed/"/>
       <outline text="Fing.org" type="rss" xmlUrl="http://feeds2.feedburner.com/fing/actu"/>
       <outline text="The Register" type="atom" xmlUrl="http://www.theregister.co.uk/headlines.atom"/>
       <outline text="Réseau">
-        <outline text="InfraNum" type="rss" xmlUrl="http://infranum.fr/feed"/>
+        <outline text="InfraNum" type="rss" xmlUrl="http://infranum.fr/feed/"/>
         <outline text="NetBlocks" type="rss" xmlUrl="https://netblocks.org/feed"/>
         <outline text="Avicca" type="rss" xmlUrl="http://www.avicca.org/rss.xml"/>
       </outline>
@@ -171,7 +172,7 @@
         <outline text="France Grilles" type="rss" xmlUrl="http://www.france-grilles.fr/fr/feed/"/>
         <outline text="CINES" type="rss" xmlUrl="https://www.cines.fr/feed/"/>
         <outline text="HPC@LR" type="rss" xmlUrl="https://hpc-lr.umontpellier.fr/feed/"/>
-        <outline text="South Green" type="rss" xmlUrl="http://www.southgreen.fr/rss.xml"/>
+        <outline text="South Green" type="rss" xmlUrl="https://southgreen.fr/rss.xml"/>
         <outline text="genotoul-bioinfo" type="rss" xmlUrl="http://bioinfo.genotoul.fr/index.php/feed/"/>
         <outline text="RAPIDS AI - Medium" type="rss" xmlUrl="https://medium.com/feed/rapids-ai"/>
       </outline>
