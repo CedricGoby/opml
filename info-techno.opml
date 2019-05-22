@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 20 May 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Wed, 22 May 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -233,12 +233,12 @@
       </outline>
       <outline text="IoT">
         <outline text="Smart Cities : Toute l'actualité sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/smart-cities/rss_full.xml"/>
+        <outline text="Objetconnecte.com" type="rss" xmlUrl="https://www.objetconnecte.com/feed/"/>
         <outline text="DZone IoT Zone" type="rss" xmlUrl="http://feeds.dzone.com/iot"/>
+        <outline text="IoT For All" type="rss" xmlUrl="https://www.iotforall.com/feed/"/>
         <outline text="Software">
           <outline text="node-red.github.io" type="atom" xmlUrl="https://nodered.org/feed.xml"/>
         </outline>
-        <outline text="IoT For All" type="rss" xmlUrl="https://www.iotforall.com/feed/"/>
-        <outline text="Objetconnecte.com" type="rss" xmlUrl="https://www.objetconnecte.com/feed/"/>
       </outline>
       <outline text="Impression 3D">
         <outline text="Primante 3D" type="rss" xmlUrl="http://www.primante3d.com/feed/"/>
