@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 22 May 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Fri, 24 May 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -426,11 +426,11 @@
           <outline text="MESR" type="rss" xmlUrl="http://www.enseignementsup-recherche.gouv.fr/rid1271/rss-toute-l-actualite-m.e.s.r.-en-un-flux.rss"/>
           <outline text="Les dernières actualités" type="rss" xmlUrl="https://www.educagri.fr/rss_actu.xml"/>
           <outline text="L'agenda" type="rss" xmlUrl="https://www.educagri.fr/rss_agenda.xml"/>
-          <outline text="Éduscol : Les ressources du site" type="rss" xmlUrl="http://eduscol.education.fr/rid272/les-ressources-du-site.rss"/>
-          <outline text="Éduscol : Toute l'actualité du site" type="rss" xmlUrl="http://eduscol.education.fr/rid271/toute-l-actualite-du-site.rss"/>
-          <outline text="Éduscol : Actualités du numérique" type="rss" xmlUrl="http://eduscol.education.fr/rid1121/actualites-du-numerique.rss"/>
-          <outline text="Éduscol : L'agenda du site" type="rss" xmlUrl="http://eduscol.education.fr/rid321/l-agenda-du-site.rss"/>
-          <outline text="Éduscol : Innover et expérimenter" type="rss" xmlUrl="http://eduscol.education.fr/rid471/innover-et-experimenter.rss"/>
+          <outline text="Éduscol : Les ressources du site" type="rss" xmlUrl="https://eduscol.education.fr/rid272/les-ressources-du-site.rss"/>
+          <outline text="Éduscol : Toute l'actualité du site" type="rss" xmlUrl="https://eduscol.education.fr/rid271/toute-l-actualite-du-site.rss"/>
+          <outline text="Éduscol : Actualités du numérique" type="rss" xmlUrl="https://eduscol.education.fr/rid1121/actualites-du-numerique.rss"/>
+          <outline text="Éduscol : L'agenda du site" type="rss" xmlUrl="https://eduscol.education.fr/rid321/l-agenda-du-site.rss"/>
+          <outline text="Éduscol : Innover et expérimenter" type="rss" xmlUrl="https://eduscol.education.fr/rid471/innover-et-experimenter.rss"/>
         </outline>
         <outline text="Mooc">
           <outline text="Derniers cours publiés sur FUN" type="rss" xmlUrl="https://www.fun-mooc.fr/cours/feed/"/>
