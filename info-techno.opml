@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 02 Jun 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Mon, 03 Jun 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -25,6 +25,7 @@
       <outline text="IT for Business" type="rss" xmlUrl="https://www.itforbusiness.fr/feed"/>
       <outline text="Siècle Digital" type="rss" xmlUrl="https://siecledigital.fr/feed/"/>
       <outline text="Fing.org" type="rss" xmlUrl="http://feeds2.feedburner.com/fing/actu"/>
+      <outline text="L'1FO : Fil d'actus transfo numérique, RGPD, IA, SSI, RV, cybersociété..." type="rss" xmlUrl="https://www.linformaticien.com/agendait/rss/3765.aspx#direvent"/>
       <outline text="The Register" type="atom" xmlUrl="http://www.theregister.co.uk/headlines.atom"/>
       <outline text="Réseau">
         <outline text="InfraNum" type="rss" xmlUrl="http://infranum.fr/feed/"/>
