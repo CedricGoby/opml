@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Thu, 20 Jun 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Fri, 21 Jun 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -129,7 +129,6 @@
       <outline text="Actualités - adullact.org" type="rss" xmlUrl="https://adullact.org/breves?format=feed&amp;type=rss"/>
       <outline text="AFUL - Communiqués et nouvelles" type="rss" xmlUrl="https://aful.org/rss"/>
       <outline text="April" type="rss" xmlUrl="https://www.april.org/fr/rss.xml"/>
-      <outline text="L'Agenda du Libre" type="rss" xmlUrl="http://www.agendadulibre.org/events.rss"/>
       <outline text="Territoire Numérique Libre" type="rss" xmlUrl="https://territoire-numerique-libre.org/feed/"/>
       <outline text="SoLibre" type="rss" xmlUrl="https://www.solibre.fr/_plugins/web/solibre/fr/filter/events/rss.xml"/>
       <outline text="Smile, le Blog des Experts" type="rss" xmlUrl="http://blog.smile.fr/rss/feed/blog"/>
@@ -247,8 +246,6 @@
         <outline text="Les Imprimantes 3D .fr" type="rss" xmlUrl="https://www.lesimprimantes3d.fr/feed/"/>
         <outline text="Centre Pro3D" type="rss" xmlUrl="https://centre-pro3d.fr/feed/"/>
         <outline text="3Dnatives" type="rss" xmlUrl="https://www.3dnatives.com/feed/"/>
-        <outline text="Les projets du FabLab - La Fabrique ENSAM" type="rss" xmlUrl="https://lafabrique.montpellier.archi.fr/rss/projects.xml"/>
-        <outline text="Les évènements du Fab Lab - La Fabrique ENSAM" type="rss" xmlUrl="https://lafabrique.montpellier.archi.fr/rss/events.xml"/>
         <outline text="Aniwaa" type="rss" xmlUrl="https://www.aniwaa.fr/feed/"/>
       </outline>
       <outline text="Capteurs et composants"/>
@@ -256,7 +253,6 @@
         <outline text="Recent research notes on PublicLab.org" type="rss" xmlUrl="https://publiclab.org/feed.rss"/>
         <outline text="Makery" type="rss" xmlUrl="http://www.makery.info/feed/"/>
         <outline text="LABSud" type="rss" xmlUrl="https://www.labsud.org/feed/"/>
-        <outline text="Le BIB : hackerspace à Montpellier" type="rss" xmlUrl="https://lebib.org/rss.xml"/>
         <outline text="RFFLabs" type="rss" xmlUrl="http://www.fablab.fr/feed/"/>
         <outline text="My Human Kit" type="rss" xmlUrl="https://myhumankit.org/feed/"/>
         <outline text="Learning Lab Network" type="rss" xmlUrl="https://www.learninglab-network.com/feed/"/>
