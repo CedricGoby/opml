@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sat, 22 Jun 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Sun, 23 Jun 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -25,7 +25,8 @@
       <outline text="IT for Business" type="rss" xmlUrl="https://www.itforbusiness.fr/feed"/>
       <outline text="Siècle Digital" type="rss" xmlUrl="https://siecledigital.fr/feed/"/>
       <outline text="Fing.org" type="rss" xmlUrl="http://feeds2.feedburner.com/fing/actu"/>
-      <outline text="Nouvel abonnement" type="rss" xmlUrl="https://www.lemagit.fr/rss/ContentSyndication.xml"/>
+      <outline text="L'1FO : Fil d'actus transfo numérique, RGPD, IA, SSI, RV, cybersociété..." type="rss" xmlUrl="https://www.linformaticien.com/agendait/rss/3765.aspx#direvent"/>
+      <outline text="Le Mag IT" type="rss" xmlUrl="https://www.lemagit.fr/rss/ContentSyndication.xml"/>
       <outline text="L'1FO : Fil d'actus transfo numérique, RGPD, IA, SSI, RV, cybersociété..." type="rss" xmlUrl="https://www.linformaticien.com/agendait/rss/3765.aspx#direvent"/>
       <outline text="The Register" type="atom" xmlUrl="http://www.theregister.co.uk/headlines.atom"/>
       <outline text="Réseau">
@@ -152,7 +153,7 @@
       <outline text="Desktop">
         <outline text="The Firefox Frontier" type="rss" xmlUrl="https://blog.mozilla.org/firefox/feed/"/>
         <outline text="Chromium Blog" type="atom" xmlUrl="https://blog.chromium.org/atom.xml"/>
-        <outline text="Geany News" type="rss" xmlUrl="https://www.geany.org/Main/HomePage?action=blogrss"/>
+        <outline text="Geany project news" type="rss" xmlUrl="https://www.geany.org/news/feed/"/>
         <outline text="LZone Blog" type="rss" xmlUrl="http://feeds.feedburner.com/LifereaBlog"/>
         <outline text="Planet Pidgin" type="rss" xmlUrl="http://planet.pidgin.im/rss20.xml"/>
         <outline text="The Document Foundation Blog" type="rss" xmlUrl="https://blog.documentfoundation.org/feed/"/>
