@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 24 Jun 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Tue, 25 Jun 2019 13:24:02 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -268,7 +268,6 @@
         <outline text="Apps &amp; Drones" type="rss" xmlUrl="http://www.apps-drones.com/rss/"/>
       </outline>
       <outline text="Domotique">
-        <outline text="Domo-blog.fr" type="rss" xmlUrl="https://www.domo-blog.fr/feed/"/>
         <outline text="Maison et Domotique" type="rss" xmlUrl="https://rss.maison-et-domotique.com/"/>
       </outline>
     </outline>
