@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 31 Jul 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Fri, 02 Aug 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -14,7 +14,7 @@
       <outline text="JDN : Derniers contenus" type="rss" xmlUrl="https://www.journaldunet.com/rss/"/>
       <outline text="ZDNet - Business et Solutions IT" type="rss" xmlUrl="https://www.zdnet.fr/feeds/rss/"/>
       <outline text="Flux toutes les actualités - 01net" type="rss" xmlUrl="https://www.01net.com/rss/info/flux-rss/flux-toutes-les-actualites/"/>
-      <outline text="Silicon 2.0" type="rss" xmlUrl="http://siliconvalley.blog.lemonde.fr/feed/"/>
+      <outline text="Pixels : Toute l&#x2019;actualité sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/pixels/rss_full.xml"/>
       <outline text="Pixels : Toute l'actualité sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/pixels/rss_full.xml"/>
       <outline text="Silicon" type="rss" xmlUrl="https://www.silicon.fr/feed"/>
       <outline text="Flux général Developpez" type="rss" xmlUrl="https://www.developpez.com/index/rss"/>
@@ -228,7 +228,7 @@
           <outline text="Raspberry Pi" type="rss" xmlUrl="https://www.raspberrypi.org/feed/"/>
           <outline text="Raspberry Pi France" type="rss" xmlUrl="https://www.raspberrypi-france.fr/feed/"/>
           <outline text="Framboise 314, le Raspberry Pi à la sauce française&#x2026;." type="rss" xmlUrl="https://feeds.feedburner.com/framboise314?format=xml"/>
-          <outline text="Raspbian-France" type="rss" xmlUrl="https://raspbian-france.fr/feed/"/>
+          <outline text="Raspbian-France" type="rss" xmlUrl="https://raspberry-pi.fr/feed/"/>
           <outline text="The MagPi Magazine" type="rss" xmlUrl="https://www.raspberrypi.org/magpi/feed/"/>
         </outline>
         <outline text="MCHobby - Le Blog" type="atom" xmlUrl="https://arduino103.blogspot.com/feeds/posts/default"/>
@@ -305,7 +305,7 @@
     </outline>
     <outline text="Sciences">
       <outline text="Actualités">
-        <outline text="Passeur de Sciences" type="rss" xmlUrl="http://passeurdesciences.blog.lemonde.fr/feed/"/>
+        <outline text="Passeur de sciences : Toute l&#x2019;actualité sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/passeurdesciences/rss_full.xml"/>
         <outline text="Science, recherche - 01net" type="rss" xmlUrl="https://www.01net.com/rss/actualites/science-recherche/"/>
         <outline text="Science + Tech - The Conversation" type="atom" xmlUrl="https://theconversation.com/fr/technologie/articles.atom"/>
       </outline>
