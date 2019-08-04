@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sat, 03 Aug 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Sun, 04 Aug 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -14,7 +14,6 @@
       <outline text="JDN : Derniers contenus" type="rss" xmlUrl="https://www.journaldunet.com/rss/"/>
       <outline text="ZDNet - Business et Solutions IT" type="rss" xmlUrl="https://www.zdnet.fr/feeds/rss/"/>
       <outline text="Flux toutes les actualités - 01net" type="rss" xmlUrl="https://www.01net.com/rss/info/flux-rss/flux-toutes-les-actualites/"/>
-      <outline text="Pixels : Toute l&#x2019;actualité sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/pixels/rss_full.xml"/>
       <outline text="Pixels : Toute l'actualité sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/pixels/rss_full.xml"/>
       <outline text="Silicon" type="rss" xmlUrl="https://www.silicon.fr/feed"/>
       <outline text="Flux général Developpez" type="rss" xmlUrl="https://www.developpez.com/index/rss"/>
