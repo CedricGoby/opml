@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 04 Aug 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Fri, 09 Aug 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -130,7 +130,7 @@
       <outline text="AFUL - Communiqués et nouvelles" type="rss" xmlUrl="https://aful.org/rss"/>
       <outline text="April" type="rss" xmlUrl="https://www.april.org/fr/rss.xml"/>
       <outline text="Territoire Numérique Libre" type="rss" xmlUrl="https://territoire-numerique-libre.org/feed/"/>
-      <outline text="SoLibre" type="rss" xmlUrl="https://www.solibre.fr/_plugins/web/solibre/fr/filter/events/rss.xml"/>
+      <outline text="SoLibre" type="rss" xmlUrl="https://www.solibre.fr/rss.xml"/>
       <outline text="Smile, le Blog des Experts" type="rss" xmlUrl="http://blog.smile.fr/rss/feed/blog"/>
       <outline text="FSF News" type="rss" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml"/>
       <outline text="Free Software Directory - New" type="rss" xmlUrl="https://directory.fsf.org/wiki/Special%3AAsk/-5B-5BSubmitted-20date%3A%3A+-5D-5D/mainlabel=/limit=50/order=descending/sort=Submitted-20date/offset=0/format=rss/searchlabel=New-20packages-20RSS-20feed/title=Free-20Software-20Directory/description=Recent-20updates-20to-20Free-20Software-20Directory-20(directory.fsf.org)"/>
@@ -281,9 +281,8 @@
     </outline>
     <outline text="SIG">
       <outline text="OSGeo-fr" type="rss" xmlUrl="https://www.osgeo.asso.fr/rss.xml"/>
-      <outline text="Forum SIG - Systèmes d'Information Géographique et Géomatique" type="rss" xmlUrl="http://www.forumsig.org/external.php?type=RSS2"/>
       <outline text="theia-land" type="rss" xmlUrl="https://www.theia-land.fr/feed/"/>
-      <outline text="Nouvel abonnement" xmlUrl="https://georezo.net/extern.php"/>
+      <outline text="Nouvel abonnement" xmlUrl="https://blog.georezo.netlaminute/tout-sur-georezo/flux/"/>
     </outline>
     <outline text="Imagerie">
       <outline text="PyImageSearch" type="rss" xmlUrl="http://feeds.feedburner.com/Pyimagesearch"/>
