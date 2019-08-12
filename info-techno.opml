@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 11 Aug 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Mon, 12 Aug 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -217,6 +217,7 @@
       <outline text="Wikifab Blog" type="rss" xmlUrl="http://blog.wikifab.org/feed/"/>
       <outline text="Hackster Blog - Medium" type="rss" xmlUrl="https://blog.hackster.io/feed"/>
       <outline text="SmartHomeBeginner" type="rss" xmlUrl="https://www.smarthomebeginner.com/feed/"/>
+      <outline text="Developer News" type="rss" xmlUrl="https://www.freecodecamp.org/news/rss/"/>
     </outline>
     <outline text="FabLab">
       <outline text="Ordinateurs mono-carte">
