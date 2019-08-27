@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 26 Aug 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Tue, 27 Aug 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -112,7 +112,7 @@
     </outline>
     <outline text="Linux">
       <outline text="LinuxFr.org : les dépêches" type="atom" xmlUrl="https://linuxfr.org/news.atom"/>
-      <outline text="Linux.com - All Content" type="rss" xmlUrl="https://www.linux.com/feeds/rss"/>
+      <outline text="Linux.com" type="rss" xmlUrl="https://www.linux.com/feed/"/>
       <outline text="Linuxtoday.com" type="rss" xmlUrl="https://feeds.feedburner.com/linuxtoday/linux"/>
       <outline text="It's FOSS" type="rss" xmlUrl="http://feeds.feedburner.com/ItsFoss"/>
       <outline text="FOSSMint: Everything About Linux and FOSS" type="rss" xmlUrl="https://www.fossmint.com/feed/"/>
