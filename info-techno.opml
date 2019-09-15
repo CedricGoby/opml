@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sat, 14 Sep 2019 13:24:02 +0200</dateCreated>
+    <dateCreated>Sun, 15 Sep 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -439,7 +439,6 @@
         <outline text="Réseaux">
           <outline text="Nouvel abonnement" type="rss" xmlUrl="http://resinfo.org/spip.php?page=backend"/>
           <outline text="RENATER" type="rss" xmlUrl="https://www.renater.fr/backend.php?id_rubrique="/>
-          <outline text="Actualités" type="rss" xmlUrl="https://www.cvt-allenvi.fr/actualites?format=feed&amp;type=rss"/>
           <outline text="Labex Cemeb" type="rss" xmlUrl="http://www.labex-cemeb.org/fr/rss.xml"/>
           <outline text="CCSD" type="rss" xmlUrl="https://www.ccsd.cnrs.fr/feed/"/>
           <outline text="Montpellier Université d&#x2019;Excellence" type="rss" xmlUrl="http://muse.edu.umontpellier.fr/feed/"/>
