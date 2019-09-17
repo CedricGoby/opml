@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 16 Sep 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Tue, 17 Sep 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -184,7 +184,7 @@
         <outline text="Dernières réutilisations" type="atom" xmlUrl="https://www.data.gouv.fr/fr/reuses/recent.atom"/>
         <outline text="Derniers jeux de données" type="atom" xmlUrl="https://www.data.gouv.fr/fr/datasets/recent.atom"/>
         <outline text="Open Data - Montpellier Méditerranée Métropole - La démarche &#xAB; Open Data &#xBB; mutualisée de Montpellier Méditerranée Métropole" type="rss" xmlUrl="https://data.montpellier3m.fr/rss.xml"/>
-        <outline text="RDA RSS" type="rss" xmlUrl="https://rd-alliance.org/rss.xml"/>
+        <outline text="RDA RSS" type="rss" xmlUrl="https://www.rd-alliance.org/rss.xml"/>
         <outline text="OpenAIRE - News" type="rss" xmlUrl="https://www.openaire.eu/news-events/feed/rss/"/>
         <outline text="Blog - Ouvrir la Science" type="rss" xmlUrl="https://www.ouvrirlascience.fr/category/blog/feed/"/>
       </outline>
