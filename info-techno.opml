@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 22 Sep 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Mon, 23 Sep 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -203,6 +203,7 @@
       <outline text="Digital Curation News" type="rss" xmlUrl="http://www.dcc.ac.uk/news/feed"/>
       <outline text="Data - The Conversation" type="atom" xmlUrl="https://theconversation.com/fr/data/articles.atom"/>
       <outline text="Réseau Qualité en Recherche" type="rss" xmlUrl="http://qualite-en-recherche.cnrs.fr/spip.php?page=backend"/>
+      <outline text="Actualites de CoopIst (Cirad)" type="rss" xmlUrl="https://coop-ist.cirad.fr/RSS/actualites.rss"/>
     </outline>
     <outline text="Commons">
       <outline text="Wikimédia France" type="rss" xmlUrl="https://www.wikimedia.fr/feed/"/>
