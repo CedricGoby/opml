@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 13 Oct 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Mon, 14 Oct 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -52,7 +52,6 @@
       <outline text="Blogs">
         <outline text="cyberland.centerblog.net - Les derniers articles publiés" type="rss" xmlUrl="http://cyberland.centerblog.net/rss.rss"/>
         <outline text="Global Security Mag Online" type="rss" xmlUrl="http://www.globalsecuritymag.fr/spip.php?page=backend"/>
-        <outline text="ITrust.fr" type="rss" xmlUrl="https://www.itrust.fr/feed/"/>
         <outline text="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"/>
         <outline text="Securelist - Information about Viruses, Hackers and Spam" type="rss" xmlUrl="https://securelist.com/feed/"/>
         <outline text="The Citizen Lab" type="rss" xmlUrl="https://citizenlab.ca/feed/"/>
