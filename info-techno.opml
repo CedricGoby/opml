@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 14 Oct 2019 13:24:01 +0200</dateCreated>
+    <dateCreated>Wed, 16 Oct 2019 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -258,7 +258,6 @@
       <outline text="Labs">
         <outline text="Recent research notes on PublicLab.org" type="rss" xmlUrl="https://publiclab.org/feed.rss"/>
         <outline text="Makery" type="rss" xmlUrl="http://www.makery.info/feed/"/>
-        <outline text="LABSud" type="rss" xmlUrl="https://www.labsud.org/feed/"/>
         <outline text="RFFLabs" type="rss" xmlUrl="http://www.fablab.fr/feed/"/>
         <outline text="My Human Kit" type="rss" xmlUrl="https://myhumankit.org/feed/"/>
         <outline text="Learning Lab Network" type="rss" xmlUrl="https://www.learninglab-network.com/feed/"/>
