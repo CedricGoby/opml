@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 28 Oct 2019 13:24:01 +0100</dateCreated>
+    <dateCreated>Tue, 29 Oct 2019 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -56,14 +56,8 @@
         <outline text="Securelist - Information about Viruses, Hackers and Spam" type="rss" xmlUrl="https://securelist.com/feed/"/>
         <outline text="The Citizen Lab" type="rss" xmlUrl="https://citizenlab.ca/feed/"/>
         <outline text="Shodan Blog" type="rss" xmlUrl="https://blog.shodan.io/rss/"/>
-        <outline text="Security - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/topics/security/feed.atom"/>
         <outline text="Sucuri Blog" type="rss" xmlUrl="https://blog.sucuri.net/feed"/>
-        <outline text="TaoSecurity" type="rss" xmlUrl="https://taosecurity.blogspot.com/feeds/posts/default?alt=rss"/>
-        <outline text="Trend Micro Simply Security" type="rss" xmlUrl="https://feeds.feedburner.com/TrendMicroSimplySecurity"/>
-        <outline text="McAfee Labs - McAfee Blogs" type="rss" xmlUrl="https://securingtomorrow.mcafee.com/category/mcafee-labs/feed/"/>
         <outline text="Mozilla Security Blog" type="rss" xmlUrl="https://blog.mozilla.org/security/feed/"/>
-        <outline text="Talos Blog" type="rss" xmlUrl="https://feeds.feedburner.com/feedburner/Talos"/>
-        <outline text="Threat Research - Cisco Blog" type="rss" xmlUrl="http://feeds.feedburner.com/CiscoBlogThreatResearch"/>
         <outline text="SANS Digital Forensics and Incident Response Blog" type="rss" xmlUrl="https://digital-forensics.sans.org/blog/feed/"/>
         <outline text="SANS Penetration Testing" type="rss" xmlUrl="https://pen-testing.sans.org/blog/feed/"/>
         <outline text="AppSec Street Fighter - SANS Institute" type="rss" xmlUrl="https://software-security.sans.org/blog/feed/"/>
@@ -90,8 +84,6 @@
       <outline text="Outils">
         <outline text="SANS Internet Storm Center, InfoCON: green" type="rss" xmlUrl="https://isc.sans.edu/rssfeed.xml"/>
         <outline text="VirusTotal Blog" type="atom" xmlUrl="https://blog.virustotal.com/feeds/posts/default"/>
-        <outline text="abuse.ch | IT-Security Blog" type="rss" xmlUrl="https://abuse.ch/rss/"/>
-        <outline text="DNS-BH - Malware Domain Blocklist by RiskAnalytics" type="rss" xmlUrl="http://www.malwaredomains.com/?feed=rss2"/>
         <outline text="Yes We Hack : Vulnerability Disclosure through Coordination" type="rss" xmlUrl="https://blog.yeswehack.com/feed/"/>
       </outline>
       <outline text="Guides">
@@ -105,7 +97,6 @@
     <outline text="Vie privée">
       <outline text="RSS - Actualité CNIL.fr" type="rss" xmlUrl="https://www.cnil.fr/fr/rss.xml"/>
       <outline text="La Quadrature du Net" type="rss" xmlUrl="https://www.laquadrature.net/en/feed/"/>
-      <outline text="Nouvel abonnement" type="rss" xmlUrl="https://exodus-privacy.eu.org/post/index.xml"/>
       <outline text="EFF Action Center" type="atom" xmlUrl="https://act.eff.org/action.atom"/>
       <outline text="Deeplinks" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml"/>
       <outline text="noyb.eu" type="rss" xmlUrl="https://noyb.eu/feed/?lang=fr"/>
@@ -185,16 +176,12 @@
         <outline text="HAL Documentation" type="rss" xmlUrl="https://doc.archives-ouvertes.fr/feed/"/>
       </outline>
       <outline text="OpenData">
-        <outline text="Dernières réutilisations" type="atom" xmlUrl="https://www.data.gouv.fr/fr/reuses/recent.atom"/>
-        <outline text="Derniers jeux de données" type="atom" xmlUrl="https://www.data.gouv.fr/fr/datasets/recent.atom"/>
-        <outline text="Open Data - Montpellier Méditerranée Métropole - La démarche &#xAB; Open Data &#xBB; mutualisée de Montpellier Méditerranée Métropole" type="rss" xmlUrl="https://data.montpellier3m.fr/rss.xml"/>
         <outline text="RDA RSS" type="rss" xmlUrl="https://www.rd-alliance.org/rss.xml"/>
         <outline text="OpenAIRE - News" type="rss" xmlUrl="https://www.openaire.eu/news-events/feed/rss/"/>
         <outline text="Blog - Ouvrir la Science" type="rss" xmlUrl="https://www.ouvrirlascience.fr/category/blog/feed/"/>
       </outline>
       <outline text="LeBigData.fr" type="rss" xmlUrl="https://www.lebigdata.fr/feed"/>
       <outline text="OpenChain" type="rss" xmlUrl="https://www.openchainproject.org/feed"/>
-      <outline text="Data - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/topics/data/feed.atom"/>
       <outline text="News" type="rss" xmlUrl="https://elixir-europe.org/feeds/news.xml"/>
       <outline text="DataCite Blog" type="atom" xmlUrl="https://blog.datacite.org/feed.xml"/>
       <outline text="The OME Blog" type="atom" xmlUrl="http://blog.openmicroscopy.org/atom.xml"/>
@@ -211,7 +198,6 @@
       <outline text="- commondata - Les données de la recherche : des communs scientifiques ?" type="rss" xmlUrl="https://commondata.fr/feed/"/>
     </outline>
     <outline text="Tutos">
-      <outline text="nixcraftcom" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrinGwmzp-LNcfvDeoBLAYQ"/>
       <outline text="nixCraft" type="rss" xmlUrl="https://www.cyberciti.biz/feed/"/>
       <outline text="Howtoforge Linux Howtos und Tutorials" type="rss" xmlUrl="https://www.howtoforge.com/feed.rss"/>
       <outline text="HowTo Wared" type="rss" xmlUrl="https://howto.wared.fr/feed/"/>
@@ -234,7 +220,7 @@
           <outline text="Raspberry Pi France" type="rss" xmlUrl="https://www.raspberrypi-france.fr/feed/"/>
           <outline text="Framboise 314, le Raspberry Pi à la sauce française&#x2026;." type="rss" xmlUrl="https://feeds.feedburner.com/framboise314?format=xml"/>
           <outline text="Raspbian-France" type="rss" xmlUrl="https://raspberry-pi.fr/feed/"/>
-          <outline text="The MagPi Magazine" type="rss" xmlUrl="https://www.raspberrypi.org/magpi/feed/"/>
+          <outline text="The MagPi Magazine" type="rss" xmlUrl="https://magpi.raspberrypi.org/feed"/>
         </outline>
         <outline text="MCHobby - Le Blog" type="atom" xmlUrl="https://arduino103.blogspot.com/feeds/posts/default"/>
       </outline>
@@ -296,7 +282,7 @@
       <outline text="DevFreeBooks" type="rss" xmlUrl="http://feeds.feedburner.com/DevFreeBooks"/>
     </outline>
     <outline text="AI">
-      <outline text="Artificial Intelligence - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/topics/ai/feed.atom"/>
+      <outline text="Artificial Intelligence - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/index.html"/>
     </outline>
     <outline text="Economie Numérique">
       <outline text="La French Tech" type="rss" xmlUrl="https://lafrenchtech.com/en/feed/"/>
@@ -342,7 +328,6 @@
         <outline text="IFFSTAR agendas" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-agenda/"/>
         <outline text="IFFSTAR Dossiers" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-dossiers/"/>
         <outline text="IRD - Toute l'actualité" type="rss" xmlUrl="https://www.ird.fr/toute-l-actualite/(view_mode)/rss"/>
-        <outline text="IRSTEA" type="rss" xmlUrl="https://www.irstea.fr/actualites-rss"/>
         <outline text="INED A la Une" type="rss" xmlUrl="http://www.ined.fr/fr/actualites/une-tout-public/flux-1/format-RRS2.0"/>
         <outline text="Salle de presse | Inserm" type="atom" xmlUrl="https://presse.inserm.fr/feed/atom/"/>
         <outline text="UMR">
@@ -400,7 +385,6 @@
         <outline text="Science Etonnante" type="rss" xmlUrl="https://sciencetonnante.wordpress.com/feed/"/>
         <outline text="Videosciences" type="rss" xmlUrl="https://www.cafe-sciences.org/videosciences/feed/"/>
         <outline text="L'Esprit Sorcier" type="rss" xmlUrl="https://www.lespritsorcier.org/feed/"/>
-        <outline text="Le blog de Florence Porcel" type="rss" xmlUrl="http://www.florenceporcel.com/feed/"/>
         <outline text="Interstices" type="rss" xmlUrl="https://interstices.info/feed/"/>
         <outline text="SciTechDaily" type="rss" xmlUrl="https://feeds.feedburner.com/scitechdaily"/>
       </outline>
@@ -427,7 +411,7 @@
       </outline>
       <outline text="Enseignement Supérieur et Recherche">
         <outline text="Administrations">
-          <outline text="MESR" type="rss" xmlUrl="http://www.enseignementsup-recherche.gouv.fr/rid1271/rss-toute-l-actualite-m.e.s.r.-en-un-flux.rss"/>
+          <outline text="MESR" type="rss" xmlUrl="https://www.enseignementsup-recherche.gouv.fr/rid1271/rss-toute-l-actualite-m.e.s.r.-en-un-flux.rss"/>
           <outline text="Les dernières actualités" type="rss" xmlUrl="https://www.educagri.fr/rss_actu.xml"/>
           <outline text="L'agenda" type="rss" xmlUrl="https://www.educagri.fr/rss_agenda.xml"/>
           <outline text="Éduscol : Les ressources du site" type="rss" xmlUrl="https://eduscol.education.fr/rid272/les-ressources-du-site.rss"/>
