@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 03 Nov 2019 13:24:01 +0100</dateCreated>
+    <dateCreated>Mon, 04 Nov 2019 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -24,9 +24,7 @@
       <outline text="IT for Business" type="rss" xmlUrl="https://www.itforbusiness.fr/feed"/>
       <outline text="Siècle Digital" type="rss" xmlUrl="https://siecledigital.fr/feed/"/>
       <outline text="Fing.org" type="rss" xmlUrl="http://feeds2.feedburner.com/fing/actu"/>
-      <outline text="L'1FO : Fil d'actus transfo numérique, RGPD, IA, SSI, RV, cybersociété..." type="rss" xmlUrl="https://www.linformaticien.com/agendait/rss/3765.aspx#direvent"/>
       <outline text="Le Mag IT" type="rss" xmlUrl="https://www.lemagit.fr/rss/ContentSyndication.xml"/>
-      <outline text="L'1FO : Fil d'actus transfo numérique, RGPD, IA, SSI, RV, cybersociété..." type="rss" xmlUrl="https://www.linformaticien.com/agendait/rss/3765.aspx#direvent"/>
       <outline text="DINSIC - Actualités" type="rss" xmlUrl="https://www.numerique.gouv.fr/feed.actualites.xml"/>
       <outline text="The Register" type="atom" xmlUrl="http://www.theregister.co.uk/headlines.atom"/>
       <outline text="Réseau">
@@ -282,10 +280,10 @@
       <outline text="DevFreeBooks" type="rss" xmlUrl="http://feeds.feedburner.com/DevFreeBooks"/>
     </outline>
     <outline text="AI">
-      <outline text="Artificial Intelligence - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/index.html"/>
+      <outline text="Artificial Intelligence - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/"/>
     </outline>
     <outline text="Economie Numérique">
-      <outline text="La French Tech" type="rss" xmlUrl="https://lafrenchtech.com/en/feed/"/>
+      <outline text="La French Tech" type="rss" xmlUrl="https://lafrenchtech.com/fr/feed/"/>
       <outline text="Toutes les actualités" type="rss" xmlUrl="https://www.entreprises.gouv.fr/rss/touteslesactualites"/>
       <outline text="Flux RSS du Portail de la DGE - Economie numérique" type="rss" xmlUrl="https://www.entreprises.gouv.fr/rss/numerique"/>
       <outline text="https://www.capital.fr : flux d'articles" type="rss" xmlUrl="https://feed.prismamediadigital.com/v1/cap/rss?sources=capital,polemik,xerfi,management,capital-avec-agence-france-presse,capital-avec-aof,capital-avec-reuters,capital-avec-optimaretraite,aeronewstv"/>
