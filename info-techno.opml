@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Tue, 17 Dec 2019 13:24:01 +0100</dateCreated>
+    <dateCreated>Thu, 19 Dec 2019 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -48,7 +48,7 @@
       </outline>
       <outline text="Blogs">
         <outline text="cyberland.centerblog.net - Les derniers articles publiés" type="rss" xmlUrl="http://cyberland.centerblog.net/rss.rss"/>
-        <outline text="Global Security Mag Online" type="rss" xmlUrl="http://www.globalsecuritymag.fr/spip.php?page=backend"/>
+        <outline text="Global Security Mag Online" type="rss" xmlUrl="https://www.globalsecuritymag.fr/spip.php?page=backend"/>
         <outline text="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"/>
         <outline text="Securelist - Information about Viruses, Hackers and Spam" type="rss" xmlUrl="https://securelist.com/feed/"/>
         <outline text="The Citizen Lab" type="rss" xmlUrl="https://citizenlab.ca/feed/"/>
@@ -71,7 +71,7 @@
         <outline text="Enigmail - News" type="rss" xmlUrl="https://www.enigmail.net/index.php/en/home/news?format=feed&amp;type=rss"/>
       </outline>
       <outline text="Sites officiels">
-        <outline text="Agence nationale de la sécurité des systèmes d'information" type="rss" xmlUrl="http://www.ssi.gouv.fr/feed/actualite/"/>
+        <outline text="Agence nationale de la sécurité des systèmes d'information" type="rss" xmlUrl="https://www.ssi.gouv.fr/feed/actualite/"/>
         <outline text="ENISA - Securing Europe's Information Society" type="rss" xmlUrl="https://www.enisa.europa.eu/front-page/RSS"/>
       </outline>
       <outline text="Secteur privé">
