@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sat, 04 Jan 2020 13:24:01 +0100</dateCreated>
+    <dateCreated>Sun, 05 Jan 2020 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -304,7 +304,7 @@
         <outline text="Les événements d'Inria Grenoble - Rhône-Alpes" type="rss" xmlUrl="https://www.inria.fr/centre/grenoble/agenda/(view_mode)/rss"/>
         <outline text="Les actualités d'Inria Lille - Nord Europe" type="rss" xmlUrl="https://www.inria.fr/centre/lille/actualites/(view_mode)/rss"/>
         <outline text="Les événements d'Inria Lille - Nord Europe" type="rss" xmlUrl="https://www.inria.fr/centre/lille/agenda/(view_mode)/rss"/>
-        <outline text="Les actualités d'Inria Nancy - Grand-Est" type="rss" xmlUrl="https://www.inria.fr/centre/nancy/actualites/(view_mode)/rss"/>
+        <outline text="Les actualités d'Inria Nancy - Grand-Est" type="rss" xmlUrl="https://www.inria.fr/fr/actualites_evenements"/>
         <outline text="Les événements d'Inria Nancy - Grand-Est" type="rss" xmlUrl="https://www.inria.fr/centre/nancy/agenda/(view_mode)/rss"/>
         <outline text="Les actualités d'Inria Paris - Rocquencourt" type="rss" xmlUrl="https://www.inria.fr/centre/paris/actualites/(view_mode)/rss"/>
         <outline text="Les événements d'Inria Paris - Rocquencourt" type="rss" xmlUrl="https://www.inria.fr/centre/paris/agenda/(view_mode)/rss"/>
