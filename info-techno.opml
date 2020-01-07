@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 06 Jan 2020 13:24:01 +0100</dateCreated>
+    <dateCreated>Tue, 07 Jan 2020 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -18,7 +18,6 @@
       <outline text="Silicon" type="rss" xmlUrl="https://www.silicon.fr/feed"/>
       <outline text="Flux général Developpez" type="rss" xmlUrl="https://www.developpez.com/index/rss"/>
       <outline text="Korben" type="rss" xmlUrl="https://korben.info/feed"/>
-      <outline text="Zebulon" type="rss" xmlUrl="https://www.zebulon.fr/feed/"/>
       <outline text="Numerama" type="rss" xmlUrl="https://www.numerama.com/feed/"/>
       <outline text="IT for Business" type="rss" xmlUrl="https://www.itforbusiness.fr/feed"/>
       <outline text="Siècle Digital" type="rss" xmlUrl="https://siecledigital.fr/feed/"/>
@@ -119,7 +118,6 @@
       <outline text="April" type="rss" xmlUrl="https://www.april.org/fr/rss.xml"/>
       <outline text="Territoire Numérique Libre" type="rss" xmlUrl="https://territoire-numerique-libre.org/feed/"/>
       <outline text="SoLibre" type="rss" xmlUrl="https://www.solibre.fr/rss.xml"/>
-      <outline text="Smile, le Blog des Experts" type="rss" xmlUrl="http://blog.smile.fr/rss/feed/blog"/>
       <outline text="FSF News" type="rss" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml"/>
       <outline text="Free Software Directory - New" type="rss" xmlUrl="https://directory.fsf.org/wiki/Special%3AAsk/-5B-5BSubmitted-20date%3A%3A+-5D-5D/mainlabel=/limit=50/order=descending/sort=Submitted-20date/offset=0/format=rss/searchlabel=New-20packages-20RSS-20feed/title=Free-20Software-20Directory/description=Recent-20updates-20to-20Free-20Software-20Directory-20(directory.fsf.org)"/>
       <outline text="Opensource.com" type="rss" xmlUrl="https://opensource.com/feed"/>
