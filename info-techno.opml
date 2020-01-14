@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 13 Jan 2020 13:24:01 +0100</dateCreated>
+    <dateCreated>Tue, 14 Jan 2020 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -262,7 +262,6 @@
       <outline text="RéSEM - Réseau des Serres Expérimentales de Montpellier - RéSEM - RéSEM" type="rss" xmlUrl="https://resem.agropolis.fr/actualites/feed/rss/news.feed"/>
       <outline text="AFIA - Informatique Agricole" type="rss" xmlUrl="https://www.informatique-agricole.org/feed/"/>
       <outline text="Open Source Seed Initiative" type="rss" xmlUrl="https://osseeds.org/feed/"/>
-      <outline text="Agri Sud-Ouest Innovation - Les idées se cultivent mieux à plusieurs !" type="rss" xmlUrl="https://www.agrisoi.fr/feed/"/>
       <outline text="Institut Convergences #DigitAg" type="rss" xmlUrl="http://www.hdigitag.fr/fr/feed/"/>
     </outline>
     <outline text="SIG">
