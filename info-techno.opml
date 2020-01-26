@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sat, 25 Jan 2020 13:24:01 +0100</dateCreated>
+    <dateCreated>Sun, 26 Jan 2020 13:24:02 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -10,7 +10,7 @@
   </head>
   <body>
     <outline text="Informatique et technologie" sortReversed="false">
-      <outline text="Toutes les actualités :" type="rss" xmlUrl="https://www.lemondeinformatique.fr/flux-rss/thematique/toutes-les-actualites/rss.xml"/>
+      <outline text="Le Monde Informatique" type="rss" xmlUrl="https://www.lemondeinformatique.fr/flux-rss/thematique/toutes-les-actualites/rss.xml"/>
       <outline text="JDN : Derniers contenus" type="rss" xmlUrl="https://www.journaldunet.com/rss/"/>
       <outline text="ZDNet - Business et Solutions IT" type="rss" xmlUrl="https://www.zdnet.fr/feeds/rss/"/>
       <outline text="Flux toutes les actualités - 01net" type="rss" xmlUrl="https://www.01net.com/rss/info/flux-rss/flux-toutes-les-actualites/"/>
@@ -175,6 +175,9 @@
         <outline text="OpenAIRE - News" type="rss" xmlUrl="https://www.openaire.eu/news-events/feed/rss/"/>
         <outline text="Blog - Ouvrir la Science" type="rss" xmlUrl="https://www.ouvrirlascience.fr/category/blog/feed/"/>
       </outline>
+      <outline text="Gestion">
+        <outline text="iRODS" type="atom" xmlUrl="https://irods.org/feeds/all.atom.xml"/>
+      </outline>
       <outline text="LeBigData.fr" type="rss" xmlUrl="https://www.lebigdata.fr/feed"/>
       <outline text="OpenChain" type="rss" xmlUrl="https://www.openchainproject.org/feed"/>
       <outline text="News" type="rss" xmlUrl="https://elixir-europe.org/feeds/news.xml"/>
@@ -200,8 +203,8 @@
       <outline text="Xonay Labs | Michael Teeuw" type="rss" xmlUrl="http://michaelteeuw.nl/rss"/>
       <outline text="Dangerous Prototypes" type="rss" xmlUrl="http://dangerousprototypes.com/blog/feed/"/>
       <outline text="Open Electronics" type="rss" xmlUrl="https://www.open-electronics.org/feed/"/>
-      <outline text="Wikifab Blog" type="rss" xmlUrl="http://blog.wikifab.org/feed/"/>
-      <outline text="Hackster Blog - Medium" type="rss" xmlUrl="https://www.hackster.io/news/feed"/>
+      <outline text="Wikifab" type="rss" xmlUrl="https://wikifab.org/w/index.php?title=Sp%C3%A9cial:Export_RDF/Accueil&amp;xmlmime=rdf"/>
+      <outline text="Hackster" type="atom" xmlUrl="https://www.hackster.io/news.atom"/>
       <outline text="SmartHomeBeginner" type="rss" xmlUrl="https://www.smarthomebeginner.com/feed/"/>
       <outline text="Developer News" type="rss" xmlUrl="https://www.freecodecamp.org/news/rss/"/>
     </outline>
@@ -293,30 +296,30 @@
         <outline text="Science + Tech - The Conversation" type="atom" xmlUrl="https://theconversation.com/fr/technologie/articles.atom"/>
       </outline>
       <outline text="EPST">
-        <outline text="Les actualités d'Inria" type="rss" xmlUrl="https://www.inria.fr/actualite/actualites-inria/%28view_mode%29/rss"/>
-        <outline text="Les événements d'Inria" type="rss" xmlUrl="https://www.inria.fr/actualite/agenda/(view_mode)/rss"/>
-        <outline text="Les actualités d'Inria Bordeaux - Sud-Ouest" type="rss" xmlUrl="https://www.inria.fr/centre/bordeaux/actualites/(view_mode)/rss"/>
-        <outline text="Les évènements d'Inria Bordeaux - Sud-Ouest" type="rss" xmlUrl="https://www.inria.fr/centre/bordeaux/agenda/(view_mode)/rss"/>
-        <outline text="Les actualités d'Inria Grenoble - Rhône-Alpes" type="rss" xmlUrl="https://www.inria.fr/centre/grenoble/actualites/(view_mode)/rss"/>
-        <outline text="Les événements d'Inria Grenoble - Rhône-Alpes" type="rss" xmlUrl="https://www.inria.fr/centre/grenoble/agenda/(view_mode)/rss"/>
-        <outline text="Les actualités d'Inria Lille - Nord Europe" type="rss" xmlUrl="https://www.inria.fr/centre/lille/actualites/(view_mode)/rss"/>
-        <outline text="Les événements d'Inria Lille - Nord Europe" type="rss" xmlUrl="https://www.inria.fr/centre/lille/agenda/(view_mode)/rss"/>
+        <outline text="Les actualités d'Inria" type="rss" xmlUrl="https://www.inria.fr/fr/actualites_evenements/(view_mode)/rss"/>
+        <outline text="Les événements d'Inria" type="rss" xmlUrl="https://www.inria.fr/fr/actualites_evenements"/>
+        <outline text="Les actualités d'Inria Bordeaux - Sud-Ouest" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/bordeaux/actualites/(view_mode)/rss"/>
+        <outline text="Les évènements d'Inria Bordeaux - Sud-Ouest" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/bordeaux/agenda/(view_mode)/rss"/>
+        <outline text="Les actualités d'Inria Grenoble - Rhône-Alpes" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/grenoble/actualites/(view_mode)/rss"/>
+        <outline text="Les événements d'Inria Grenoble - Rhône-Alpes" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/grenoble/agenda/(view_mode)/rss"/>
+        <outline text="Les actualités d'Inria Lille - Nord Europe" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/lille/actualites/(view_mode)/rss"/>
+        <outline text="Les événements d'Inria Lille - Nord Europe" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/lille/agenda/(view_mode)/rss"/>
         <outline text="Les actualités d'Inria Nancy - Grand-Est" type="rss" xmlUrl="https://www.inria.fr/fr/actualites_evenements"/>
-        <outline text="Les événements d'Inria Nancy - Grand-Est" type="rss" xmlUrl="https://www.inria.fr/centre/nancy/agenda/(view_mode)/rss"/>
-        <outline text="Les actualités d'Inria Paris - Rocquencourt" type="rss" xmlUrl="https://www.inria.fr/centre/paris/actualites/(view_mode)/rss"/>
-        <outline text="Les événements d'Inria Paris - Rocquencourt" type="rss" xmlUrl="https://www.inria.fr/centre/paris/agenda/(view_mode)/rss"/>
-        <outline text="Les actualités d'Inria Rennes - Bretagne-Atlantique" type="rss" xmlUrl="https://www.inria.fr/centre/rennes/actualites/(view_mode)/rss"/>
-        <outline text="Les événements d'Inria Rennes - Bretagne-Atlantique" type="rss" xmlUrl="https://www.inria.fr/centre/rennes/agenda/(view_mode)/rss"/>
-        <outline text="Les actualités d'Inria Saclay - Ile-de-France" type="rss" xmlUrl="https://www.inria.fr/centre/saclay/actualites/(view_mode)/rss"/>
-        <outline text="Les événements d'Inria Saclay - Ile-de-France" type="rss" xmlUrl="https://www.inria.fr/centre/saclay/agenda/(view_mode)/rss"/>
-        <outline text="Les actualités d'Inria Sophia Antipolis - Méditerranée" type="rss" xmlUrl="https://www.inria.fr/centre/sophia/actualites/(view_mode)/rss"/>
-        <outline text="Les événements d'Inria Sophia Antipolis - Méditerranée" type="rss" xmlUrl="https://www.inria.fr/centre/sophia/agenda/(view_mode)/rss"/>
+        <outline text="Les événements d'Inria Nancy - Grand-Est" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/nancy/agenda/(view_mode)/rss"/>
+        <outline text="Les actualités d'Inria Paris - Rocquencourt" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/paris/actualites/(view_mode)/rss"/>
+        <outline text="Les événements d'Inria Paris - Rocquencourt" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/paris/agenda/(view_mode)/rss"/>
+        <outline text="Les actualités d'Inria Rennes - Bretagne-Atlantique" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/rennes/actualites/(view_mode)/rss"/>
+        <outline text="Les événements d'Inria Rennes - Bretagne-Atlantique" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/rennes/agenda/(view_mode)/rss"/>
+        <outline text="Les actualités d'Inria Saclay - Ile-de-France" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/saclay/actualites/(view_mode)/rss"/>
+        <outline text="Les événements d'Inria Saclay - Ile-de-France" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/saclay/agenda/(view_mode)/rss"/>
+        <outline text="Les actualités d'Inria Sophia Antipolis - Méditerranée" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/sophia/actualites/(view_mode)/rss"/>
+        <outline text="Les événements d'Inria Sophia Antipolis - Méditerranée" type="rss" xmlUrl="https://www.inria.fr/fr/centres-de-recherche-inria/sophia/agenda/(view_mode)/rss"/>
         <outline text="Portail actualités - Evénements - FR" type="rss" xmlUrl="http://www.inra.fr/rss/feed/portail-evenements"/>
-        <outline text="Presse - Communiqués - FR" type="rss" xmlUrl="http://presse.inra.fr/rss/feed/communiques"/>
+        <outline text="Presse - Communiqués - FR" type="rss" xmlUrl="https://www.inrae.fr/presse"/>
         <outline text="Canal Chercheurs, étudiants - Actus FR" type="rss" xmlUrl="http://www.inra.fr/rss/feed/actus-science"/>
-        <outline text="Carrières et emplois - Actualités - FR" type="rss" xmlUrl="http://jobs.inra.fr/rss/feed/info"/>
-        <outline text="Carrières et emplois - Portraits et reportages - FR" type="rss" xmlUrl="http://jobs.inra.fr/rss/feed/portraits-reportages"/>
-        <outline text="Qui sommes-nous ? Temps forts - FR" type="rss" xmlUrl="http://institut.inra.fr/rss/feed/temps-forts"/>
+        <outline text="Carrières et emplois - Actualités - FR" type="rss" xmlUrl="https://jobs.inrae.fr/"/>
+        <outline text="Carrières et emplois - Portraits et reportages - FR" type="rss" xmlUrl="https://jobs.inrae.fr/"/>
+        <outline text="Qui sommes-nous ? Temps forts - FR" type="rss" xmlUrl="https://www.inrae.fr/"/>
         <outline text="Actualités du CNRS" type="rss" xmlUrl="http://www2.cnrs.fr/rss.php?id=all"/>
         <outline text="IFSTTAR" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-breves/"/>
         <outline text="IFFSTAR agendas" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-agenda/"/>
