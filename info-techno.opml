@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sat, 01 Feb 2020 13:24:01 +0100</dateCreated>
+    <dateCreated>Sun, 02 Feb 2020 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -33,12 +33,10 @@
     </outline>
     <outline text="Sécurité informatique">
       <outline text="News">
-        <outline text="01net - Sécurité" type="rss" xmlUrl="https://www.01net.com/rss/actualites/securite/"/>
-        <outline text="Data Security Breach" type="rss" xmlUrl="https://www.datasecuritybreach.fr/feed/"/>
-        <outline text="Zataz" type="rss" xmlUrl="https://www.zataz.com/feed/"/>
+        <outline text="01net" type="rss" xmlUrl="https://www.01net.com/rss/actualites/securite/"/>
         <outline text="DZone Security Zone" type="rss" xmlUrl="http://feeds.dzone.com/security"/>
         <outline text="InfoRiskToday.com  RSS Syndication" type="rss" xmlUrl="http://feeds.feedburner.com/inforisktoday/com"/>
-        <outline text="LinuxSecurity.com - Latest News" type="rss" xmlUrl="https://linuxsecurity.com/news/latest?format=feed&amp;type=rss"/>
+        <outline text="LinuxSecurity.com" type="rss" xmlUrl="https://linuxsecurity.com/linuxsecurity_articles.xml"/>
         <outline text="The Hacker News" type="rss" xmlUrl="http://feeds.feedburner.com/TheHackersNews"/>
         <outline text="SecurityWeek RSS Feed" type="rss" xmlUrl="http://feeds.feedburner.com/securityweek"/>
         <outline text="Naked Security" type="rss" xmlUrl="https://nakedsecurity.sophos.com/feed/"/>
