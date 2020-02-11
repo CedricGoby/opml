@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Mon, 10 Feb 2020 13:24:01 +0100</dateCreated>
+    <dateCreated>Tue, 11 Feb 2020 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -189,6 +189,7 @@
       <outline text="OpenStreetMap France" type="rss" xmlUrl="https://www.openstreetmap.fr/feed/"/>
     </outline>
     <outline text="Tutos">
+      <outline text="Wikifab" type="rss" xmlUrl="https://wikifab.org/w/index.php?title=Sp%C3%A9cial:Export_RDF/Accueil&amp;xmlmime=rdf"/>
       <outline text="nixCraft" type="rss" xmlUrl="https://www.cyberciti.biz/feed/"/>
       <outline text="Howtoforge Linux Howtos und Tutorials" type="rss" xmlUrl="https://www.howtoforge.com/feed.rss"/>
       <outline text="HowTo Wared" type="rss" xmlUrl="https://howto.wared.fr/feed/"/>
@@ -196,7 +197,6 @@
       <outline text="Xonay Labs | Michael Teeuw" type="rss" xmlUrl="http://michaelteeuw.nl/rss"/>
       <outline text="Dangerous Prototypes" type="rss" xmlUrl="http://dangerousprototypes.com/blog/feed/"/>
       <outline text="Open Electronics" type="rss" xmlUrl="https://www.open-electronics.org/feed/"/>
-      <outline text="Wikifab" type="rss" xmlUrl="https://wikifab.org/w/index.php?title=Sp%C3%A9cial:Export_RDF/Accueil&amp;xmlmime=rdf"/>
       <outline text="Hackster" type="atom" xmlUrl="https://www.hackster.io/news.atom"/>
       <outline text="SmartHomeBeginner" type="rss" xmlUrl="https://www.smarthomebeginner.com/feed/"/>
       <outline text="Developer News" type="rss" xmlUrl="https://www.freecodecamp.org/news/rss/"/>
