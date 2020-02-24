@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 23 Feb 2020 13:24:01 +0100</dateCreated>
+    <dateCreated>Mon, 24 Feb 2020 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -21,7 +21,7 @@
       <outline text="Numerama" type="rss" xmlUrl="https://www.numerama.com/feed/"/>
       <outline text="IT for Business" type="rss" xmlUrl="https://www.itforbusiness.fr/feed"/>
       <outline text="Siècle Digital" type="rss" xmlUrl="https://siecledigital.fr/feed/"/>
-      <outline text="Fing" type="rss" xmlUrl="http://feeds2.feedburner.com/fing/actu"/>
+      <outline text="Fing" type="rss" xmlUrl="https://fing.org/feed/"/>
       <outline text="Le Mag IT" type="rss" xmlUrl="https://www.lemagit.fr/rss/ContentSyndication.xml"/>
       <outline text="DINSIC" type="rss" xmlUrl="https://www.numerique.gouv.fr/feed.actualites.xml"/>
       <outline text="The Register" type="atom" xmlUrl="http://www.theregister.co.uk/headlines.atom"/>
@@ -54,11 +54,11 @@
         <outline text="Shodan Blog" type="rss" xmlUrl="https://blog.shodan.io/rss/"/>
         <outline text="Sucuri Blog" type="rss" xmlUrl="https://blog.sucuri.net/feed"/>
         <outline text="Mozilla Security Blog" type="rss" xmlUrl="https://blog.mozilla.org/security/feed/"/>
-        <outline text="SANS Digital Forensics and Incident Response Blog" type="rss" xmlUrl="https://digital-forensics.sans.org/blog/feed/"/>
-        <outline text="SANS Penetration Testing" type="rss" xmlUrl="https://pen-testing.sans.org/blog/feed/"/>
-        <outline text="AppSec Street Fighter - SANS Institute" type="rss" xmlUrl="https://software-security.sans.org/blog/feed/"/>
-        <outline text="SANS Industrial Control Systems Security Blog" type="rss" xmlUrl="https://ics.sans.org/blog/feed/"/>
-        <outline text="Cyber Defense" type="rss" xmlUrl="https://cyber-defense.sans.org/blog/feed/"/>
+        <outline text="SANS Digital Forensics and Incident Response Blog" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
+        <outline text="SANS Penetration Testing" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
+        <outline text="AppSec Street Fighter - SANS Institute" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
+        <outline text="SANS Industrial Control Systems Security Blog" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
+        <outline text="Cyber Defense" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
         <outline text="BleepingComputer" type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/"/>
       </outline>
       <outline text="Logiciels">
@@ -234,9 +234,9 @@
       </outline>
       <outline text="Capteurs et composants"/>
       <outline text="Labs">
-        <outline text="Recent research notes on PublicLab.org" type="rss" xmlUrl="https://publiclab.org/feed.rss"/>
         <outline text="Makery" type="rss" xmlUrl="http://www.makery.info/feed/"/>
         <outline text="RFFLabs" type="rss" xmlUrl="http://www.fablab.fr/feed/"/>
+        <outline text="Recent research notes on PublicLab.org" type="rss" xmlUrl="https://publiclab.org/feed.rss"/>
         <outline text="My Human Kit" type="rss" xmlUrl="https://myhumankit.org/feed/"/>
         <outline text="Learning Lab Network" type="rss" xmlUrl="https://www.learninglab-network.com/feed/"/>
       </outline>
