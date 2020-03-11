@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Tue, 10 Mar 2020 13:24:01 +0100</dateCreated>
+    <dateCreated>Wed, 11 Mar 2020 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -92,7 +92,7 @@
       <outline text="La Quadrature du Net" type="rss" xmlUrl="https://www.laquadrature.net/en/feed/"/>
       <outline text="EFF Action Center" type="atom" xmlUrl="https://act.eff.org/action.atom"/>
       <outline text="Deeplinks" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml"/>
-      <outline text="Noyb" type="rss" xmlUrl="https://noyb.eu/feed/"/>
+      <outline text="Noyb" type="rss" xmlUrl="https://noyb.eu/en/rss.xml"/>
     </outline>
     <outline text="Linux">
       <outline text="LinuxFr" type="atom" xmlUrl="https://linuxfr.org/news.atom"/>
@@ -146,7 +146,7 @@
         <outline text="puddletag news feed" type="rss" xmlUrl="http://docs.puddletag.net/rss.xml"/>
         <outline text="RStudio Blog" type="rss" xmlUrl="https://blog.rstudio.com/index.xml"/>
         <outline text="The R Journal" type="atom" xmlUrl="https://journal.r-project.org/rss.atom"/>
-        <outline text="Fritzing Blog" type="rss" xmlUrl="http://blog.fritzing.org/feed/"/>
+        <outline text="Fritzing Blog" type="atom" xmlUrl="https://blog.fritzing.org/feed.xml"/>
         <outline text="Taskwarrior News" type="rss" xmlUrl="https://taskwarrior.org/feed.rss"/>
       </outline>
     </outline>
