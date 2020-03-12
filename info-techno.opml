@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 11 Mar 2020 13:24:01 +0100</dateCreated>
+    <dateCreated>Thu, 12 Mar 2020 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -278,7 +278,7 @@
       <outline text="La French Tech" type="rss" xmlUrl="https://lafrenchtech.com/fr/feed/"/>
       <outline text="Toutes les actualités" type="rss" xmlUrl="https://www.entreprises.gouv.fr/rss/touteslesactualites"/>
       <outline text="Flux RSS du Portail de la DGE - Economie numérique" type="rss" xmlUrl="https://www.entreprises.gouv.fr/rss/numerique"/>
-      <outline text="https://www.capital.fr : flux d'articles" type="rss" xmlUrl="https://feed.prismamediadigital.com/v1/cap/rss?sources=capital,polemik,xerfi,management,capital-avec-agence-france-presse,capital-avec-aof,capital-avec-reuters,capital-avec-optimaretraite,aeronewstv"/>
+      <outline text="Capital" type="rss" xmlUrl="https://feed.prismamediadigital.com/v1/cap/rss?sources=capital,polemik,xerfi,management,capital-avec-agence-france-presse,capital-avec-aof,capital-avec-reuters,capital-avec-optimaretraite,aeronewstv"/>
       <outline text="Cigref" type="rss" xmlUrl="https://www.cigref.fr/feed"/>
       <outline text="L'Usine Digitale" type="rss" xmlUrl="https://www.usine-digitale.fr/rss"/>
     </outline>
