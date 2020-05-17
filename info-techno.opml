@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sat, 16 May 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Sun, 17 May 2020 13:24:02 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -189,7 +189,6 @@
       <outline text="OpenStreetMap France" type="rss" xmlUrl="https://www.openstreetmap.fr/feed/"/>
     </outline>
     <outline text="Tutos">
-      <outline text="Wikifab" type="rss" xmlUrl="https://wikifab.org/w/index.php?title=Sp%C3%A9cial:Export_RDF/Accueil&amp;xmlmime=rdf"/>
       <outline text="nixCraft" type="rss" xmlUrl="https://www.cyberciti.biz/feed/"/>
       <outline text="Howtoforge Linux Howtos und Tutorials" type="rss" xmlUrl="https://www.howtoforge.com/feed.rss"/>
       <outline text="HowTo Wared" type="rss" xmlUrl="https://howto.wared.fr/feed/"/>
@@ -220,9 +219,6 @@
         <outline text="Objet Connecté" type="rss" xmlUrl="https://www.objetconnecte.com/feed/"/>
         <outline text="DZone IoT Zone" type="rss" xmlUrl="http://feeds.dzone.com/iot"/>
         <outline text="IoT For All" type="rss" xmlUrl="https://www.iotforall.com/feed/"/>
-        <outline text="Software">
-          <outline text="node-red" type="atom" xmlUrl="https://nodered.org/feed.xml"/>
-        </outline>
       </outline>
       <outline text="Impression 3D">
         <outline text="Primante 3D" type="rss" xmlUrl="http://www.primante3d.com/feed/"/>
