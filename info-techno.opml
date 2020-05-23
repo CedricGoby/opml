@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Fri, 22 May 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Sat, 23 May 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -35,7 +35,6 @@
       <outline text="News">
         <outline text="01net" type="rss" xmlUrl="https://www.01net.com/rss/actualites/securite/"/>
         <outline text="L'1FO : Fil d'actus transfo numérique, RGPD, IA, SSI, RV, cybersociété..." type="rss" xmlUrl="https://www.linformaticien.com/DesktopModules/DnnForge%20-%20NewsArticles/Rss.aspx?TabID=58&amp;ModuleID=2214"/>
-        <outline text="@Sekurigi" type="rss" xmlUrl="https://www.sekurigi.com/feed/"/>
         <outline text="DZone Security Zone" type="rss" xmlUrl="http://feeds.dzone.com/security"/>
         <outline text="InfoRiskToday.com  RSS Syndication" type="rss" xmlUrl="http://feeds.feedburner.com/inforisktoday/com"/>
         <outline text="LinuxSecurity.com" type="rss" xmlUrl="https://linuxsecurity.com/linuxsecurity_articles.xml"/>
@@ -231,6 +230,7 @@
       <outline text="Labs">
         <outline text="Makery" type="rss" xmlUrl="http://www.makery.info/feed/"/>
         <outline text="Réseau Français des FabLabs" type="rss" xmlUrl="http://www.fablab.fr/spip.php?page=backend"/>
+        <outline text="France Tiers Lieux" type="rss" xmlUrl="https://francetierslieux.fr/feed/"/>
         <outline text="Recent research notes on PublicLab.org" type="rss" xmlUrl="https://publiclab.org/feed.rss"/>
         <outline text="My Human Kit" type="rss" xmlUrl="https://myhumankit.org/feed/"/>
         <outline text="Learning Lab Network" type="rss" xmlUrl="https://www.learninglab-network.com/feed/"/>
@@ -243,9 +243,6 @@
         <outline text="La foire du drone" type="rss" xmlUrl="https://www.lemonde.fr/la-foire-du-drone/rss_full.xml"/>
         <outline text="Apps &amp; Drones" type="rss" xmlUrl="https://www.apps-drones.com/rss"/>
       </outline>
-      <outline text="Domotique">
-        <outline text="Maison et Domotique" type="rss" xmlUrl="https://rss.maison-et-domotique.com/"/>
-      </outline>
     </outline>
     <outline text="Agrotic">
       <outline text="AgroTIC" type="rss" xmlUrl="http://www.agrotic.org/feed/"/>
@@ -256,7 +253,6 @@
       <outline text="Institut Convergences #DigitAg" type="rss" xmlUrl="http://www.hdigitag.fr/fr/feed/"/>
     </outline>
     <outline text="SIG">
-      <outline text="OSGeo-fr" type="rss" xmlUrl="https://www.osgeo.asso.fr/rss.xml"/>
       <outline text="theia-land" type="rss" xmlUrl="https://www.theia-land.fr/feed/"/>
       <outline text="La Minute GeoRezo" type="rss" xmlUrl="https://blog.georezo.net/laminute/feed/"/>
     </outline>
@@ -266,11 +262,8 @@
     <outline text="Ebooks">
       <outline text="DevFreeBooks" type="rss" xmlUrl="http://feeds.feedburner.com/DevFreeBooks"/>
     </outline>
-    <outline text="AI">
-      <outline text="Artificial Intelligence - O'Reilly Media" type="atom" xmlUrl="https://www.oreilly.com/"/>
-    </outline>
+    <outline text="AI"/>
     <outline text="Economie Numérique">
-      <outline text="La French Tech" type="rss" xmlUrl="https://lafrenchtech.com/fr/feed/"/>
       <outline text="Toutes les actualités" type="rss" xmlUrl="https://www.entreprises.gouv.fr/rss/touteslesactualites"/>
       <outline text="Flux RSS du Portail de la DGE - Economie numérique" type="rss" xmlUrl="https://www.entreprises.gouv.fr/rss/numerique"/>
       <outline text="Capital" type="rss" xmlUrl="https://feed.prismamediadigital.com/v1/cap/rss?sources=capital,polemik,xerfi,management,capital-avec-agence-france-presse,capital-avec-aof,capital-avec-reuters,capital-avec-optimaretraite,aeronewstv"/>
@@ -284,14 +277,9 @@
         <outline text="Science + Tech - The Conversation" type="atom" xmlUrl="https://theconversation.com/fr/technologie/articles.atom"/>
       </outline>
       <outline text="EPST">
-        <outline text="Les actualités d'Inria" type="rss" xmlUrl="https://www.inria.fr/fr/news_events/rss.xml"/>
+        <outline text="CNRS Le journal" type="rss" xmlUrl="https://lejournal.cnrs.fr/rss"/>
         <outline text="Portail actualités - Evénements - FR" type="rss" xmlUrl="http://www.inra.fr/rss/feed/portail-evenements"/>
-        <outline text="Presse - Communiqués - FR" type="rss" xmlUrl="https://www.inrae.fr/presse"/>
         <outline text="Canal Chercheurs, étudiants - Actus FR" type="rss" xmlUrl="http://www.inra.fr/rss/feed/actus-science"/>
-        <outline text="Carrières et emplois - Actualités - FR" type="rss" xmlUrl="https://jobs.inrae.fr/"/>
-        <outline text="Carrières et emplois - Portraits et reportages - FR" type="rss" xmlUrl="https://jobs.inrae.fr/"/>
-        <outline text="Qui sommes-nous ? Temps forts - FR" type="rss" xmlUrl="https://www.inrae.fr/"/>
-        <outline text="Actualités du CNRS" type="rss" xmlUrl="http://www2.cnrs.fr/rss.php?id=all"/>
         <outline text="IFSTTAR" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-breves/"/>
         <outline text="IFFSTAR agendas" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-agenda/"/>
         <outline text="IFFSTAR Dossiers" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-dossiers/"/>
@@ -310,9 +298,7 @@
         <outline text="CIRAD Actualités" type="rss" xmlUrl="https://www.cirad.fr/rss/cirad-actualites-news"/>
         <outline text="CIRAD Agenda" type="rss" xmlUrl="https://www.cirad.fr/rss/cirad-agenda-events"/>
         <outline text="CIRAD - Actualités / News" type="rss" xmlUrl="https://www.cirad.fr/rss/cirad-actualites-news"/>
-        <outline text="CIRAD - Actualités / News" type="rss" xmlUrl="https://www.cirad.fr/rss/cirad-actualites-news"/>
         <outline text="IFREMER Actualités" type="rss" xmlUrl="https://wwz.ifremer.fr/feed/institut_actualites"/>
-        <outline text="IFREMER Postes" type="rss" xmlUrl="https://wwz.ifremer.fr/feed/institut_postes"/>
         <outline text="IFREMER Communiqués" type="rss" xmlUrl="https://wwz.ifremer.fr/feed/institut_communiques"/>
         <outline text="INRAP" type="rss" xmlUrl="https://www.inrap.fr/rss.xml"/>
         <outline text="BRGM" type="rss" xmlUrl="http://www.brgm.fr/rss/all"/>
@@ -354,7 +340,6 @@
         <outline text="Videosciences" type="rss" xmlUrl="https://www.cafe-sciences.org/videosciences/feed/"/>
         <outline text="L'Esprit Sorcier" type="rss" xmlUrl="https://www.lespritsorcier.org/feed/"/>
         <outline text="Interstices" type="rss" xmlUrl="https://interstices.info/feed/"/>
-        <outline text="SciTechDaily" type="rss" xmlUrl="https://feeds.feedburner.com/scitechdaily"/>
       </outline>
       <outline text="Podcasts">
         <outline text="La méthode scientifique" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_14312.xml"/>
@@ -423,7 +408,7 @@
       </outline>
     </outline>
     <outline text="SECURITE" type="newsbin" cacheLimit="unlimited"/>
-    <outline text="FABLAB" type="newsbin" sortReversed="false" cacheLimit="unlimited"/>
+    <outline text="FABLAB" type="newsbin" cacheLimit="unlimited"/>
     <outline text="OPEN SOURCE" type="newsbin" sortReversed="false" cacheLimit="unlimited"/>
     <outline text="TUTOS" type="newsbin" cacheLimit="unlimited"/>
     <outline text="DIVERS" type="newsbin" cacheLimit="unlimited"/>
