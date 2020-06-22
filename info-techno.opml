@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 21 Jun 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Mon, 22 Jun 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -278,8 +278,8 @@
       </outline>
       <outline text="EPST">
         <outline text="CNRS Le journal" type="rss" xmlUrl="https://lejournal.cnrs.fr/rss"/>
-        <outline text="Portail actualités - Evénements - FR" type="rss" xmlUrl="http://www.inra.fr/rss/feed/portail-evenements"/>
-        <outline text="Canal Chercheurs, étudiants - Actus FR" type="rss" xmlUrl="http://www.inra.fr/rss/feed/actus-science"/>
+        <outline text="Portail actualités - Evénements - FR" type="rss" xmlUrl="https://www.inrae.fr/rss/feed/portail-evenements"/>
+        <outline text="Canal Chercheurs, étudiants - Actus FR" type="rss" xmlUrl="https://www.inrae.fr/rss/feed/actus-science"/>
         <outline text="IFSTTAR" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-breves/"/>
         <outline text="IFFSTAR agendas" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-agenda/"/>
         <outline text="IFFSTAR Dossiers" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-dossiers/"/>
