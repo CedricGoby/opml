@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Thu, 25 Jun 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Fri, 26 Jun 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -17,8 +17,10 @@
       <outline text="Pixels" type="rss" xmlUrl="https://www.lemonde.fr/pixels/rss_full.xml"/>
       <outline text="Silicon" type="rss" xmlUrl="https://www.silicon.fr/feed"/>
       <outline text="Developpez" type="rss" xmlUrl="https://www.developpez.com/index/rss"/>
+      <outline text="Flux Systèmes Developpez" type="rss" xmlUrl="https://systeme.developpez.com/index/rss"/>
       <outline text="Korben" type="rss" xmlUrl="https://korben.info/feed"/>
       <outline text="Numerama" type="rss" xmlUrl="https://www.numerama.com/feed/"/>
+      <outline text="Clubic.com" type="rss" xmlUrl="https://www.clubic.com/feed/news.rss"/>
       <outline text="IT for Business" type="rss" xmlUrl="https://www.itforbusiness.fr/feed"/>
       <outline text="Siècle Digital" type="rss" xmlUrl="https://siecledigital.fr/feed/"/>
       <outline text="Fing" type="rss" xmlUrl="https://fing.org/feed/"/>
@@ -94,6 +96,7 @@
     </outline>
     <outline text="Linux">
       <outline text="LinuxFr" type="atom" xmlUrl="https://linuxfr.org/news.atom"/>
+      <outline text="Flux Linux Developpez" type="rss" xmlUrl="https://linux.developpez.com/index/rss"/>
       <outline text="Linux.com" type="rss" xmlUrl="https://www.linux.com/feed/"/>
       <outline text="Linuxtoday" type="rss" xmlUrl="https://feeds.feedburner.com/linuxtoday/linux"/>
       <outline text="It's FOSS" type="rss" xmlUrl="http://feeds.feedburner.com/ItsFoss"/>
@@ -107,6 +110,7 @@
     </outline>
     <outline text="Open source">
       <outline text="TOOLinux" type="rss" xmlUrl="https://www.toolinux.com/spip.php?page=backend"/>
+      <outline text="ZDNet blogs : l-esprit-libre" type="rss" xmlUrl="https://www.zdnet.fr/blogs/l-esprit-libre/rss/"/>
       <outline text="Framablog" type="rss" xmlUrl="https://framablog.org/feed/"/>
       <outline text="Adullact" type="rss" xmlUrl="https://adullact.org/breves?format=feed&amp;type=rss"/>
       <outline text="AFUL" type="rss" xmlUrl="https://aful.org/rss"/>
@@ -118,7 +122,7 @@
       <outline text="Open Source - Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/open-source"/>
       <outline text="NoobsLab" type="rss" xmlUrl="https://feeds.feedburner.com/noobslab"/>
       <outline text="OW2" type="rss" xmlUrl="https://www.ow2.org/view/Events/Press_Releases_Rss?xpage=plain"/>
-      <outline text="Alliance for Open Media" type="rss" xmlUrl="http://aomedia.org/feed/"/>
+      <outline text="Alliance for Open Media" type="atom" xmlUrl="https://aomedia.org/feed.xml"/>
     </outline>
     <outline text="Logiciels">
       <outline text="Free Software Directory - Updates" type="rss" xmlUrl="https://directory.fsf.org/wiki/Special%3AAsk/-5B-5BLast-20review-20date%3A%3A+-5D-5D/mainlabel=/limit=50/order=descending/sort=Last-20review-20date/offset=0/format=rss/searchlabel=Recent-20updates-20RSS-20feed/title=Free-20Software-20Directory/description=Recent-20updates-20to-20Free-20Software-20Directory-20(directory.fsf.org)"/>
@@ -203,12 +207,14 @@
       <outline text="Ordinateurs mono-carte">
         <outline text="Arduino">
           <outline text="Arduino Blog" type="rss" xmlUrl="https://blog.arduino.cc/feed/"/>
+          <outline text="Flux Arduino Developpez" type="rss" xmlUrl="https://arduino.developpez.com/index/rss"/>
         </outline>
         <outline text="Raspberry">
-          <outline text="Raspberry Pi" type="rss" xmlUrl="https://www.raspberrypi.org/feed/"/>
           <outline text="Raspberry Pi France" type="rss" xmlUrl="https://www.raspberrypi-france.fr/feed/"/>
           <outline text="Framboise 314" type="rss" xmlUrl="https://feeds.feedburner.com/framboise314?format=xml"/>
           <outline text="Raspbian France" type="rss" xmlUrl="https://raspberry-pi.fr/feed/"/>
+          <outline text="Flux Raspberry Pi Developpez" type="rss" xmlUrl="https://raspberry-pi.developpez.com/index/rss"/>
+          <outline text="Raspberry Pi" type="rss" xmlUrl="https://www.raspberrypi.org/feed/"/>
           <outline text="The MagPi Magazine" type="rss" xmlUrl="https://magpi.raspberrypi.org/feed"/>
         </outline>
         <outline text="MCHobby" type="atom" xmlUrl="https://arduino103.blogspot.com/feeds/posts/default"/>
