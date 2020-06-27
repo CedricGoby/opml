@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Fri, 26 Jun 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Sat, 27 Jun 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -21,10 +21,11 @@
       <outline text="Korben" type="rss" xmlUrl="https://korben.info/feed"/>
       <outline text="Numerama" type="rss" xmlUrl="https://www.numerama.com/feed/"/>
       <outline text="Clubic.com" type="rss" xmlUrl="https://www.clubic.com/feed/news.rss"/>
+      <outline text="LeMagIT" type="rss" xmlUrl="https://www.lemagit.fr/rss/ContentSyndication.xml"/>
+      <outline text="GNT - actualités" type="rss" xmlUrl="https://www.generation-nt.com/export/rss.xml"/>
       <outline text="IT for Business" type="rss" xmlUrl="https://www.itforbusiness.fr/feed"/>
       <outline text="Siècle Digital" type="rss" xmlUrl="https://siecledigital.fr/feed/"/>
       <outline text="Fing" type="rss" xmlUrl="https://fing.org/feed/"/>
-      <outline text="Le Mag IT" type="rss" xmlUrl="https://www.lemagit.fr/rss/ContentSyndication.xml"/>
       <outline text="DINSIC" type="rss" xmlUrl="https://www.numerique.gouv.fr/feed.actualites.xml"/>
       <outline text="The Register" type="atom" xmlUrl="https://www.theregister.com/headlines.atom"/>
       <outline text="Réseau">
@@ -115,6 +116,7 @@
       <outline text="Adullact" type="rss" xmlUrl="https://adullact.org/breves?format=feed&amp;type=rss"/>
       <outline text="AFUL" type="rss" xmlUrl="https://aful.org/rss"/>
       <outline text="April" type="rss" xmlUrl="https://www.april.org/fr/rss.xml"/>
+      <outline text="Revue de presse" type="rss" xmlUrl="https://www.april.org/revue-de-presse/feed"/>
       <outline text="Territoire Numérique Libre" type="rss" xmlUrl="https://territoire-numerique-libre.org/feed/"/>
       <outline text="SoLibre" type="rss" xmlUrl="https://www.solibre.fr/rss.xml"/>
       <outline text="FSF News" type="rss" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml"/>
@@ -244,6 +246,7 @@
       <outline text="Electronique">
         <outline text="Réseau des Electroniciens du CNRS" type="rss" xmlUrl="https://www.electroniciens.cnrs.fr/feed/"/>
         <outline text="VIPress" type="rss" xmlUrl="https://vipress.net/feed/"/>
+        <outline text="Industrie Techno - Actualités A la une" type="rss" xmlUrl="https://www.industrie-techno.com/rss/"/>
       </outline>
       <outline text="Drones">
         <outline text="La foire du drone" type="rss" xmlUrl="https://www.lemonde.fr/la-foire-du-drone/rss_full.xml"/>
