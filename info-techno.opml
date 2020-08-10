@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 09 Aug 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Mon, 10 Aug 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -49,7 +49,6 @@
         <outline text="SANS ISC InfoSec News Feed" type="rss" xmlUrl="https://isc.sans.edu/rssfeed.xml"/>
       </outline>
       <outline text="Blogs">
-        <outline text="Cyberland" type="rss" xmlUrl="http://cyberland.centerblog.net/rss.rss"/>
         <outline text="Global Security Mag Online" type="rss" xmlUrl="https://www.globalsecuritymag.fr/spip.php?page=backend"/>
         <outline text="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"/>
         <outline text="Securelist - Information about Viruses, Hackers and Spam" type="rss" xmlUrl="https://securelist.com/feed/"/>
@@ -83,7 +82,6 @@
       </outline>
       <outline text="Guides">
         <outline text="ANSSI - Guides" type="rss" xmlUrl="https://www.ssi.gouv.fr/feed/guide/"/>
-        <outline text="Chiffrer.info" type="rss" xmlUrl="https://chiffrer.info/?feed=rss2"/>
       </outline>
     </outline>
     <outline text="Internet">
