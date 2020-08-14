@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 12 Aug 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Fri, 14 Aug 2020 13:24:02 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -21,6 +21,8 @@
       <outline text="Korben" type="rss" xmlUrl="https://korben.info/feed"/>
       <outline text="Numerama" type="rss" xmlUrl="https://www.numerama.com/feed/"/>
       <outline text="Clubic.com" type="rss" xmlUrl="https://www.clubic.com/feed/news.rss"/>
+      <outline text="Next INpact" type="rss" xmlUrl="https://www.nextinpact.com/rss/acces-libre.xml"/>
+      <outline text="INpact Hardware" type="rss" xmlUrl="https://www.inpact-hardware.com/rss/acces-libre.xml"/>
       <outline text="LeMagIT" type="rss" xmlUrl="https://www.lemagit.fr/rss/ContentSyndication.xml"/>
       <outline text="GNT - actualités" type="rss" xmlUrl="https://www.generation-nt.com/export/rss.xml"/>
       <outline text="IT for Business" type="rss" xmlUrl="https://www.itforbusiness.fr/feed"/>
@@ -97,6 +99,7 @@
     <outline text="Linux">
       <outline text="LinuxFr" type="atom" xmlUrl="https://linuxfr.org/news.atom"/>
       <outline text="Flux Linux Developpez" type="rss" xmlUrl="https://linux.developpez.com/index/rss"/>
+      <outline text="Linux - GinjFo" type="rss" xmlUrl="https://www.ginjfo.com/actualites/logiciels/linux/feed"/>
       <outline text="Linux.com" type="rss" xmlUrl="https://www.linux.com/feed/"/>
       <outline text="Linuxtoday" type="rss" xmlUrl="https://feeds.feedburner.com/linuxtoday/linux"/>
       <outline text="It's FOSS" type="rss" xmlUrl="http://feeds.feedburner.com/ItsFoss"/>
@@ -113,11 +116,8 @@
       <outline text="ZDNet blogs : l-esprit-libre" type="rss" xmlUrl="https://www.zdnet.fr/blogs/l-esprit-libre/rss/"/>
       <outline text="Framablog" type="rss" xmlUrl="https://framablog.org/feed/"/>
       <outline text="Adullact" type="rss" xmlUrl="https://adullact.org/breves?format=feed&amp;type=rss"/>
-      <outline text="AFUL" type="rss" xmlUrl="https://aful.org/rss"/>
       <outline text="April" type="rss" xmlUrl="https://www.april.org/fr/rss.xml"/>
       <outline text="Revue de presse" type="rss" xmlUrl="https://www.april.org/revue-de-presse/feed"/>
-      <outline text="Territoire Numérique Libre" type="rss" xmlUrl="https://territoire-numerique-libre.org/feed/"/>
-      <outline text="SoLibre" type="rss" xmlUrl="https://www.solibre.fr/rss.xml"/>
       <outline text="FSF News" type="rss" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml"/>
       <outline text="Opensource.com" type="rss" xmlUrl="https://opensource.com/feed"/>
       <outline text="Open Source - Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/open-source"/>
@@ -171,7 +171,6 @@
       </outline>
       <outline text="OpenData">
         <outline text="RD Alliance" type="rss" xmlUrl="https://www.rd-alliance.org/rss.xml"/>
-        <outline text="OpenAIRE" type="rss" xmlUrl="https://www.openaire.eu/news-events/feed/rss/"/>
         <outline text="Ouvrir la Science" type="rss" xmlUrl="https://www.ouvrirlascience.fr/category/blog/feed/"/>
       </outline>
       <outline text="Gestion">
