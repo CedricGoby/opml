@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Fri, 14 Aug 2020 13:24:02 +0200</dateCreated>
+    <dateCreated>Sat, 15 Aug 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -188,8 +188,8 @@
     </outline>
     <outline text="Commons">
       <outline text="Wikimédia France" type="rss" xmlUrl="https://www.wikimedia.fr/feed/"/>
-      <outline text="Creative Commons blog" type="rss" xmlUrl="https://creativecommons.org/blog/feed/"/>
       <outline text="OpenStreetMap France" type="rss" xmlUrl="https://www.openstreetmap.fr/feed/"/>
+      <outline text="Creative Commons blog" type="rss" xmlUrl="https://creativecommons.org/blog/feed/"/>
     </outline>
     <outline text="Tutos">
       <outline text="nixCraft" type="rss" xmlUrl="https://www.cyberciti.biz/feed/"/>
