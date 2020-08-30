@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sat, 29 Aug 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Sun, 30 Aug 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -35,7 +35,6 @@
         <outline text="NetBlocks" type="rss" xmlUrl="https://netblocks.org/feed"/>
         <outline text="Avicca" type="rss" xmlUrl="https://www.avicca.org/rss.xml"/>
       </outline>
-      <outline text="En continu" type="rss" xmlUrl="https://information.tv5monde.com/afprss/francais--journal--sci"/>
     </outline>
     <outline text="Sécurité informatique">
       <outline text="News">
@@ -105,10 +104,10 @@
       <outline text="It's FOSS" type="rss" xmlUrl="http://feeds.feedburner.com/ItsFoss"/>
       <outline text="FOSSMint" type="rss" xmlUrl="https://www.fossmint.com/feed/"/>
       <outline text="Distributions">
-        <outline text="DistroWatch" type="rss" xmlUrl="https://distrowatch.com/news/dw.xml"/>
-        <outline text="Archlinux.fr" type="rss" xmlUrl="https://archlinux.fr/feed"/>
-        <outline text="Debian News" type="rss" xmlUrl="https://www.debian.org/News/news"/>
         <outline text="Planète des utilisateurs Debian" type="rss" xmlUrl="http://planet-fr.debian.net/users/rss20.xml"/>
+        <outline text="Archlinux.fr" type="rss" xmlUrl="https://archlinux.fr/feed"/>
+        <outline text="DistroWatch" type="rss" xmlUrl="https://distrowatch.com/news/dw.xml"/>
+        <outline text="Debian News" type="rss" xmlUrl="https://www.debian.org/News/news"/>
       </outline>
     </outline>
     <outline text="Open source">
@@ -120,10 +119,10 @@
       <outline text="Revue de presse" type="rss" xmlUrl="https://www.april.org/revue-de-presse/feed"/>
       <outline text="FSF News" type="rss" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml"/>
       <outline text="Opensource.com" type="rss" xmlUrl="https://opensource.com/feed"/>
-      <outline text="Open Source - Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/open-source"/>
       <outline text="NoobsLab" type="rss" xmlUrl="https://feeds.feedburner.com/noobslab"/>
       <outline text="OW2" type="rss" xmlUrl="https://www.ow2.org/view/Events/Press_Releases_Rss?xpage=plain"/>
       <outline text="Alliance for Open Media" type="atom" xmlUrl="https://aomedia.org/feed.xml"/>
+      <outline text="Open Source Seed Initiative" type="rss" xmlUrl="https://osseeds.org/feed/"/>
     </outline>
     <outline text="Logiciels">
       <outline text="Free Software Directory - Updates" type="rss" xmlUrl="https://directory.fsf.org/wiki/Special%3AAsk/-5B-5BLast-20review-20date%3A%3A+-5D-5D/mainlabel=/limit=50/order=descending/sort=Last-20review-20date/offset=0/format=rss/searchlabel=Recent-20updates-20RSS-20feed/title=Free-20Software-20Directory/description=Recent-20updates-20to-20Free-20Software-20Directory-20(directory.fsf.org)"/>
@@ -146,7 +145,7 @@
         <outline text="FileZilla News" type="atom" xmlUrl="https://filezilla-project.org/newsfeed.php"/>
         <outline text="Remmina" type="atom" xmlUrl="https://remmina.org/feed.xml"/>
         <outline text="VideoLAN project - News feed" type="rss" xmlUrl="https://images.videolan.org/videolan-news.rss"/>
-        <outline text="puddletag news feed" type="rss" xmlUrl="http://docs.puddletag.net/rss.xml"/>
+        <outline text="puddletag news feed" type="rss" xmlUrl="https://docs.puddletag.net/rss.xml"/>
         <outline text="RStudio Blog" type="rss" xmlUrl="https://blog.rstudio.com/index.xml"/>
         <outline text="The R Journal" type="atom" xmlUrl="https://journal.r-project.org/rss.atom"/>
         <outline text="Fritzing Blog" type="atom" xmlUrl="https://blog.fritzing.org/feed.xml"/>
@@ -170,12 +169,13 @@
         <outline text="HAL Documentation" type="rss" xmlUrl="https://doc.archives-ouvertes.fr/feed/"/>
       </outline>
       <outline text="OpenData">
-        <outline text="RD Alliance" type="rss" xmlUrl="https://www.rd-alliance.org/rss.xml"/>
         <outline text="Ouvrir la Science" type="rss" xmlUrl="https://www.ouvrirlascience.fr/category/blog/feed/"/>
+        <outline text="RD Alliance" type="rss" xmlUrl="https://www.rd-alliance.org/rss.xml"/>
       </outline>
       <outline text="Gestion">
         <outline text="iRODS" type="atom" xmlUrl="https://irods.org/feeds/all.atom.xml"/>
       </outline>
+      <outline text="Réseau Qualité en Recherche" type="rss" xmlUrl="http://qualite-en-recherche.cnrs.fr/spip.php?page=backend"/>
       <outline text="Le Big Data" type="rss" xmlUrl="https://www.lebigdata.fr/feed"/>
       <outline text="OpenChain" type="rss" xmlUrl="https://www.openchainproject.org/feed"/>
       <outline text="Elixir" type="rss" xmlUrl="https://elixir-europe.org/feeds/news.xml"/>
@@ -184,7 +184,6 @@
       <outline text="DMPTool" type="rss" xmlUrl="https://blog.dmptool.org/feed/"/>
       <outline text="Digital Curation" type="rss" xmlUrl="https://www.dcc.ac.uk/news/feed"/>
       <outline text="The Conversation - Big data" type="atom" xmlUrl="https://theconversation.com/fr/topics/big-data-23298/articles.atom"/>
-      <outline text="Réseau Qualité en Recherche" type="rss" xmlUrl="http://qualite-en-recherche.cnrs.fr/spip.php?page=backend"/>
     </outline>
     <outline text="Commons">
       <outline text="Wikimédia France" type="rss" xmlUrl="https://www.wikimedia.fr/feed/"/>
@@ -244,16 +243,11 @@
         <outline text="Industrie Techno - Actualités A la une" type="rss" xmlUrl="https://www.industrie-techno.com/rss/"/>
       </outline>
       <outline text="Drones">
-        <outline text="La foire du drone" type="rss" xmlUrl="https://www.lemonde.fr/la-foire-du-drone/rss_full.xml"/>
-        <outline text="Apps &amp; Drones" type="rss" xmlUrl="https://www.apps-drones.com/rss"/>
+        <outline text="Drones : Toute l&#x2019;actualité sur Le Monde.fr." type="rss" xmlUrl="https://www.lemonde.fr/drones/rss_full.xml"/>
       </outline>
     </outline>
     <outline text="Agrotic">
       <outline text="AgroTIC" type="rss" xmlUrl="http://www.agrotic.org/feed/"/>
-      <outline text="Actualites du site Agropolis International" type="rss" xmlUrl="http://www.agropolis.fr/actualites.xml"/>
-      <outline text="RéSEM - Réseau des Serres Expérimentales de Montpellier - RéSEM - RéSEM" type="rss" xmlUrl="https://resem.agropolis.fr/actualites/feed/rss/news.feed"/>
-      <outline text="AFIA - Informatique Agricole" type="rss" xmlUrl="https://www.informatique-agricole.org/feed/"/>
-      <outline text="Open Source Seed Initiative" type="rss" xmlUrl="https://osseeds.org/feed/"/>
       <outline text="Institut Convergences #DigitAg" type="rss" xmlUrl="http://www.hdigitag.fr/fr/feed/"/>
     </outline>
     <outline text="SIG">
@@ -263,16 +257,11 @@
     <outline text="Imagerie">
       <outline text="PyImageSearch" type="rss" xmlUrl="http://feeds.feedburner.com/Pyimagesearch"/>
     </outline>
-    <outline text="Ebooks">
-      <outline text="DevFreeBooks" type="rss" xmlUrl="http://feeds.feedburner.com/DevFreeBooks"/>
-    </outline>
-    <outline text="AI"/>
     <outline text="Economie Numérique">
-      <outline text="Toutes les actualités" type="rss" xmlUrl="https://www.entreprises.gouv.fr/fr/actualites/rss.xml"/>
-      <outline text="Flux RSS du Portail de la DGE - Economie numérique" type="rss" xmlUrl="https://www.entreprises.gouv.fr/fr"/>
       <outline text="Capital" type="rss" xmlUrl="https://feed.prismamediadigital.com/v1/cap/rss?sources=capital,polemik,xerfi,management,capital-avec-agence-france-presse,capital-avec-aof,capital-avec-reuters,capital-avec-optimaretraite,aeronewstv"/>
       <outline text="Cigref" type="rss" xmlUrl="https://www.cigref.fr/feed"/>
       <outline text="L'Usine Digitale" type="rss" xmlUrl="https://www.usine-digitale.fr/rss"/>
+      <outline text="Direction générale des entreprises" type="rss" xmlUrl="https://www.entreprises.gouv.fr/fr/rss/actualites"/>
     </outline>
     <outline text="Sciences">
       <outline text="Actualités">
