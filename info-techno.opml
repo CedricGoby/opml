@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Tue, 01 Sep 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Wed, 02 Sep 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -329,7 +329,7 @@
       </outline>
       <outline text="Vulgarisation">
         <outline text="Sciences et Avenir en temps réel : accueil" type="rss" xmlUrl="https://www.sciencesetavenir.fr/rss.xml"/>
-        <outline text="Science Etonnante" type="rss" xmlUrl="https://sciencetonnante.wordpress.com/feed/"/>
+        <outline text="Science Etonnante" type="rss" xmlUrl="https://scienceetonnante.com/feed/"/>
         <outline text="Videosciences" type="rss" xmlUrl="https://www.cafe-sciences.org/videosciences/feed/"/>
         <outline text="L'Esprit Sorcier" type="rss" xmlUrl="https://www.lespritsorcier.org/feed/"/>
         <outline text="Interstices" type="rss" xmlUrl="https://interstices.info/feed/"/>
@@ -405,5 +405,6 @@
     <outline text="OPEN SOURCE" type="newsbin" sortReversed="false" cacheLimit="unlimited"/>
     <outline text="TUTOS" type="newsbin" cacheLimit="unlimited"/>
     <outline text="DIVERS" type="newsbin" cacheLimit="unlimited"/>
+    <outline text="TEST" type="newsbin"/>
   </body>
 </opml>
