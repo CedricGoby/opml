@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 09 Sep 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Thu, 10 Sep 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -117,6 +117,7 @@
       <outline text="Adullact" type="rss" xmlUrl="https://adullact.org/breves?format=feed&amp;type=rss"/>
       <outline text="April" type="rss" xmlUrl="https://www.april.org/fr/rss.xml"/>
       <outline text="Revue de presse" type="rss" xmlUrl="https://www.april.org/revue-de-presse/feed"/>
+      <outline text="Actualités du CNLL" type="rss" xmlUrl="https://cnll.fr/rss/"/>
       <outline text="FSF News" type="rss" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml"/>
       <outline text="Opensource.com" type="rss" xmlUrl="https://opensource.com/feed"/>
       <outline text="NoobsLab" type="rss" xmlUrl="https://feeds.feedburner.com/noobslab"/>
