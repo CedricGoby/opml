@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Fri, 11 Sep 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Sat, 12 Sep 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -39,7 +39,7 @@
     <outline text="Sécurité informatique">
       <outline text="News">
         <outline text="01net" type="rss" xmlUrl="https://www.01net.com/rss/actualites/securite/"/>
-        <outline text="L'1FO : Fil d'actus transfo numérique, RGPD, IA, SSI, RV, cybersociété..." type="rss" xmlUrl="https://www.linformaticien.com/DesktopModules/DnnForge%20-%20NewsArticles/Rss.aspx?TabID=58&amp;ModuleID=2214"/>
+        <outline text="L'informaticien" type="rss" xmlUrl="https://www.linformaticien.com/DesktopModules/DnnForge%20-%20NewsArticles/Rss.aspx?TabID=58&amp;ModuleID=2214"/>
         <outline text="DZone Security Zone" type="rss" xmlUrl="http://feeds.dzone.com/security"/>
         <outline text="InfoRiskToday.com  RSS Syndication" type="rss" xmlUrl="http://feeds.feedburner.com/inforisktoday/com"/>
         <outline text="LinuxSecurity.com" type="rss" xmlUrl="https://linuxsecurity.com/linuxsecurity_articles.xml"/>
