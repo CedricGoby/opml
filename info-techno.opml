@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 13 Sep 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Mon, 14 Sep 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -98,7 +98,7 @@
     <outline text="Linux">
       <outline text="LinuxFr" type="atom" xmlUrl="https://linuxfr.org/news.atom"/>
       <outline text="Flux Linux Developpez" type="rss" xmlUrl="https://linux.developpez.com/index/rss"/>
-      <outline text="Linux - GinjFo" type="rss" xmlUrl="https://www.ginjfo.com/actualites/logiciels/linux/feed"/>
+      <outline text="GinjFo - Linux" type="rss" xmlUrl="https://www.ginjfo.com/actualites/logiciels/linux/feed"/>
       <outline text="Linux.com" type="rss" xmlUrl="https://www.linux.com/feed/"/>
       <outline text="Linuxtoday" type="rss" xmlUrl="https://feeds.feedburner.com/linuxtoday/linux"/>
       <outline text="It's FOSS" type="rss" xmlUrl="http://feeds.feedburner.com/ItsFoss"/>
