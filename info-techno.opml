@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 16 Sep 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Thu, 17 Sep 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -39,37 +39,6 @@
       <outline text="News">
         <outline text="01net" type="rss" xmlUrl="https://www.01net.com/rss/actualites/securite/"/>
         <outline text="L'informaticien" type="rss" xmlUrl="https://www.linformaticien.com/DesktopModules/DnnForge%20-%20NewsArticles/Rss.aspx?TabID=58&amp;ModuleID=2214"/>
-        <outline text="DZone Security Zone" type="rss" xmlUrl="http://feeds.dzone.com/security"/>
-        <outline text="InfoRiskToday.com  RSS Syndication" type="rss" xmlUrl="http://feeds.feedburner.com/inforisktoday/com"/>
-        <outline text="LinuxSecurity.com" type="rss" xmlUrl="https://linuxsecurity.com/linuxsecurity_articles.xml"/>
-        <outline text="The Hacker News" type="rss" xmlUrl="http://feeds.feedburner.com/TheHackersNews"/>
-        <outline text="SecurityWeek RSS Feed" type="rss" xmlUrl="http://feeds.feedburner.com/securityweek"/>
-        <outline text="Naked Security" type="rss" xmlUrl="https://nakedsecurity.sophos.com/feed/"/>
-        <outline text="Network World Security" type="rss" xmlUrl="https://www.networkworld.com/category/security/index.rss"/>
-        <outline text="SANS ISC InfoSec News Feed" type="rss" xmlUrl="https://isc.sans.edu/rssfeed.xml"/>
-      </outline>
-      <outline text="Blogs">
-        <outline text="Global Security Mag Online" type="rss" xmlUrl="https://www.globalsecuritymag.fr/spip.php?page=backend"/>
-        <outline text="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"/>
-        <outline text="Securelist - Information about Viruses, Hackers and Spam" type="rss" xmlUrl="https://securelist.com/feed/"/>
-        <outline text="The Citizen Lab" type="rss" xmlUrl="https://citizenlab.ca/feed/"/>
-        <outline text="Shodan Blog" type="rss" xmlUrl="https://blog.shodan.io/rss/"/>
-        <outline text="Sucuri Blog" type="rss" xmlUrl="https://blog.sucuri.net/feed"/>
-        <outline text="Mozilla Security Blog" type="rss" xmlUrl="https://blog.mozilla.org/security/feed/"/>
-        <outline text="SANS Digital Forensics and Incident Response Blog" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
-        <outline text="SANS Penetration Testing" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
-        <outline text="AppSec Street Fighter - SANS Institute" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
-        <outline text="SANS Industrial Control Systems Security Blog" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
-        <outline text="Cyber Defense" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
-        <outline text="BleepingComputer" type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/"/>
-      </outline>
-      <outline text="Logiciels">
-        <outline text="Tails" type="rss" xmlUrl="https://tails.boum.org/news/index.en.rss"/>
-        <outline text="KeePassX" type="rss" xmlUrl="https://www.keepassx.org/feed"/>
-        <outline text="Kali Linux" type="rss" xmlUrl="https://www.kali.org/feed/"/>
-        <outline text="Let's Encrypt" type="rss" xmlUrl="https://letsencrypt.org/feed.xml"/>
-        <outline text="Namecoin" type="rss" xmlUrl="https://www.namecoin.org/feed.rss"/>
-        <outline text="Enigmail - News" type="rss" xmlUrl="https://www.enigmail.net/index.php/en/home/news?format=feed&amp;type=rss"/>
       </outline>
       <outline text="Sites officiels">
         <outline text="ANSSI" type="rss" xmlUrl="https://www.ssi.gouv.fr/feed/actualite/"/>
@@ -124,35 +93,6 @@
       <outline text="Alliance for Open Media" type="atom" xmlUrl="https://aomedia.org/feed.xml"/>
       <outline text="Open Source Seed Initiative" type="rss" xmlUrl="https://osseeds.org/feed/"/>
     </outline>
-    <outline text="Logiciels">
-      <outline text="Free Software Directory - Updates" type="rss" xmlUrl="https://directory.fsf.org/wiki/Special%3AAsk/-5B-5BLast-20review-20date%3A%3A+-5D-5D/mainlabel=/limit=50/order=descending/sort=Last-20review-20date/offset=0/format=rss/searchlabel=Recent-20updates-20RSS-20feed/title=Free-20Software-20Directory/description=Recent-20updates-20to-20Free-20Software-20Directory-20(directory.fsf.org)"/>
-      <outline text="Serveur">
-        <outline text="Fab Manager" type="rss" xmlUrl="https://www.fab-manager.com/feed/"/>
-        <outline text="Mahara Community - News - All posts" type="atom" xmlUrl="https://mahara.org/interaction/forum/atom.php?type=f&amp;id=1"/>
-        <outline text="WordPress News" type="rss" xmlUrl="https://wordpress.org/news/feed/"/>
-        <outline text="Blogs on Grafana Labs Blog" type="rss" xmlUrl="https://grafana.com/blog/blog/index.xml"/>
-        <outline text="Wekan Blog" type="rss" xmlUrl="https://blog.wekan.team/feed/index.html"/>
-        <outline text="Nextcloud" type="rss" xmlUrl="https://nextcloud.com/blog/static-feed/"/>
-      </outline>
-      <outline text="Desktop">
-        <outline text="The Firefox Frontier" type="rss" xmlUrl="https://blog.mozilla.org/firefox/feed/"/>
-        <outline text="Chromium Blog" type="atom" xmlUrl="https://blog.chromium.org/atom.xml"/>
-        <outline text="Geany project news" type="rss" xmlUrl="https://www.geany.org/news/feed/"/>
-        <outline text="LZone Blog" type="atom" xmlUrl="http://feeds.feedburner.com/LifereaBlog"/>
-        <outline text="Planet Pidgin" type="rss" xmlUrl="https://pidgin.im/post/"/>
-        <outline text="The Document Foundation Blog" type="rss" xmlUrl="https://blog.documentfoundation.org/feed/"/>
-        <outline text="GIMP" type="atom" xmlUrl="https://www.gimp.org/feeds/atom.xml"/>
-        <outline text="FileZilla News" type="atom" xmlUrl="https://filezilla-project.org/newsfeed.php"/>
-        <outline text="Remmina" type="atom" xmlUrl="https://remmina.org/feed.xml"/>
-        <outline text="VideoLAN project - News feed" type="rss" xmlUrl="https://images.videolan.org/videolan-news.rss"/>
-        <outline text="puddletag news feed" type="rss" xmlUrl="https://docs.puddletag.net/rss.xml"/>
-        <outline text="RStudio Blog" type="rss" xmlUrl="https://blog.rstudio.com/index.xml"/>
-        <outline text="The R Journal" type="atom" xmlUrl="https://journal.r-project.org/rss.atom"/>
-        <outline text="Fritzing Blog" type="atom" xmlUrl="https://blog.fritzing.org/feed.xml"/>
-        <outline text="Taskwarrior News" type="rss" xmlUrl="https://taskwarrior.org/feed.rss"/>
-      </outline>
-    </outline>
-    <outline text="Développement"/>
     <outline text="Data">
       <outline text="Calcul scientifique">
         <outline text="France Grilles" type="rss" xmlUrl="http://www.france-grilles.fr/fr/feed/"/>
@@ -218,6 +158,7 @@
           <outline text="The MagPi Magazine" type="rss" xmlUrl="https://magpi.raspberrypi.org/feed"/>
         </outline>
         <outline text="MCHobby" type="atom" xmlUrl="https://arduino103.blogspot.com/feeds/posts/default"/>
+        <outline text="Minimachines.net" type="rss" xmlUrl="https://feedpress.me/minimachines"/>
       </outline>
       <outline text="IoT">
         <outline text="Smart Cities" type="rss" xmlUrl="https://www.lemonde.fr/smart-cities/rss_full.xml"/>
@@ -270,135 +211,14 @@
         <outline text="Science, recherche - 01net" type="rss" xmlUrl="https://www.01net.com/rss/actualites/science-recherche/"/>
         <outline text="Science + Tech - The Conversation" type="atom" xmlUrl="https://theconversation.com/fr/technologie/articles.atom"/>
       </outline>
-      <outline text="EPST">
-        <outline text="CNRS Le journal" type="rss" xmlUrl="https://lejournal.cnrs.fr/rss"/>
-        <outline text="Portail actualités - Evénements - FR" type="rss" xmlUrl="https://www.inrae.fr/rss/feed/portail-evenements"/>
-        <outline text="Canal Chercheurs, étudiants - Actus FR" type="rss" xmlUrl="https://www.inrae.fr/rss/feed/actus-science"/>
-        <outline text="IFSTTAR" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-breves/"/>
-        <outline text="IFFSTAR agendas" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-agenda/"/>
-        <outline text="IFFSTAR Dossiers" type="rss" xmlUrl="http://www.ifsttar.fr/rss/ressources-en-ligne/lactualite-ifsttar/toute-lactualite/rss/flux-rss-dossiers/"/>
-        <outline text="IRD - Toute l'actualité" type="rss" xmlUrl="https://www.ird.fr/toute-l-actualite/(view_mode)/rss"/>
-        <outline text="INED A la Une" type="rss" xmlUrl="http://www.ined.fr/fr/actualites/une-tout-public/flux-1/format-RRS2.0"/>
-        <outline text="Salle de presse | Inserm" type="atom" xmlUrl="https://presse.inserm.fr/feed/atom/"/>
-        <outline text="UMR">
-          <outline text="Actualites de l'UMR Agap" type="rss" xmlUrl="https://umr-agap.cirad.fr/RSS/actualites.rss"/>
-        </outline>
-      </outline>
-      <outline text="EPIC">
-        <outline text="CINES - Evénements" type="rss" xmlUrl="https://www.cines.fr/category/evenements/feed/"/>
-        <outline text="CINES - Actualités" type="rss" xmlUrl="https://www.cines.fr/category/actualite/feed/"/>
-        <outline text="CINES - Revue de presse" type="rss" xmlUrl="https://www.cines.fr/category/revue-de-presse/feed/"/>
-        <outline text="CNES" type="rss" xmlUrl="https://cnes.fr/fr/feed"/>
-        <outline text="CIRAD Actualités" type="rss" xmlUrl="https://www.cirad.fr/rss/cirad-actualites-news"/>
-        <outline text="CIRAD Agenda" type="rss" xmlUrl="https://www.cirad.fr/rss/cirad-agenda-events"/>
-        <outline text="CIRAD - Actualités / News" type="rss" xmlUrl="https://www.cirad.fr/rss/cirad-actualites-news"/>
-        <outline text="IFREMER Actualités" type="rss" xmlUrl="https://wwz.ifremer.fr/feed/institut_actualites"/>
-        <outline text="IFREMER Communiqués" type="rss" xmlUrl="https://wwz.ifremer.fr/feed/institut_communiques"/>
-        <outline text="INRAP" type="rss" xmlUrl="https://www.inrap.fr/rss.xml"/>
-        <outline text="BRGM" type="rss" xmlUrl="http://www.brgm.fr/rss/all"/>
-        <outline text="Export RSS des offres - Seulement les offres à la une : Non" type="rss" xmlUrl="https://brgm-recrute.talent-soft.com/offre-de-emploi/flux-rss.ashx"/>
-        <outline text="BRGM | Actualité" type="rss" xmlUrl="http://www.brgm.fr/rss/actualite"/>
-        <outline text="BRGM | Evénement" type="rss" xmlUrl="http://www.brgm.fr/rss/event"/>
-        <outline text="BRGM | Publication presse" type="rss" xmlUrl="http://www.brgm.fr/rss/publication_presse"/>
-        <outline text="BRGM | Projet" type="rss" xmlUrl="http://www.brgm.fr/rss/projet"/>
-        <outline text="BRGM | www.brgm.fr | Géologie" type="rss" xmlUrl="http://www.brgm.fr/rss/all/85"/>
-        <outline text="BRGM | www.brgm.fr | Ressources minérales" type="rss" xmlUrl="http://www.brgm.fr/rss/all/88"/>
-        <outline text="BRGM | www.brgm.fr | Géothermie" type="rss" xmlUrl="http://www.brgm.fr/rss/all/86"/>
-        <outline text="BRGM | www.brgm.fr | Stockage géologique du CO2" type="rss" xmlUrl="http://www.brgm.fr/rss/all/92"/>
-        <outline text="BRGM | www.brgm.fr | Risques" type="rss" xmlUrl="http://www.brgm.fr/rss/all/89"/>
-        <outline text="BRGM | www.brgm.fr | Après-mine" type="rss" xmlUrl="http://www.brgm.fr/rss/all/78"/>
-        <outline text="BRGM | www.brgm.fr | Eau" type="rss" xmlUrl="http://www.brgm.fr/rss/all/24"/>
-        <outline text="BRGM | www.brgm.fr | Environnement et écotechnologies" type="rss" xmlUrl="http://www.brgm.fr/rss/all/91"/>
-        <outline text="BRGM | www.brgm.fr | Laboratoires et expérimentation" type="rss" xmlUrl="http://www.brgm.fr/rss/all/87"/>
-        <outline text="BRGM | www.brgm.fr | Systèmes d'information" type="rss" xmlUrl="http://www.brgm.fr/rss/all/93"/>
-        <outline text="BRGM | Emploi" type="rss" xmlUrl="https://brgm-recrute.talent-soft.com/offre-de-emploi/flux-rss.ashx"/>
-        <outline text="CEA - Dernières actualités scientifique" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=9&amp;wid=g_28aebe78_981c_4b25_8436_c0bef19229fa"/>
-        <outline text="CEA - Actualités énergie" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=80&amp;wid=g_d2c5ddbb_db00_4325_8d06_b30ea9e97379"/>
-        <outline text="CEA - Actualités santé &amp; sciences du vivant" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=83&amp;wid=g_0b083ed6_b389_4ac2_ace4_5c2817979576"/>
-        <outline text="CEA - Actualités environnement" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=81&amp;wid=g_c7a03ef1_dcf0_46d7_8139_03d2789695e2"/>
-        <outline text="CEA - Actualités matière &amp; univers" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=84&amp;wid=g_7cfbb9de_b3b4_41f9_8e37_cc73e0411959"/>
-        <outline text="CEA - Actualités nouvelles technologies" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=82&amp;wid=g_ccbdd940_92ea_41f6_aa42_5e7c8061bc0b"/>
-        <outline text="CEA - Actualités défense &amp; sécurité" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=71&amp;wid=g_2e0e65f3_78d5_4330_b89b_f633be32d40f"/>
-        <outline text="CEA - Actualités Saclay" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=148&amp;wid=g_b86b53e2_fba2_42f4_9c75_f49d94069ffd"/>
-        <outline text="CEA - Actualités Cadarache" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=148&amp;wid=g_a18a8dfc_d309_4041_81ec_683ad7dd6d62"/>
-        <outline text="CEA - Actualités Fontenay-aux-Roses" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=148&amp;wid=g_41e6fbb3_fc6a_4d7b_9a3e_fa3f054216ee"/>
-        <outline text="CEA - Actualités Grenoble" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=148&amp;wid=g_bcaf896d_a6d3_4038_929b_4c453372700e"/>
-        <outline text="CEA - Actualités Marcoule" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=148&amp;wid=g_e7ee9f14_0337_496d_b450_5d73b3d432c2"/>
-        <outline text="CEA - Actualités des centres de la direction des applications militaires" type="rss" xmlUrl="http://le-fil-science.cea.fr/actualites-scientifiques/_layouts/15/i2i/web/ceasrchrss.ashx?pid=148&amp;wid=g_7dbca0d4_36f2_47b0_89d5_aba98e6a8944"/>
-        <outline text="Actualités" type="rss" xmlUrl="https://www.onera.fr/fr/actualites/feed.rss"/>
-        <outline text="Agenda" type="rss" xmlUrl="https://www.onera.fr/fr/agenda/feed.rss"/>
-      </outline>
       <outline text="Vulgarisation">
         <outline text="Sciences et Avenir en temps réel : accueil" type="rss" xmlUrl="https://www.sciencesetavenir.fr/rss.xml"/>
-        <outline text="Science Etonnante" type="rss" xmlUrl="https://scienceetonnante.com/feed/"/>
-        <outline text="Videosciences" type="rss" xmlUrl="https://www.cafe-sciences.org/videosciences/feed/"/>
-        <outline text="L'Esprit Sorcier" type="rss" xmlUrl="https://www.lespritsorcier.org/feed/"/>
         <outline text="Interstices" type="rss" xmlUrl="https://interstices.info/feed/"/>
       </outline>
-      <outline text="Podcasts">
-        <outline text="La méthode scientifique" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_14312.xml"/>
-        <outline text="Carbone 14, le magazine de l'archéologie" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_10267.xml"/>
-        <outline text="Les cours du Collège de France" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_11921.xml"/>
-        <outline text="La conversation scientifique" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_13957.xml"/>
-        <outline text="La tête au carré" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_10212.xml"/>
-        <outline text="Les Savanturiers" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_12097.xml"/>
-        <outline text="Podcast Science" type="rss" xmlUrl="http://feeds.feedburner.com/PodcastScience"/>
-        <outline text="Les années lumière" type="rss" xmlUrl="http://feeds.feedburner.com/lesanneeslumiere"/>
-        <outline text="Espace des sciences" type="rss" xmlUrl="https://www.espace-sciences.org/rss/eds"/>
-      </outline>
-      <outline text="Podcasts vidéo">
-        <outline text="ScienceEtonnante" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaNlbnghtwlsGF-KzAFThqA"/>
-        <outline text="e-penser" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcziTK2NKeWtWQ6kB5tmQ8Q"/>
-        <outline text="Mickaël Launay" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4PasDd25MXqlXBogBw9CAg"/>
-        <outline text="DirtyBiology" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtqICqGbPSbTN09K1_7VZ3Q"/>
-        <outline text="Biologie Tout Compris" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9JQQll_r5k1O_Y18ymTp4g"/>
-        <outline text="Florence Porcel" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9HapjjoLqdDNwKEWQRaiyA"/>
-        <outline text="Espace des sciences" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClDk0iyj99stPxD9NQUaVSQ"/>
-        <outline text="École normale supérieure" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbn8O8WwMeoZsPRxgumfvAQ"/>
-      </outline>
       <outline text="Enseignement Supérieur et Recherche">
-        <outline text="Administrations">
-          <outline text="MESR" type="rss" xmlUrl="https://www.enseignementsup-recherche.gouv.fr/rid1271/rss-toute-l-actualite-m.e.s.r.-en-un-flux.rss"/>
-          <outline text="Les dernières actualités" type="rss" xmlUrl="https://www.educagri.fr/rss_actu.xml"/>
-          <outline text="L'agenda" type="rss" xmlUrl="https://www.educagri.fr/rss_agenda.xml"/>
-          <outline text="Éduscol : Les ressources du site" type="rss" xmlUrl="https://eduscol.education.fr/rid272/les-ressources-du-site.rss"/>
-          <outline text="Éduscol : Toute l'actualité du site" type="rss" xmlUrl="https://eduscol.education.fr/rid271/toute-l-actualite-du-site.rss"/>
-          <outline text="Éduscol : Actualités du numérique" type="rss" xmlUrl="https://eduscol.education.fr/rid1121/actualites-du-numerique.rss"/>
-          <outline text="Éduscol : L'agenda du site" type="rss" xmlUrl="https://eduscol.education.fr/rid321/l-agenda-du-site.rss"/>
-          <outline text="Éduscol : Innover et expérimenter" type="rss" xmlUrl="https://eduscol.education.fr/rid471/innover-et-experimenter.rss"/>
-        </outline>
         <outline text="Mooc">
           <outline text="Derniers cours publiés sur FUN" type="rss" xmlUrl="https://www.fun-mooc.fr/cours/feed/"/>
         </outline>
-        <outline text="Recrutement"/>
-        <outline text="Réseaux">
-          <outline text="Resinfo" type="rss" xmlUrl="http://resinfo.org/spip.php?page=backend"/>
-          <outline text="Labex Cemeb" type="rss" xmlUrl="http://www.labex-cemeb.org/fr/rss.xml"/>
-          <outline text="CCSD" type="rss" xmlUrl="https://www.ccsd.cnrs.fr/feed/"/>
-          <outline text="Montpellier Université d&#x2019;Excellence" type="rss" xmlUrl="http://muse.edu.umontpellier.fr/feed/"/>
-        </outline>
-      </outline>
-      <outline text="Innovation">
-        <outline text="rss" type="rss" xmlUrl="http://www.transferts-lr.org/rss.xml"/>
-      </outline>
-    </outline>
-    <outline text="Alertes">
-      <outline text="Sécurité informatique">
-        <outline text="Snort Blog" type="rss" xmlUrl="http://feeds.feedburner.com/Snort"/>
-        <outline text="HACKMAGEDDON" type="rss" xmlUrl="https://www.hackmageddon.com/feed/"/>
-        <outline text="CYBERCRiME-TRACKER.NET" type="rss" xmlUrl="http://cybercrime-tracker.net/rss.xml"/>
-        <outline text="Les derniers documents du CERT-FR." type="rss" xmlUrl="https://www.cert.ssi.gouv.fr/feed/"/>
-        <outline text="Latest Security Advisories" type="rss" xmlUrl="https://technet.microsoft.com/en-us/security/rss/advisory"/>
-        <outline text="Exploit-DB Updates" type="rss" xmlUrl="https://www.exploit-db.com/rss.xml"/>
-        <outline text="SecuriTeam" type="rss" xmlUrl="https://securiteam.com/feed/"/>
-        <outline text="National Vulnerability Database" type="rss" xmlUrl="https://nvd.nist.gov/download/nvd-rss.xml"/>
-        <outline text="SecurityFocus Vulnerabilities" type="rss" xmlUrl="http://www.securityfocus.com/rss/vulnerabilities.xml"/>
-        <outline text="Full Disclosure" type="rss" xmlUrl="https://seclists.org/rss/fulldisclosure.rss"/>
-        <outline text="Threatpost | Vulnerabilities" type="rss" xmlUrl="https://threatpost.com/category/vulnerabilities/feed/"/>
-        <outline text="Threatpost | Web security" type="rss" xmlUrl="https://threatpost.com/category/web-security/feed/"/>
-        <outline text="LinuxSecurity.com - Security Advisories" type="rss" xmlUrl="https://linuxsecurity.com/advisories/archlinux?format=feed&amp;type=rss"/>
-        <outline text="US-CERT Alerts" type="rss" xmlUrl="https://www.us-cert.gov/ncas/alerts.xml"/>
-        <outline text="Portail Sécurité des Systèmes d'Information" type="rss" xmlUrl="https://services.renater.fr/ssi/feed.php"/>
       </outline>
     </outline>
     <outline text="SECURITE" type="newsbin" cacheLimit="unlimited"/>
