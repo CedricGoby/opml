@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Fri, 18 Sep 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Sat, 19 Sep 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -43,11 +43,6 @@
       <outline text="Sites officiels">
         <outline text="ANSSI" type="rss" xmlUrl="https://www.ssi.gouv.fr/feed/actualite/"/>
         <outline text="ENISA" type="rss" xmlUrl="https://www.enisa.europa.eu/front-page/RSS"/>
-      </outline>
-      <outline text="Outils">
-        <outline text="Internet Storm Center" type="rss" xmlUrl="https://isc.sans.edu/rssfeed.xml"/>
-        <outline text="VirusTotal Blog" type="atom" xmlUrl="https://blog.virustotal.com/feeds/posts/default"/>
-        <outline text="Yes We Hack" type="rss" xmlUrl="https://blog.yeswehack.com/feed/"/>
       </outline>
       <outline text="Guides">
         <outline text="ANSSI - Guides" type="rss" xmlUrl="https://www.ssi.gouv.fr/feed/guide/"/>
@@ -164,7 +159,7 @@
         <outline text="Smart Cities" type="rss" xmlUrl="https://www.lemonde.fr/smart-cities/rss_full.xml"/>
         <outline text="Objet Connecté" type="rss" xmlUrl="https://www.objetconnecte.com/feed/"/>
         <outline text="DZone IoT Zone" type="rss" xmlUrl="http://feeds.dzone.com/iot"/>
-        <outline text="IoT For All" type="rss" xmlUrl="https://www.iotforall.com/feed/"/>
+        <outline text="IoT For All" type="rss" xmlUrl="https://www.iotforall.com/feed"/>
       </outline>
       <outline text="Impression 3D">
         <outline text="Primante 3D" type="rss" xmlUrl="http://www.primante3d.com/feed/"/>
