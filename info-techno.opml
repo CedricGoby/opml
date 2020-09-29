@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 27 Sep 2020 13:24:01 +0200</dateCreated>
+    <dateCreated>Tue, 29 Sep 2020 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -166,7 +166,6 @@
         <outline text="Les Imprimantes 3D" type="rss" xmlUrl="https://www.lesimprimantes3d.fr/feed/"/>
         <outline text="3Dnatives" type="rss" xmlUrl="https://www.3dnatives.com/feed/"/>
       </outline>
-      <outline text="Capteurs et composants"/>
       <outline text="Labs">
         <outline text="Makery" type="rss" xmlUrl="http://www.makery.info/feed/"/>
         <outline text="Réseau Français des FabLabs" type="rss" xmlUrl="http://www.fablab.fr/spip.php?page=backend"/>
