@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 25 Nov 2020 13:24:01 +0100</dateCreated>
+    <dateCreated>Thu, 26 Nov 2020 13:24:02 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -136,10 +136,6 @@
     <outline text="Agrotic">
       <outline text="AgroTIC" type="rss" xmlUrl="http://www.agrotic.org/feed/"/>
       <outline text="Institut Convergences #DigitAg" type="rss" xmlUrl="http://www.hdigitag.fr/fr/feed/"/>
-    </outline>
-    <outline text="SIG">
-      <outline text="theia-land" type="rss" xmlUrl="https://www.theia-land.fr/feed/"/>
-      <outline text="La Minute GeoRezo" type="rss" xmlUrl="https://blog.georezo.net/laminute/feed/"/>
     </outline>
     <outline text="Economie Numérique">
       <outline text="Capital" type="rss" xmlUrl="https://feed.prismamediadigital.com/v1/cap/rss?sources=capital,polemik,xerfi,management,capital-avec-agence-france-presse,capital-avec-aof,capital-avec-reuters,capital-avec-optimaretraite,aeronewstv"/>
