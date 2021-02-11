@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 10 Feb 2021 13:24:01 +0100</dateCreated>
+    <dateCreated>Thu, 11 Feb 2021 13:24:01 +0100</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -58,7 +58,7 @@
       <outline text="Flux Linux Developpez" type="rss" xmlUrl="https://linux.developpez.com/index/rss"/>
       <outline text="GinjFo - Linux" type="rss" xmlUrl="https://www.ginjfo.com/actualites/logiciels/linux/feed"/>
       <outline text="Distributions">
-        <outline text="Planète des utilisateurs Debian" type="rss" xmlUrl="http://planet-fr.debian.net/users/rss20.xml"/>
+        <outline text="Planet Debian French" type="rss" xmlUrl="https://planet.debian.org/fr/rss10.xml"/>
         <outline text="Archlinux.fr" type="rss" xmlUrl="https://archlinux.fr/feed"/>
       </outline>
     </outline>
