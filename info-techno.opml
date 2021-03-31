@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Tue, 30 Mar 2021 13:24:01 +0200</dateCreated>
+    <dateCreated>Wed, 31 Mar 2021 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -146,6 +146,7 @@
       <outline text="Cigref" type="rss" xmlUrl="https://www.cigref.fr/feed"/>
       <outline text="L'Usine Digitale" type="rss" xmlUrl="https://www.usine-digitale.fr/rss"/>
       <outline text="Direction générale des entreprises" type="rss" xmlUrl="https://www.entreprises.gouv.fr/fr/rss/actualites"/>
+      <outline text="Digital113" type="rss" xmlUrl="https://www.digital113.fr/feed/"/>
     </outline>
     <outline text="Mooc">
       <outline text="Derniers cours publiés sur FUN" type="rss" xmlUrl="https://www.fun-mooc.fr/cours/feed/"/>
