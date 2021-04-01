@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Wed, 31 Mar 2021 13:24:01 +0200</dateCreated>
+    <dateCreated>Thu, 01 Apr 2021 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -16,8 +16,6 @@
       <outline text="ZDNet" type="rss" xmlUrl="https://www.zdnet.fr/feeds/rss/"/>
       <outline text="01net" type="rss" xmlUrl="https://www.01net.com/rss/info/flux-rss/flux-toutes-les-actualites/"/>
       <outline text="Pixels" type="rss" xmlUrl="https://www.lemonde.fr/pixels/rss_full.xml"/>
-      <outline text="Developpez" type="rss" xmlUrl="https://www.developpez.com/index/rss"/>
-      <outline text="Flux Systèmes Developpez" type="rss" xmlUrl="https://systeme.developpez.com/index/rss"/>
       <outline text="Korben" type="rss" xmlUrl="https://korben.info/feed"/>
       <outline text="Numerama" type="rss" xmlUrl="https://www.numerama.com/feed/"/>
       <outline text="Clubic.com" type="rss" xmlUrl="https://www.clubic.com/feed/news.rss"/>
@@ -70,10 +68,7 @@
       <outline text="Framablog" type="rss" xmlUrl="https://framablog.org/feed/"/>
       <outline text="Adullact" type="rss" xmlUrl="https://adullact.org/breves?format=feed&amp;type=rss"/>
       <outline text="April" type="rss" xmlUrl="https://www.april.org/fr/rss.xml"/>
-      <outline text="Revue de presse" type="rss" xmlUrl="https://www.april.org/revue-de-presse/feed"/>
       <outline text="Actualités du CNLL" type="rss" xmlUrl="https://cnll.fr/rss/"/>
-      <outline text="OW2" type="rss" xmlUrl="https://www.ow2.org/view/Events/Press_Releases_Rss?xpage=plain"/>
-      <outline text="Le Courrier du hacker - archives" type="rss" xmlUrl="https://lecourrierduhacker.com/rss.xml"/>
     </outline>
     <outline text="Data">
       <outline text="Calcul scientifique">
@@ -101,7 +96,6 @@
       <outline text="Ordinateurs mono-carte">
         <outline text="Arduino">
           <outline text="arduiblog" type="rss" xmlUrl="https://arduiblog.com/feed/"/>
-          <outline text="Flux Arduino Developpez" type="rss" xmlUrl="https://arduino.developpez.com/index/rss"/>
         </outline>
         <outline text="Raspberry">
           <outline text="Raspberry Pi France" type="rss" xmlUrl="https://www.raspberrypi-france.fr/feed/"/>
@@ -126,7 +120,6 @@
         <outline text="Makery" type="rss" xmlUrl="http://www.makery.info/feed/"/>
         <outline text="Réseau Français des FabLabs" type="rss" xmlUrl="http://www.fablab.fr/spip.php?page=backend"/>
         <outline text="France Tiers Lieux" type="rss" xmlUrl="https://francetierslieux.fr/feed/"/>
-        <outline text="My Human Kit" type="rss" xmlUrl="https://myhumankit.org/feed/"/>
       </outline>
       <outline text="Electronique">
         <outline text="Réseau des Electroniciens du CNRS" type="rss" xmlUrl="https://www.electroniciens.cnrs.fr/feed/"/>
@@ -165,7 +158,6 @@
     </outline>
     <outline text="Divers">
       <outline text="Usbek &amp; Rica" type="rss" xmlUrl="https://usbeketrica.com/fr/rss"/>
-      <outline text="Toute l'actualité" type="rss" xmlUrl="https://www.lagazettedescommunes.com/rubriques/actualite/feed/"/>
     </outline>
     <outline text="English">
       <outline text="Privacy">
