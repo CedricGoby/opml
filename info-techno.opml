@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Fri, 07 May 2021 13:24:01 +0200</dateCreated>
+    <dateCreated>Sat, 08 May 2021 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -28,7 +28,7 @@
       <outline text="Fing" type="rss" xmlUrl="https://fing.org/feed/"/>
       <outline text="DINSIC" type="rss" xmlUrl="https://www.numerique.gouv.fr/feed.actualites.xml"/>
       <outline text="Réseau">
-        <outline text="InfraNum" type="rss" xmlUrl="http://infranum.fr/feed/"/>
+        <outline text="InfraNum" type="rss" xmlUrl="https://infranum.fr/feed/"/>
         <outline text="NetBlocks" type="rss" xmlUrl="https://netblocks.org/feed"/>
         <outline text="Avicca" type="rss" xmlUrl="https://www.avicca.org/rss.xml"/>
       </outline>
@@ -81,8 +81,9 @@
       <outline text="Diffusion et archivage">
         <outline text="HAL Documentation" type="rss" xmlUrl="https://doc.archives-ouvertes.fr/feed/"/>
       </outline>
-      <outline text="OpenData">
+      <outline text="OpenScience">
         <outline text="Ouvrir la Science" type="rss" xmlUrl="https://www.ouvrirlascience.fr/category/blog/feed/"/>
+        <outline text="Open science : évolutions, enjeux et pratiques" type="rss" xmlUrl="https://openscience.pasteur.fr/feed/"/>
       </outline>
       <outline text="Réseau Qualité en Recherche" type="rss" xmlUrl="http://qualite-en-recherche.cnrs.fr/spip.php?page=backend"/>
       <outline text="Le Big Data" type="rss" xmlUrl="https://www.lebigdata.fr/feed"/>
