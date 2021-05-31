@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>SimpleOPML List Export</title>
-    <dateCreated>Sun, 30 May 2021 13:24:01 +0200</dateCreated>
+    <dateCreated>Mon, 31 May 2021 13:24:01 +0200</dateCreated>
     <ownerName>Cédric Goby</ownerName>
     <ownerEmail>cedric.goby@inra.fr</ownerEmail>
     <ownerId>https://gitlab.com/CedricGoby/opml</ownerId>
@@ -151,11 +151,11 @@
         <outline text="Science, recherche - 01net" type="rss" xmlUrl="https://www.01net.com/rss/actualites/science-recherche/"/>
         <outline text="Science + Tech - The Conversation" type="atom" xmlUrl="https://theconversation.com/fr/technologie/articles.atom"/>
       </outline>
+      <outline text="Enseignement Supérieur et Recherche"/>
       <outline text="Vulgarisation">
         <outline text="Sciences et Avenir en temps réel : accueil" type="rss" xmlUrl="https://www.sciencesetavenir.fr/rss.xml"/>
         <outline text="Interstices" type="rss" xmlUrl="https://interstices.info/feed/"/>
       </outline>
-      <outline text="Enseignement Supérieur et Recherche"/>
     </outline>
     <outline text="Divers">
       <outline text="Usbek &amp; Rica" type="rss" xmlUrl="https://usbeketrica.com/fr/rss"/>
